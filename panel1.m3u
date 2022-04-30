@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0, BeIN SPORT 1 HD
+http://5.255.94.250:25461/live/ztv/Mast3r/573.ts
+#EXTINF:0, BeIN SPORT 1 HD
+http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/17625.ts
+#EXTINF:0, BeIN SPORT 1 HD
+http://ip.luxetv.club:8080/live/senkron24/2123686/87374.ts
+#EXTINF:0, BeIN SPORT 1 HD
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/469.ts
+#EXTINF:0, BeIN SPORT 1 HD
+https://www.kenjstr.live/hlslive/1111358.m3u8
+#EXTINF:0, BeIN SPORT 2 HD
+http://5.255.94.250:25461/live/ztv/Mast3r/574.ts
+#EXTINF:0, BeIN SPORT 2 HD
+http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/17626.ts
+#EXTINF:0, BeIN SPORT 2 HD
+http://ip.luxetv.club:8080/live/senkron24/2123686/87375.ts
+#EXTINF:0, BeIN SPORT 3 HD
+http://5.255.94.250:25461/live/ztv/Mast3r/575.ts
+#EXTINF:0, BeIN SPORT 3 HD
+http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/17627.ts
+#EXTINF:0, BeIN SPORT 4 HD
+http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/17628.ts
+#EXTINF:0, Ssport 1 HD
+https://www.kenjstr.live/hlslive/190.m3u8
+#EXTINF:0, Ssport 2 HD
+https://www.kenjstr.live/hlslive/401.m3u8
+#EXTINF:0, group-title="Telegram-Telegram-TurkeyFreeiptvFreeiptv" -  Smart Spor 1 HD
+https://www.kenjstr.live/hlslive/402.m3u8
+#EXTINF:0, group-title="Telegram-Telegram-TurkeyFreeiptvFreeiptv" -  Smart Spor 2 HD
+https://www.kenjstr.live/hlslive/403.m3u8
+#EXTINF:0,TR: A Spor HD
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8

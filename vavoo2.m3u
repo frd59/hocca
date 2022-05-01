@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=23629",BEIN SPORTS 1 
-#EXTVLCOPT:http-user-agent=VAVOO/1.51
-http://77.247.109.150:8008/a/wiLFwiFwic2/live/23629.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.150:8008/a/wiLFwiFwic2/live/23629.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/2.6'AV

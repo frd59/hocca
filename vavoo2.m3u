@@ -1,4 +1,4 @@
-#EXTINF:-1,UK-HD: BEIN SPORTS 11 HD TR
-http://www.dayiptv.pro:25461/ZZKKJZVHE5Y070Z/VJAGDKD6NKZGFE5/102217
-#EXTINF:-1,UK-HD: BEIN SPORTS 12 HD TR
-http://www.dayiptv.pro:25461/ZZKKJZVHE5Y070Z/VJAGDKD6NKZGFE5/10221
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=23629",BEIN SPORTS 1 
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+http://77.247.109.150:8008/a/wiLFwiFwic2/live/23629.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV

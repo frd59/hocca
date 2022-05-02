@@ -1,0 +1,190 @@
+#EXTM3U
+#EXTINF:1,TRT 1 HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_1_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,KANAL D HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$KANAL_D_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,SHOW HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$SHOW_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,STAR TV HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$STAR_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,FOX TV HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$FOX_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,ATV HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$ATV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,TV8 HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TV8_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1, TV8-5
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TV_85_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,A2 HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$A2_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,TV2 HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TV2_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,BEYAZ TV HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$BEYAZ_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,KANAL 7 HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$KANAL_7_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,360 TV HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$360_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,A HABER HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$A_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, A PARA HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$A_PARA_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, TRT BELGESEL HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_BELGESEL_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, TLC
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TLC_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,DMAX HD 
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NTV_SPOR_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,INVESTIGATION_DISCOVERY_HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$INVESTIGATION_DISCOVERY_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,TRT_COCUK_HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_COCUK_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,MINIKA_GO
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$MINIKA_GO/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,MINIKA_COCUK 
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$MINIKA_COCUK/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,NICKTOONS
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NICKTOONS/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,BOOMERANG_HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$BOOMERANG_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,NICKTOONS HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NICKTOONS/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+
+#EXTINF:1,A_SPOR_HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$A_SPOR_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,FB_TV
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$FB_TV/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,TRT_SPOR_HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_SPOR_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,TRT_SPOR_2_HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_SPOR_2_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,TRT_3_SPOR
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_3_SPOR/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+
+#EXTINF:-1, TRT HABER HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1, TV 100
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TV_100_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, CNN TURK HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$CNN_TURK_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, HABERTURK HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$HABERTURK_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, BLOOMBERG HT HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$BLOOMBERG_HT_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, BENGUTURK TV
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$BENGU_TURK/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, TVNET HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TVNET_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, ULKE TV HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$ULKE_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, 24 HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$24_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, TGRT HABER
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TGRT_HABER_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, NTV HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NTV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:0,NUMBER1 HD 
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NUMBER1_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:0,NUMBER1 TÜRK 
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1, POWERTURK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:1,POWER TV
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$POWER_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, TRT MÜZİK HD
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1, VAV TV
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$VAV_TV/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_arabesk.png" group-title="MÜZİK", ARABESK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_turkce-pop.png" group-title="MÜZİK", TURKCE POP
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_slow.png" group-title="MÜZİK", TURKCE SLOW
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu_cocuk_logo.png" group-title="MÜZİK", COCUK MASAL
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$MASAL/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_halk.png" group-title="MÜZİK", TURK HALK MUZIGI
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TURK_HALK_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_pop_dms.png" group-title="MÜZİK", YABANCI POP
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tasplak.png" group-title="MÜZİK", TAS PLAK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dini_musiki_logo.png" group-title="MÜZİK", DINI MUZIK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TASAVVUF/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/90lar.png" group-title="MÜZİK", 90 LAR
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$90_LAR/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_slow_logo.png" group-title="MÜZİK", ROMANTIK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$ROMANTIK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_klasik.png" group-title="MÜZİK", KLASIK MUZIK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$KLASIK_MUZIK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/calisiyorken.png" group-title="MÜZİK", ÇALIŞIYORKEN
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$CALISIRKEN/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/mutlu_dms.png" group-title="MÜZİK", MUTLU
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$MUTLU/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/lounge.png" group-title="MÜZİK", LOUNGE
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$LOUNGE/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/akustik.png" group-title="MÜZİK", AKUSTIK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS

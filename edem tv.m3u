@@ -1,0 +1,443 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT 4K
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/4001/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2587" tvg-logo="http://epg.it999.ru/img/2587.png" tvg-rec="3",A SPORT
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2256/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3956" tvg-logo="http://epg.it999.ru/img/3956.png" tvg-rec="3",Kanal 7 HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2257/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2589" tvg-logo="http://epg.it999.ru/img/2589.png" tvg-rec="3",A HABER
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2259/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3961" tvg-logo="http://epg.it999.ru/img/3961.png" tvg-rec="3",A2
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2260/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2600" tvg-logo="http://epg.it999.ru/img/2600.png" tvg-rec="3",ATV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2261/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2591" tvg-logo="http://epg.it999.ru/img/2591.png" tvg-rec="3",minikaGO
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2266/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2592" tvg-logo="http://epg.it999.ru/img/2592.png" tvg-rec="3",NR1 TURK TV HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2267/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2593" tvg-logo="http://epg.it999.ru/img/2593.png" tvg-rec="3",STAR TV
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2274/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2951" tvg-logo="http://epg.it999.ru/img/2951.png" tvg-rec="0",TRT TURK EUROPA
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2281/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2598" tvg-logo="http://epg.it999.ru/img/2598.png" tvg-rec="3",TRT 1
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2283/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2596" tvg-logo="http://epg.it999.ru/img/2596.png" tvg-rec="3",TV8 HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2286/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" tvg-rec="3",DMAX
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2290/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2598" tvg-logo="http://epg.it999.ru/img/2598.png" tvg-rec="3",TRT 1 HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2293/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2589" tvg-logo="http://epg.it999.ru/img/2589.png" tvg-rec="3",A HABER HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2294/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2600" tvg-logo="http://epg.it999.ru/img/2600.png" tvg-rec="3",ATV HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2296/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2666" tvg-logo="http://epg.it999.ru/img/2666.png" tvg-rec="3",POWERTURK HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2298/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2601" tvg-logo="http://epg.it999.ru/img/2601.png" tvg-rec="3",NTV HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2299/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" tvg-rec="3",DMAX HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2300/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2667" tvg-logo="http://epg.it999.ru/img/2667.png" tvg-rec="3",STAR TV HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2301/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2601" tvg-logo="http://epg.it999.ru/img/2601.png" tvg-rec="3",NTV
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2302/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2604" tvg-logo="http://epg.it999.ru/img/2604.png" tvg-rec="3",Minika Çocuk
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2303/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2605" tvg-logo="http://epg.it999.ru/img/2605.png" tvg-rec="3",Kanal D HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2304/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2606" tvg-logo="http://epg.it999.ru/img/2606.png" tvg-rec="3",CNN Turk HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2305/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2607" tvg-logo="http://epg.it999.ru/img/2607.png" tvg-rec="3",Teve 2 HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2306/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2608" tvg-logo="http://epg.it999.ru/img/2608.png" tvg-rec="3",Show TV HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2307/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3979" tvg-logo="http://epg.it999.ru/img/3979.png" tvg-rec="3",Haberturk HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2308/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3954" tvg-logo="http://epg.it999.ru/img/3954.png" tvg-rec="3",Fox Turkiye HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2309/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2668" tvg-logo="http://epg.it999.ru/img/2668.png" tvg-rec="3",Beyaz TV HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2310/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3986" tvg-logo="http://epg.it999.ru/img/3986.png" tvg-rec="3",Ulke TV HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2311/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2613" tvg-logo="http://epg.it999.ru/img/2613.png" tvg-rec="3",Bloomberg HT
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2317/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2614" tvg-logo="http://epg.it999.ru/img/2614.png" tvg-rec="3",TV8,5 HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2318/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2615" tvg-logo="http://epg.it999.ru/img/2615.png" tvg-rec="3",24 TV HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2319/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2617" tvg-logo="http://epg.it999.ru/img/2617.png" tvg-rec="3",TV 4 HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2321/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2618" tvg-logo="http://epg.it999.ru/img/2618.png" tvg-rec="3",beIN SPORTS HABER
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2322/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2618" tvg-logo="http://epg.it999.ru/img/2618.png" tvg-rec="3",beIN SPORTS HABER HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2323/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2620" tvg-logo="http://epg.it999.ru/img/2620.png" tvg-rec="3",CARTOON NETWORK TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2325/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2605" tvg-logo="http://epg.it999.ru/img/2605.png" tvg-rec="3",KANAL D
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2326/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2622" tvg-logo="http://epg.it999.ru/img/2622.png" tvg-rec="3",TV 100 HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2328/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3964" tvg-logo="http://epg.it999.ru/img/3964.png" tvg-rec="3",360 HD
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/2320/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3803" tvg-logo="http://epg.it999.ru/img/3803.png" tvg-rec="3",Loca 3 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6736/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3804" tvg-logo="http://epg.it999.ru/img/3804.png" tvg-rec="3",Loca 2 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6737/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3805" tvg-logo="http://epg.it999.ru/img/3805.png" tvg-rec="3",Loca 1 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6738/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3807" tvg-logo="http://epg.it999.ru/img/3807.png" tvg-rec="3",Salon 2 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6740/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3808" tvg-logo="http://epg.it999.ru/img/3808.png" tvg-rec="3",Salon 1 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6741/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3810" tvg-logo="http://epg.it999.ru/img/3810.png" tvg-rec="3",beIN Box Office 3 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6743/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3811" tvg-logo="http://epg.it999.ru/img/3811.png" tvg-rec="3",beIN Box Office 1 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6744/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3812" tvg-logo="http://epg.it999.ru/img/3812.png" tvg-rec="3",beIN Box Office 2 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6745/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3815" tvg-logo="http://epg.it999.ru/img/3815.png" tvg-rec="3",ARTI 1 TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6748/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3816" tvg-logo="http://epg.it999.ru/img/3816.png" tvg-rec="3",Uzay Haber TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6749/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3817" tvg-logo="http://epg.it999.ru/img/3817.png" tvg-rec="3",TV 5 TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6751/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3818" tvg-logo="http://epg.it999.ru/img/3818.png" tvg-rec="3",TV 41 TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6752/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3819" tvg-logo="http://epg.it999.ru/img/3819.png" tvg-rec="3",TV 4 TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6753/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3821" tvg-logo="http://epg.it999.ru/img/3821.png" tvg-rec="3",Mavi Karadeniz TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6758/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3822" tvg-logo="http://epg.it999.ru/img/3822.png" tvg-rec="3",Line TV Bursa TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6759/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3823" tvg-logo="http://epg.it999.ru/img/3823.png" tvg-rec="3",Koy TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6761/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3824" tvg-logo="http://epg.it999.ru/img/3824.png" tvg-rec="3",Kibris Genc TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6762/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3825" tvg-logo="http://epg.it999.ru/img/3825.png" tvg-rec="3",Kardelen TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6763/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3827" tvg-logo="http://epg.it999.ru/img/3827.png" tvg-rec="3",Kanal T TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6765/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3828" tvg-logo="http://epg.it999.ru/img/3828.png" tvg-rec="3",Kanal Avrupa TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6766/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3829" tvg-logo="http://epg.it999.ru/img/3829.png" tvg-rec="3",ER TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6768/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3830" tvg-logo="http://epg.it999.ru/img/3830.png" tvg-rec="3",DRT Denizli TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6769/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3831" tvg-logo="http://epg.it999.ru/img/3831.png" tvg-rec="3",Deha TV Denizli TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6771/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3832" tvg-logo="http://epg.it999.ru/img/3832.png" tvg-rec="3",Ciftci TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6772/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3833" tvg-logo="http://epg.it999.ru/img/3833.png" tvg-rec="3",BRT 3 TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6774/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3834" tvg-logo="http://epg.it999.ru/img/3834.png" tvg-rec="3",BRT 2 TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6775/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3835" tvg-logo="http://epg.it999.ru/img/3835.png" tvg-rec="3",BRT 1 TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6776/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3836" tvg-logo="http://epg.it999.ru/img/3836.png" tvg-rec="3",AS TV Bursa TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6777/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3837" tvg-logo="http://epg.it999.ru/img/3837.png" tvg-rec="3",Anadolu Dernek TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6778/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3838" tvg-logo="http://epg.it999.ru/img/3838.png" tvg-rec="3",Anadolu TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6779/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3839" tvg-logo="http://epg.it999.ru/img/3839.png" tvg-rec="3",Akit TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6780/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6781/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5093" tvg-logo="http://epg.it999.ru/img2/5093.png" tvg-rec="3",Turk Karadeniz TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6782/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3842" tvg-logo="http://epg.it999.ru/img/3842.png" tvg-rec="3",Ada TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6783/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3843" tvg-logo="http://epg.it999.ru/img/3843.png" tvg-rec="3",Vatan TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6784/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3844" tvg-logo="http://epg.it999.ru/img/3844.png" tvg-rec="3",Ucankus TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6785/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3845" tvg-logo="http://epg.it999.ru/img/3845.png" tvg-rec="3",TV Kayseri TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6786/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3846" tvg-logo="http://epg.it999.ru/img/3846.png" tvg-rec="3",Yaban HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6787/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3848" tvg-logo="http://epg.it999.ru/img/3848.png" tvg-rec="3",FM TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6789/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3849" tvg-logo="http://epg.it999.ru/img/3849.png" tvg-rec="3",Lalegul TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6790/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3850" tvg-logo="http://epg.it999.ru/img/3850.png" tvg-rec="3",TV 2000 TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6791/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3851" tvg-logo="http://epg.it999.ru/img/3851.png" tvg-rec="3",Meltem TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6792/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3852" tvg-logo="http://epg.it999.ru/img/3852.png" tvg-rec="3",Dost TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6793/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3853" tvg-logo="http://epg.it999.ru/img/3853.png" tvg-rec="3",TRT Diyanet TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6794/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3854" tvg-logo="http://epg.it999.ru/img/3854.png" tvg-rec="3",TRT Diyanet HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6795/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3855" tvg-logo="http://epg.it999.ru/img/3855.png" tvg-rec="3",TGRT EU TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6796/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3856" tvg-logo="http://epg.it999.ru/img/3856.png" tvg-rec="3",Show Turk TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6797/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2951" tvg-logo="http://epg.it999.ru/img/2951.png" tvg-rec="3",TRT Turk TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6798/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3858" tvg-logo="http://epg.it999.ru/img/3858.png" tvg-rec="3",TRT Avaz TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6799/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3860" tvg-logo="http://epg.it999.ru/img/3860.png" tvg-rec="3",DiziSmart Premium TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6802/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3861" tvg-logo="http://epg.it999.ru/img/3861.png" tvg-rec="3",Fox Crime TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6803/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3862" tvg-logo="http://epg.it999.ru/img/3862.png" tvg-rec="3",beIN Gurme HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6804/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3863" tvg-logo="http://epg.it999.ru/img/3863.png" tvg-rec="3",FX HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6805/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3864" tvg-logo="http://epg.it999.ru/img/3864.png" tvg-rec="3",Sinema TV Aile TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6806/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3865" tvg-logo="http://epg.it999.ru/img/3865.png" tvg-rec="3",Movie Smart Turk TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6807/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3867" tvg-logo="http://epg.it999.ru/img/3867.png" tvg-rec="3",Movie Smart Fest TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6811/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3868" tvg-logo="http://epg.it999.ru/img/3868.png" tvg-rec="3",Movie Smart Action TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6812/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3869" tvg-logo="http://epg.it999.ru/img/3869.png" tvg-rec="3",beIN Series Vice TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6813/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3870" tvg-logo="http://epg.it999.ru/img/3870.png" tvg-rec="3",beIN Series Sci-fi TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6814/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3872" tvg-logo="http://epg.it999.ru/img/3872.png" tvg-rec="3",Tivibu Sport 2 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6816/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3873" tvg-logo="http://epg.it999.ru/img/3873.png" tvg-rec="3",beIN Sports 1 (Yedek) HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6817/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3874" tvg-logo="http://epg.it999.ru/img/3874.png" tvg-rec="3",beIN Sports 2 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6818/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3874" tvg-logo="http://epg.it999.ru/img/3874.png" tvg-rec="3",beIN Sports 2 (Yedek) HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6819/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3876" tvg-logo="http://epg.it999.ru/img/3876.png" tvg-rec="3",beIN Sports 3 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6820/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3876" tvg-logo="http://epg.it999.ru/img/3876.png" tvg-rec="3",beIN Sports 3 (Yedek) HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6821/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3878" tvg-logo="http://epg.it999.ru/img/3878.png" tvg-rec="3",beIN Sports 4 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6822/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3878" tvg-logo="http://epg.it999.ru/img/3878.png" tvg-rec="3",beIN Sports 4 (Yedek) HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6823/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png" tvg-rec="3",beIN Sports Max 1 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6824/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3881" tvg-logo="http://epg.it999.ru/img/3881.png" tvg-rec="3",S Sport 1 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6825/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3884" tvg-logo="http://epg.it999.ru/img/3884.png" tvg-rec="3",Sports TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6828/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3885" tvg-logo="http://epg.it999.ru/img/3885.png" tvg-rec="3",Eurosport 1 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6829/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3886" tvg-logo="http://epg.it999.ru/img/3886.png" tvg-rec="3",Eurosport 2 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6830/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2587" tvg-logo="http://epg.it999.ru/img/2587.png" tvg-rec="3",A Sport TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6832/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3890" tvg-logo="http://epg.it999.ru/img/3890.png" tvg-rec="3",Galatasaray TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6834/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3893" tvg-logo="http://epg.it999.ru/img/3893.png" tvg-rec="3",TJK TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6837/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3894" tvg-logo="http://epg.it999.ru/img/3894.png" tvg-rec="3",NBA TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6838/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3895" tvg-logo="http://epg.it999.ru/img/3895.png" tvg-rec="3",Idman TV HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6840/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3896" tvg-logo="http://epg.it999.ru/img/3896.png" tvg-rec="3",TRT Cocuk HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6841/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3897" tvg-logo="http://epg.it999.ru/img/3897.png" tvg-rec="3",Disney Junior TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6842/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3897" tvg-logo="http://epg.it999.ru/img/3897.png" tvg-rec="3",Disney JR TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6843/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3899" tvg-logo="http://epg.it999.ru/img/3899.png" tvg-rec="3",Disney XD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6844/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3900" tvg-logo="http://epg.it999.ru/img/3900.png" tvg-rec="3",Baby TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6845/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2620" tvg-logo="http://epg.it999.ru/img/2620.png" tvg-rec="3",Cartoon Network TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6846/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3902" tvg-logo="http://epg.it999.ru/img/3902.png" tvg-rec="3",Nick Jr TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6847/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3903" tvg-logo="http://epg.it999.ru/img/3903.png" tvg-rec="3",Nickelodeon TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6848/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2604" tvg-logo="http://epg.it999.ru/img/2604.png" tvg-rec="3",Minika Cocuk TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6849/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3905" tvg-logo="http://epg.it999.ru/img/3905.png" tvg-rec="3",Boomerang HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6850/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2591" tvg-logo="http://epg.it999.ru/img/2591.png" tvg-rec="3",Minika Go TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6851/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3907" tvg-logo="http://epg.it999.ru/img/3907.png" tvg-rec="3",TRT Belgesel TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6852/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3908" tvg-logo="http://epg.it999.ru/img/3908.png" tvg-rec="3",24 Kitchen HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6853/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3909" tvg-logo="http://epg.it999.ru/img/3909.png" tvg-rec="3",BBC Earth HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6854/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3910" tvg-logo="http://epg.it999.ru/img/3910.png" tvg-rec="3",BBC Earth TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6855/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3911" tvg-logo="http://epg.it999.ru/img/3911.png" tvg-rec="3",History Channel HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6856/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3912" tvg-logo="http://epg.it999.ru/img/3912.png" tvg-rec="3",Da Vinci Learning HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6857/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3913" tvg-logo="http://epg.it999.ru/img/365.png" tvg-rec="3",Animal Planet HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6858/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3913" tvg-logo="http://epg.it999.ru/img/365.png" tvg-rec="3",Animal Planet TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6859/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3915" tvg-logo="http://epg.it999.ru/img/3915.png" tvg-rec="3",TGRT Belgesel TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6860/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3916" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery Channel TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6861/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3918" tvg-logo="http://epg.it999.ru/img/3918.png" tvg-rec="3",Discovery Science TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6863/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3919" tvg-logo="http://epg.it999.ru/img/3919.png" tvg-rec="3",Love Nature HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6864/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3921" tvg-logo="http://epg.it999.ru/img/3921.png" tvg-rec="3",NatGeo Wild HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6866/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3922" tvg-logo="http://epg.it999.ru/img/3922.png" tvg-rec="3",NatGeo HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6867/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3846" tvg-logo="http://epg.it999.ru/img/3846.png" tvg-rec="3",Yaban TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6868/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3924" tvg-logo="http://epg.it999.ru/img/3924.png" tvg-rec="3",TRT Muzik HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6869/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3924" tvg-logo="http://epg.it999.ru/img/3924.png" tvg-rec="3",TRT Muzik TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6870/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3926" tvg-logo="http://epg.it999.ru/img/3926.png" tvg-rec="3",Kral POP TV HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6871/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5094" tvg-logo="http://epg.it999.ru/img2/5094.png" tvg-rec="3",Tatlises
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6872/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3928" tvg-logo="http://epg.it999.ru/img/3928.png" tvg-rec="3",Dream Turk FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6873/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3929" tvg-logo="http://epg.it999.ru/img/3929.png" tvg-rec="3",NR1 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6874/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3931" tvg-logo="http://epg.it999.ru/img/3931.png" tvg-rec="3",beIN Movies Action 2 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6876/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3932" tvg-logo="http://epg.it999.ru/img/3932.png" tvg-rec="3",beIN Movies Action HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6877/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3933" tvg-logo="http://epg.it999.ru/img/3933.png" tvg-rec="3",beIN Movies Family HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6878/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3934" tvg-logo="http://epg.it999.ru/img/3934.png" tvg-rec="3",beIN Movies Premiere 2 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6879/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3935" tvg-logo="http://epg.it999.ru/img/3935.png" tvg-rec="3",beIN Movies Premiere HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6880/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3936" tvg-logo="http://epg.it999.ru/img/3936.png" tvg-rec="3",beIN Series Comedy HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6881/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3937" tvg-logo="http://epg.it999.ru/img/3937.png" tvg-rec="3",beIN Series Drama HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6882/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2598" tvg-logo="http://epg.it999.ru/img/2598.png" tvg-rec="3",TRT 1 FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6883/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3939" tvg-logo="http://epg.it999.ru/img/3939.png" tvg-rec="3",TRT 2 FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6884/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2600" tvg-logo="http://epg.it999.ru/img/2600.png" tvg-rec="3",ATV FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6885/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2600" tvg-logo="http://epg.it999.ru/img/2600.png" tvg-rec="3",ATV HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6886/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2600" tvg-logo="http://epg.it999.ru/img/2600.png" tvg-rec="3",ATV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6887/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3941" tvg-logo="http://epg.it999.ru/img/3941.png" tvg-rec="3",ATV Avrupa TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6888/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3942" tvg-logo="http://epg.it999.ru/img/3942.png" tvg-rec="3",Show TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6889/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3943" tvg-logo="http://epg.it999.ru/img/3943.png" tvg-rec="3",Show Max TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6890/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2605" tvg-logo="http://epg.it999.ru/img/2605.png" tvg-rec="3",Kanal D TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6891/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3945" tvg-logo="http://epg.it999.ru/img/3945.png" tvg-rec="3",Euro D TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6892/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3946" tvg-logo="http://epg.it999.ru/img/3946.png" tvg-rec="3",Star TV FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6893/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3947" tvg-logo="http://epg.it999.ru/img/3947.png" tvg-rec="3",Eurostar HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6894/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3949" tvg-logo="http://epg.it999.ru/img/3949.png" tvg-rec="3",TV 8 FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6895/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3949" tvg-logo="http://epg.it999.ru/img/3949.png" tvg-rec="3",TV 8 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6896/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3950" tvg-logo="http://epg.it999.ru/img/3950.png" tvg-rec="3",TV 8 Int TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6897/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2614" tvg-logo="http://epg.it999.ru/img/2614.png" tvg-rec="3",TV 8.5 FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6898/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2614" tvg-logo="http://epg.it999.ru/img/2614.png" tvg-rec="3",TV 8.5 HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6899/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3954" tvg-logo="http://epg.it999.ru/img/3954.png" tvg-rec="3",Fox TV FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6900/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3954" tvg-logo="http://epg.it999.ru/img/3954.png" tvg-rec="3",Fox TV HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6901/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3954" tvg-logo="http://epg.it999.ru/img/3954.png" tvg-rec="3",Fox TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6902/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3956" tvg-logo="http://epg.it999.ru/img/3956.png" tvg-rec="3",Kanal 7 FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6903/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3957" tvg-logo="http://epg.it999.ru/img/3957.png" tvg-rec="3",Kanal 7 TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6904/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3958" tvg-logo="http://epg.it999.ru/img/3958.png" tvg-rec="3",Kanal 7 Avrupa TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6905/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2668" tvg-logo="http://epg.it999.ru/img/2668.png" tvg-rec="3",Beyaz TV FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6906/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2668" tvg-logo="http://epg.it999.ru/img/2668.png" tvg-rec="3",Beyaz TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6907/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3961" tvg-logo="http://epg.it999.ru/img/3961.png" tvg-rec="3",A2 TV FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6908/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3962" tvg-logo="http://epg.it999.ru/img/3962.png" tvg-rec="3",A Para FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6909/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2607" tvg-logo="http://epg.it999.ru/img/2607.png" tvg-rec="3",Teve2 FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6910/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3964" tvg-logo="http://epg.it999.ru/img/3964.png" tvg-rec="3",360 TV HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6911/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" tvg-rec="3",Dmax FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6912/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" tvg-rec="3",Dmax TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6913/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3967" tvg-logo="http://epg.it999.ru/img/3967.png" tvg-rec="3",TLC HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6914/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3968" tvg-logo="http://epg.it999.ru/img/3968.png" tvg-rec="3",TLC TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6915/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3969" tvg-logo="http://epg.it999.ru/img/3969.png" tvg-rec="3",TRT Eba TV Ilkokul HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6916/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3970" tvg-logo="http://epg.it999.ru/img/3970.png" tvg-rec="3",TRT Eba TV Ilkokul TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6917/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3971" tvg-logo="http://epg.it999.ru/img/3971.png" tvg-rec="3",TRT Eba TV Lise HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6918/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3972" tvg-logo="http://epg.it999.ru/img/3972.png" tvg-rec="3",TRT Eba TV Lise TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6919/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3973" tvg-logo="http://epg.it999.ru/img/3973.png" tvg-rec="3",TRT Eba TV Ortaokul HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6920/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3974" tvg-logo="http://epg.it999.ru/img/3974.png" tvg-rec="3",TRT Haber HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6921/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2589" tvg-logo="http://epg.it999.ru/img/2589.png" tvg-rec="3",A Haber TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6923/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2601" tvg-logo="http://epg.it999.ru/img/2601.png" tvg-rec="3",NTV FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6924/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2601" tvg-logo="http://epg.it999.ru/img/2601.png" tvg-rec="3",NTV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6925/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2606" tvg-logo="http://epg.it999.ru/img/2606.png" tvg-rec="3",CNN Turk FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6926/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3979" tvg-logo="http://epg.it999.ru/img/3979.png" tvg-rec="3",Haber Turk FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6927/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3980" tvg-logo="http://epg.it999.ru/img/3980.png" tvg-rec="3",Global Haber TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6928/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3981" tvg-logo="http://epg.it999.ru/img/3981.png" tvg-rec="3",TV100 TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6929/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3982" tvg-logo="http://epg.it999.ru/img/3982.png" tvg-rec="3",Tele 1 TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6930/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3983" tvg-logo="http://epg.it999.ru/img/3983.png" tvg-rec="3",Ulusal Kanal TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6931/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3985" tvg-logo="http://epg.it999.ru/img/3985.png" tvg-rec="3",TGRT Haber FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6932/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3985" tvg-logo="http://epg.it999.ru/img/3985.png" tvg-rec="3",TGRT Haber HD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6933/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3986" tvg-logo="http://epg.it999.ru/img/3986.png" tvg-rec="3",Ulke TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6934/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3987" tvg-logo="http://epg.it999.ru/img/3987.png" tvg-rec="3",TV Net TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6936/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="3988" tvg-logo="http://epg.it999.ru/img/3988.png" tvg-rec="3",A News FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6937/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2618" tvg-logo="http://epg.it999.ru/img/2618.png" tvg-rec="3",beIN Sports Haber FHD TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/6939/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT HD 4K
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/9032/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5969" tvg-logo="http://epg.it999.ru/img2/5969.png" tvg-rec="0",Kanal V TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/15252/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5970" tvg-logo="http://epg.it999.ru/img2/5970.png" tvg-rec="0",Kocaeli TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/15253/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5971" tvg-logo="http://epg.it999.ru/img2/5971.png" tvg-rec="0",Ege TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/15254/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5972" tvg-logo="http://epg.it999.ru/img2/5972.png" tvg-rec="0",KRT TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/15255/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5973" tvg-logo="http://epg.it999.ru/img2/5973.png" tvg-rec="0",Rumeli TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/15256/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5974" tvg-logo="http://epg.it999.ru/img2/5974.png" tvg-rec="0",Kanal Cay TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/15257/index.m3u8
+#EXTINF:0 group-title="Турция | Türk" tvg-id="5975" tvg-logo="http://epg.it999.ru/img2/5975.png" tvg-rec="0",T.A.Y TV TR
+http://he11o.akadatel.com/iptv/SE46TEP8LDXQHE/15258/index.m3u8
+
+
+
+
+

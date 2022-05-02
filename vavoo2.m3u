@@ -1,4 +1,36 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=23629",BEIN SPORTS 1 
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://77.247.109.150:8008/a/wiLFwiFwic2/live/23629.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='
+#EXTINF:-1 ,beIN Sports Haber
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7319
+#EXTINF:-1 ,beIN Sports 1
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7320
+#EXTINF:-1 ,beIN Sports 1
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7321
+#EXTINF:-1 ,beIN Sports 1
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7322
+#EXTINF:-1 ,beIN Sports 2
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7324
+#EXTINF:-1 ,beIN Sports 2
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7325
+#EXTINF:-1 ,beIN Sports 3
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7326
+#EXTINF:-1 ,beIN Sports 3
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7327
+#EXTINF:-1 ,beIN Sports 1
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7331
+#EXTINF:-1 ,beIN Sports 1
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7332
+#EXTINF:-1 ,beIN Sports
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7333
+#EXTINF:-1 ,Spor 2
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7334
+#EXTINF:-1 ,Spor 2
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7335
+#EXTINF:-1 ,Sport
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7336
+#EXTINF:-1 ,Sport
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7337
+#EXTINF:-1 ,Spor Smart
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7338
+#EXTINF:-1 ,NBA TV
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7340
+#EXTINF:-1 ,Eurosport 2
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7342

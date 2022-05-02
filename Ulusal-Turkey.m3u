@@ -1,0 +1,79 @@
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png" group-title="Turkey",TR: TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="http://worldiptv.xyz/chlogos/atv.tr.png" group-title="Turkey",TR: ATV HD
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW HD" tvg-logo="http://worldiptv.xyz/chlogos/ShowTV.tr.png" group-title="Turkey",TR: SHOW HD
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW HD" tvg-logo="http://worldiptv.xyz/chlogos/ShowTV.tr.png" group-title="Turkey",TR: SHOW HD
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: Kanal D HD" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.tr.png" group-title="Turkey",TR: Kanal D HD
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey",TR: STAR HD
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey",TR: STAR HD
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey",TR: STAR HD
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX HD" tvg-logo="http://worldiptv.xyz/chlogos/Fox.tr.png" group-title="Turkey",TR: FOX HD
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR: TV8.5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png" group-title="Turkey",TR: TV8.5 HD
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: Teve 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/TV2.tr.png" group-title="Turkey",TR: Teve 2 HD
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="http://worldiptv.xyz/chlogos//SkyTurk360.tr.png" group-title="Turkey",TR: 360 HD
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TV 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/TV4.tr.png" group-title="Turkey",TR: TV 4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV HD" tvg-logo="http://worldiptv.xyz/chlogos/Beyaz.tr.png" group-title="Turkey",TR: Beyaz TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV HD" tvg-logo="http://worldiptv.xyz/chlogos/Beyaz.tr.png" group-title="Turkey",TR: Beyaz TV HD
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="tlctv.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://icdn.ensonhaber.com/cdn/mobil/assets/img/sample/tlc.png" group-title="Turkey",TR: TLC TV HD
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-id="tlctv.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://icdn.ensonhaber.com/cdn/mobil/assets/img/sample/tlc.png" group-title="Turkey",TR: TLC TV HD
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF: -1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="http://worldiptv.xyz/chlogos/Dmax.tr.png" group-title="Turkey", TR: DMAX HD
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF: -1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="http://worldiptv.xyz/chlogos/Dmax.tr.png" group-title="Turkey", TR: DMAX HD
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF: -1 tvg-id="Yaban.tr" tvg-name="TR: Yaban Tv" tvg-logo="http://worldiptv.xyz/chlogos/Yaban.tr.png" group-title="Turkey", TR: Yaban Tv
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1031340952.m3u8
+#EXTINF: -1 tvg-id="TRTBlgsl.tr" tvg-name="TR: TRT Belgesel" tvg-logo="https://tinyurl.com/TRTBLGSL" group-title="Turkey", TR: TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: Halk Tv" tvg-logo="http://worldiptv.xyz/chlogos/halk.tr.png" group-title="Turkey",TR: Halk Tv
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="http://worldiptv.xyz/chlogos/trtHaber.tr.png" group-title="Turkey",TR: TRT HABER HD
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: Habertürk HD" tvg-logo="http://worldiptv.xyz/chlogos/Haberturk.tr.png" group-title="Turkey",TR: Habertürk HD
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN Türk HD" tvg-logo="http://worldiptv.xyz/chlogos/CNNTurk.tr.png" group-title="Turkey",TR: CNN Türk HD
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HD" tvg-logo="http://worldiptv.xyz/chlogos/NTV.tr.png" group-title="Turkey",TR: NTV HD
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 24 HD" tvg-logo="http://worldiptv.xyz/chlogos/24.tr.png" group-title="Turkey",TR: 24 HD
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR: Tvnet HD" tvg-logo="http://worldiptv.xyz/chlogos/TVNet.tr.png" group-title="Turkey",TR: Tvnet HD
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: Haber Global HD" tvg-logo="http://worldiptv.xyz/chlogos/HaberGlobal.tr.png" group-title="Turkey",TR: Haber Global HD
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT Haber" tvg-logo="http://worldiptv.xyz/chlogos/TGRTHaber.tr.png" group-title="Turkey",TR: TGRT Haber
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:-1 tvg-id="tgtblgsl.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://bit.do/fTc6L" group-title="Turkey",TR: TRT BELGESEL HD
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="SPYDK.tr" tvg-name="TR: TRT SPOR 1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtspor_hd_250x150.png" group-title="Turkey", TRT SPOR 1 HD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="SPYDK.tr" tvg-name="TR: TRT SPOR 2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtspor2_250x150.png" group-title="Turkey", TRT SPOR 2 HD
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="GS TV" tvg-name="TR: GSTV HD" tvg-logo="http://logo.vizontele.eu/logoslar/gstv.png" group-title="Turkey",TR: GSTV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-name="TR: A Spor HD" tvg-logo="http://maxxplus.eu/tvlogo/asporhd.png" group-title="Turkey",TR: A Spor HD
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8

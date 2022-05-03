@@ -1,190 +1,1030 @@
 #EXTM3U
-#EXTINF:1,TRT 1 HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_1_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,KANAL D HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$KANAL_D_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,SHOW HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$SHOW_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,STAR TV HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$STAR_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,FOX TV HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$FOX_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,ATV HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$ATV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,TV8 HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TV8_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1, TV8-5
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TV_85_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,A2 HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$A2_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,TV2 HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TV2_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,BEYAZ TV HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$BEYAZ_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,KANAL 7 HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$KANAL_7_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,360 TV HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$360_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,A HABER HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$A_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, A PARA HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$A_PARA_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, TRT BELGESEL HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_BELGESEL_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, TLC
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TLC_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,DMAX HD 
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NTV_SPOR_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,INVESTIGATION_DISCOVERY_HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$INVESTIGATION_DISCOVERY_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,TRT_COCUK_HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_COCUK_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,MINIKA_GO
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$MINIKA_GO/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,MINIKA_COCUK 
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$MINIKA_COCUK/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,NICKTOONS
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NICKTOONS/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,BOOMERANG_HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$BOOMERANG_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,NICKTOONS HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NICKTOONS/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live2/logo?channel=23629",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://77.247.109.108:8008/a/willene/live/822770501.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
 
-#EXTINF:1,A_SPOR_HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$A_SPOR_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,FB_TV
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$FB_TV/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,TRT_SPOR_HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_SPOR_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,TRT_SPOR_2_HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_SPOR_2_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,TRT_3_SPOR
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_3_SPOR/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
 
-#EXTINF:-1, TRT HABER HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1, TV 100
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TV_100_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, CNN TURK HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$CNN_TURK_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, HABERTURK HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$HABERTURK_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, BLOOMBERG HT HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$BLOOMBERG_HT_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, BENGUTURK TV
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$BENGU_TURK/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, TVNET HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TVNET_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, ULKE TV HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$ULKE_TV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, 24 HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$24_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, TGRT HABER
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TGRT_HABER_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, NTV HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NTV_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:0,NUMBER1 HD 
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NUMBER1_HD/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:0,NUMBER1 TÜRK 
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1, POWERTURK
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:1,POWER TV
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$POWER_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, TRT MÜZİK HD
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
-#EXTINF:-1, VAV TV
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$VAV_TV/5.m3u8?start=LIVE&end=END&device=HLS_PHONE_UNENC
 
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_arabesk.png" group-title="MÜZİK", ARABESK
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_turkce-pop.png" group-title="MÜZİK", TURKCE POP
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_slow.png" group-title="MÜZİK", TURKCE SLOW
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tivibu_cocuk_logo.png" group-title="MÜZİK", COCUK MASAL
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$MASAL/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_halk.png" group-title="MÜZİK", TURK HALK MUZIGI
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TURK_HALK_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_pop_dms.png" group-title="MÜZİK", YABANCI POP
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tasplak.png" group-title="MÜZİK", TAS PLAK
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dini_musiki_logo.png" group-title="MÜZİK", DINI MUZIK
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$TASAVVUF/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/90lar.png" group-title="MÜZİK", 90 LAR
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$90_LAR/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_slow_logo.png" group-title="MÜZİK", ROMANTIK
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$ROMANTIK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_klasik.png" group-title="MÜZİK", KLASIK MUZIK
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$KLASIK_MUZIK/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/calisiyorken.png" group-title="MÜZİK", ÇALIŞIYORKEN
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$CALISIRKEN/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/mutlu_dms.png" group-title="MÜZİK", MUTLU
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$MUTLU/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/lounge.png" group-title="MÜZİK", LOUNGE
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$LOUNGE/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF: -1 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/akustik.png" group-title="MÜZİK", AKUSTIK
-#EXTVLCOPT:http-user-agent=desk_win32
-http://mdn.mvp.tivibu.com.tr/TTG/LIVE/shls/LIVE$AKUSTIK/index.m3u8?start=LIVE&end=END&device=HLS
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=41868",BEIN SPORTS 1 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41868.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=41874",BEIN SPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41874.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=15175",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15175.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/15175.51'V
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=41878",BEIN SPORTS 3 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41878.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo=https://vjackson.info/live/logo?channel=41882",BEIN SPORTS 4 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41882.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=47980",BEIN SPORTS HABER FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/47980.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=41888",BEIN SPORTS MAX 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41888.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=41890",BEIN SPORTS MAX 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41890.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=42156",EUROSPORT 1 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42156.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=42159",EUROSPORT 2 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42159.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=52662",EXXEN SPORTS 1 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/52662.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=52663",EXXEN SPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/52663.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=48973",SPOR SMART 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/48973.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=15216",SPOR SMART
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15216.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=42839",SPOR SMART FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42839.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=51411",S SPORT 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51411.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=52694",S SPORT FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/52694.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=23613",S SPORT HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23613.tslcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User-Agent='VOO
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=23624",TIVIBUSPOR 1 HD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23624.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=42869",TIVIBU SPOR 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42869.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=42870",TIVIBU SPOR 3 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42870.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=23623",TIVIBU SPOR 3 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23623.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=48046",TIVIBU SPOR 4 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/48046.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SPOR" tvg-logo="https://vjackson.info/live/logo?channel=51349",FIGHT BOX FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51349.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=15131",BEIN BOX OFİSİ 1
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15131.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=23563",BEIN BOX OFİSİ 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23563.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41831",BEIN BOX OFİS 3 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41831.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=48836",BEIN BOX OFFICE TURK FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/48836.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41844",BEIN MOVIES ACTION 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41844.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41845",BEIN MOVIES ACTION FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41845.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=15136",BEIN MOVIES COMEDY HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15136.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41847",BEIN MOVIES FAMILY FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41847.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41851",BEIN MOVIES PREMIERE 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41851.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41853",BEIN MOVIES PREMIERE FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41853.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41854",BEIN MOVIES STARS FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41854.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=23568",BEIN MOVIES STARS HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23568.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41855",BEIN MOVIES TURK HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41855.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41860",BEIN SERİSİ KOMEDİ FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41860.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41861",BEIN SERİSİ DRAMA FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41861.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=48838",BEIN SERİSİ SCI-FI FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/48838.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=41865",BEIN SERİSİ VICE FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41865.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54094",BLUBOX COMEDY TURK HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54094.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54095",BLUBOX HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54095.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54091",BLU TV AKSIYON HD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54091.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54092",BLU TV KOMEDI HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54092.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=51309",BOSS TV FİLMLERİ 1 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51309.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=51311",BOSS TV MOVIES 2 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51311.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=51312",BOSS TV MOVIES 3 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51312.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=51313",BOSS TV MOVIES 4 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51313.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=51315",BOSS TV MOVIES 6 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51315.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=51316",BOSS TV MOVIES 7 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51316.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|UserOO-Agent='V
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=51317",BOSS TV MOVIES 8 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51317.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=51310",BOSS TV FİLMLERİ 10 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51310.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54125",ENO AKSIYON FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54125.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54126",ENO ANİMASYON FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54126.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54129",ENOFLIX 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54129.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54130",ENOFLIX 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54130.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54131",ENOFLIX 3 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54131.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=49279",FIBERBOX AKSIYON FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/49279.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=42174",FIBERBOX KOMEDI HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42174.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=42175",FIBERBOX KORKU HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42175.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=23593",LOCA 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23593.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=23594",LOCA 3 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23594.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=54179",POWER DANCE HD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54179.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=42669",SALON 1 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42669.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=42672",SALON 2 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/42672.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="SINEMA" tvg-logo="https://vjackson.info/live/logo?channel=49317",SALON 3 FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/49317.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=15127",ANIMAL PLANET (3)
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15127.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=41788",ANIMAUX HD (6))
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41788.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='eyJkYXRhIjoie1widGltZVwiOjU2MDEyMTk1OTQ2ODMsXCJ2YWxpZFVudGlsXCI6MTYwMTIyMDE5NDY4MyxcImlwc1wiOltcIlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1w iOnRydWV9LFwidXVpZFwiOlwiYXdueHBML2xyWmZYdm41aDdjTEtLUHVGOWlBeXhWSkxyaVNtajRGcE5mWT1cIn0iLCJzaWduYXR1cmUiOiJMV0J3LzZLeXI1WE1KejdUaGRrSXp3dTlQN0NnSzNnY1IrWFp0MnNEalY4NnZsWWNBOWdrRGRGeGN3TmVCQU9BQkJoMFRsSlF0K2FtL2pzOU1TeHFvb1E2dVJ0UXYveXNqQ2x4NU1keEMwMUF5K1lOK0tBVjYvK0ltY01jNmdwUE05emIyNGw3Nm1KYUZzUzdpMllPYTgxa1F1M0xlT1pUV3Q3bk00T2ZMeGs9In0==='|User-Agent=VAVOO/1.51''
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=41814",OTOMOTO HD (6)
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/41814.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=15130",BBC EARTH HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15175.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/15175.51'V
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=15166",HISTORY HD (3)
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15166.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/15166.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6b=5&vavoo_auth='==='|User/1.51'V
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo=https://vjackson.info/live/logo?channel=48939",NAT GEO HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/48939.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=23606",NATGEO PEOPLE HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23606.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=54172",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54172.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=15194",NATIONAL GEOGRAPHIC HD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15194.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/119.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=51414",SCIENCE & VIE TV FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/51414.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=49004",VIASAT HISTORY FHD
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/49004.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=54225",VIASAT NATURE FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/54225.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=49003",VIASAT EXPLORE FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/49003.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=23581",DISCOVERY SCIENCE HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/23581.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=15148",KEŞİF Kimliği
+
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15148.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="" group-title="BELGESEL" tvg-logo="https://vjackson.info/live/logo?channel=15147",KEŞİF KANALI HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.51
+
+http://77.247.109.163:3333/a/wiLFwiFwic2/live/15147.ts?lcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcIm=1&b=5&vavoo_auth='==='|User/1.51'AV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

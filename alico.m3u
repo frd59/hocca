@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="TR: beIN Sports 1 HD" tvg-logo="http://ky-iptv.com:80/images/9dadd0d9ae004374fe5e26e9988d9e19.png" group-title="Turkey",TR: beIN Sports 1 HD
+http://ky-iptv.com:80/hometeam/hometeam/220988.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="http://ky-iptv.com:80/images/90154653ab10eb3c12fdd8aa0ef40955.png" group-title="Turkey",TR: beIN Sports 2 FHD
+http://ky-iptv.com:80/hometeam/hometeam/220992.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/a6188947f4779c5604682df452c3a0e1.png" group-title="Turkey",TR: beIN Sports 3 FHD
+http://ky-iptv.com:80/hometeam/hometeam/220995.ts
+#EXTINF:-1 tvg-id="beINSports4.th" tvg-name="TR: beIN Sports 4 FHD" tvg-logo="http://ky-iptv.com:80/images/8623f4658244f0913cd1897dc0b1874a.png" group-title="Turkey",TR: beIN Sports 4 FHD
+http://ky-iptv.com:80/hometeam/hometeam/220997.ts
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="TR: beIN Sports Max 1 FHD" tvg-logo="http://ky-iptv.com:80/images/dfd502b4ba0a4b5a2149d0479ee85ddd.png" group-title="Turkey",TR: beIN Sports Max 1 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221000.ts
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="TR: beIN Sports Max 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/ddb9a55653b4be7405b62b7c61a34142.png" group-title="Turkey",TR: beIN Sports Max 2 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221003.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-Sport 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/5d75f1330941705518dbeddb402e9f82.png" group-title="Turkey",TR: S-Sport 1 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221005.ts
+#EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="TR: TIVIBUSPOR 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/271b68cc5ee1218c2ff1c3a3c854803c.png" group-title="Turkey",TR: TIVIBUSPOR 1 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221007.ts
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="TR: TIVIBUSPOR 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/ad0cd8b1fd5671e432d1e803ed74fb43.png" group-title="Turkey",TR: TIVIBUSPOR 2 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221009.ts
+#EXTINF:-1 tvg-id="TivibuSpor3.tr" tvg-name="TR: TIVIBUSPOR 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/bc373643cf53aab3845285172d274716.png" group-title="Turkey",TR: TIVIBUSPOR 3 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221011.ts
+#EXTINF:-1 tvg-id="Sport1HD.il" tvg-name="TR: Spor Smart FHD" tvg-logo="http://ky-iptv.com:25461/images/56b0fd22328d20f71565f5a6bef707f8.png" group-title="Turkey",TR: Spor Smart FHD
+http://ky-iptv.com:80/hometeam/hometeam/221012.ts
+#EXTINF:-1 tvg-id="NBATV.th" tvg-name="TR: NBA TV FHD" tvg-logo="http://ky-iptv.com:80/images/af1b22659dba63c1f7532554b5ad7003.png" group-title="Turkey",TR: NBA TV FHD
+http://ky-iptv.com:80/hometeam/hometeam/221015.ts
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-name="TR: Idman TV HD" tvg-logo="" group-title="Turkey",TR: Idman TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221016.ts
+#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="TR: Eurosport 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c87976cb8432ae25c003fa26e33283e3.png" group-title="Turkey",TR: Eurosport 1 HD
+http://ky-iptv.com:80/hometeam/hometeam/221017.ts
+#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="TR: Eurosport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/1200px-Eurosport_2_Logo.svg.png" group-title="Turkey",TR: Eurosport 2 HD
+http://ky-iptv.com:80/hometeam/hometeam/221018.ts
+#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="TR: GSTV HD" tvg-logo="https://gstv.com/s/GSTV-LOGO-2018_RGB-2.png" group-title="Turkey",TR: GSTV HD
+http://ky-iptv.com:80/hometeam/hometeam/221019.ts
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="TR: FBTV HD" tvg-logo="http://ky-iptv.com:25461/images/2572aae3db77f53c2d788a3d5694dc4e.png" group-title="Turkey",TR: FBTV HD
+http://ky-iptv.com:80/hometeam/hometeam/221020.ts
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="TR: SportsTV HD" tvg-logo="http://ky-iptv.com:80/images/3ab3ef18054791bd4beb52801160a4e5.png" group-title="Turkey",TR: SportsTV HD
+http://ky-iptv.com:80/hometeam/hometeam/221021.ts
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: TJK TV HD" tvg-logo="http://ky-iptv.com:25461/images/86eac8824ea3498c774e01a6dd9f5e1e.jpg" group-title="Turkey",TR: TJK TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221022.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR FHD" tvg-logo="http://ky-iptv.com:25461/images/9e021f8ecc5221dbdfba50e7acc231bf.png" group-title="Turkey",TR: A SPOR FHD
+http://ky-iptv.com:80/hometeam/hometeam/221024.ts
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="http://ky-iptv.com:25461/images/5c74587ab89256f2e4267a2104377c69.png" group-title="Turkey",TR: TRT SPOR HD
+http://ky-iptv.com:80/hometeam/hometeam/221025.ts
+#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TR: TRT SPOR 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/TRT_Spor_2.png/revision/latest?cb=20200327101038" group-title="Turkey",TR: TRT SPOR 2 HD
+http://ky-iptv.com:80/hometeam/hometeam/221026.ts
+#EXTINF:-1 tvg-id="TRT4K.tr" tvg-name="TR: TRT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TRT_1_kurumsal_logo.png" group-title="Turkey",TR: TRT FHD
+http://ky-iptv.com:80/hometeam/hometeam/221028.ts
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TRT_1_kurumsal_logo.png" group-title="Turkey",TR: TRT 1 HD
+http://ky-iptv.com:80/hometeam/hometeam/221029.ts
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR: TRT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_of_TRT_2_%282005-2009%29.png" group-title="Turkey",TR: TRT 2 HD
+http://ky-iptv.com:80/hometeam/hometeam/221031.ts
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="TR: ATV FHD" tvg-logo="http://ky-iptv.com:25461/images/1094baee38b0897b1fc3b232501b2c31.png" group-title="Turkey",TR: ATV FHD
+http://ky-iptv.com:80/hometeam/hometeam/221034.ts
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR: Fox TV FHD" tvg-logo="http://ky-iptv.com:25461/images/492f74314487c4f410332ad8b5c7cee2.png" group-title="Turkey",TR: Fox TV FHD
+http://ky-iptv.com:80/hometeam/hometeam/221037.ts
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR: ShowTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Show_TV.png" group-title="Turkey",TR: ShowTV HD
+http://ky-iptv.com:80/hometeam/hometeam/221038.ts
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="TR: Show Max" tvg-logo="http://ky-iptv.com:25461/images/022e7a48383a3c3b848ba9ed720f39ed.png" group-title="Turkey",TR: Show Max
+http://ky-iptv.com:80/hometeam/hometeam/221039.ts
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="TR: Star TV FHD" tvg-logo="http://ky-iptv.com:80/images/a050856d3c134a4ea5a324de22f51fb9.png" group-title="Turkey",TR: Star TV FHD
+http://ky-iptv.com:80/hometeam/hometeam/221041.ts
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR: Kanal D HD" tvg-logo="http://ky-iptv.com:25461/images/1a3889912d53b56e556f5ae6c22d34c6.jpg" group-title="Turkey",TR: Kanal D HD
+http://ky-iptv.com:80/hometeam/hometeam/221043.ts
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR: TV 8 HD" tvg-logo="http://ky-iptv.com:25461/images/a84c09927bcfefb9ad76b2e21eb361be.png" group-title="Turkey",TR: TV 8 HD
+http://ky-iptv.com:80/hometeam/hometeam/221047.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://ky-iptv.com:80/images/90ad1df8309fa7c13265f002a914d75a.png" group-title="Turkey",TR: TV 8.5 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221049.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" tvg-logo="http://ky-iptv.com:25461/images/cfa2116cc826ebe076889ed6134b2046.jpg" group-title="Turkey",TR: A2 HD
+http://ky-iptv.com:80/hometeam/hometeam/221050.ts
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR: BeyazTV HD" tvg-logo="http://ky-iptv.com:25461/images/345b3ea544e3ede9977e875cb9e69af7.png" group-title="Turkey",TR: BeyazTV HD
+http://ky-iptv.com:80/hometeam/hometeam/221052.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 FHD" tvg-logo="http://ky-iptv.com:80/images/33de26be669f9b75fdb5795f740d405b.png" group-title="Turkey",TR: Kanal 7 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221055.ts
+#EXTINF:-1 tvg-id="24Kitchen.tr" tvg-name="TR: 24 Kitchen HD" tvg-logo="http://ky-iptv.com:25461/images/a26dda2f511d814e7e69a403fff913ab.png" group-title="Turkey",TR: 24 Kitchen HD
+http://ky-iptv.com:80/hometeam/hometeam/221056.ts
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN Gurme FHD" tvg-logo="https://iconape.com/wp-content/files/uk/235835/svg/235835.svg" group-title="Turkey",TR: beIN Gurme FHD
+http://ky-iptv.com:80/hometeam/hometeam/221057.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat History HD" tvg-logo="http://ky-iptv.com:80/images/2d3a93c299e5cccc6d1d72a5d9f349c9.png" group-title="Turkey",TR: Viasat History HD
+http://ky-iptv.com:80/hometeam/hometeam/221058.ts
+#EXTINF:-1 tvg-id="FXHD.qa" tvg-name="TR: FX HD" tvg-logo="http://ky-iptv.com:25461/images/6d75915617c6c677ad0ef5e0ff7353ed.png" group-title="Turkey",TR: FX HD
+http://ky-iptv.com:80/hometeam/hometeam/221059.ts
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="TR: YABAN TV HD" tvg-logo="http://ky-iptv.com:25461/images/f869b7ad36235ce18f51698a323c9dbc.png" group-title="Turkey",TR: YABAN TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221060.ts
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: TRT Belgesel HD" tvg-logo="http://ky-iptv.com:25461/images/aca71c84523927287f6eb01b6d962c57.png" group-title="Turkey",TR: TRT Belgesel HD
+http://ky-iptv.com:80/hometeam/hometeam/221061.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild HD" tvg-logo="http://ky-iptv.com:25461/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="Turkey",TR: Nat Geo Wild HD
+http://ky-iptv.com:80/hometeam/hometeam/221062.ts
+#EXTINF:-1 tvg-id="NatGeo.tr" tvg-name="TR: national geographic HDi" tvg-logo="http://ky-iptv.com:25461/images/3e52d3380fdbb761e1ff07f4007e414a.png" group-title="Turkey",TR: national geographic HDi
+http://ky-iptv.com:80/hometeam/hometeam/221063.ts
+#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="TR: national geo people HDi" tvg-logo="http://ky-iptv.com:25461/images/070d2f0ac94a21dd87b5b16a3e42b236.png" group-title="Turkey",TR: national geo people HDi
+http://ky-iptv.com:80/hometeam/hometeam/221064.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel HD" tvg-logo="http://ky-iptv.com:25461/images/a6c118590d6a858d1f40ff2c60426697.png" group-title="Turkey",TR: Discovery Channel HD
+http://ky-iptv.com:80/hometeam/hometeam/221065.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science HD" tvg-logo="http://ky-iptv.com:25461/images/614fd1ef1b70b989ebe8e67d44456048.png" group-title="Turkey",TR: Discovery Science HD
+http://ky-iptv.com:80/hometeam/hometeam/221066.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery ID HD" tvg-logo="http://ky-iptv.com:25461/images/8622ef6baf737bd270cd87f2b18e5a85.png" group-title="Turkey",TR: Discovery ID HD
+http://ky-iptv.com:80/hometeam/hometeam/221067.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC Earth HD" tvg-logo="http://ky-iptv.com:80/images/138880debfbd68c443c36876e65acda7.jpg" group-title="Turkey",TR: BBC Earth HD
+http://ky-iptv.com:80/hometeam/hometeam/221068.ts
+#EXTINF:-1 tvg-id="HistoryHD.il" tvg-name="TR: History HD" tvg-logo="http://ky-iptv.com:25461/images/889e03c4bc9fca1724d08c2f144e3c9c.png" group-title="Turkey",TR: History HD
+http://ky-iptv.com:80/hometeam/hometeam/221069.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Animal Planet HD" tvg-logo="http://ky-iptv.com:80/images/1545a3e862ea878453c400161682b09b.png" group-title="Turkey",TR: Animal Planet HD
+http://ky-iptv.com:80/hometeam/hometeam/221070.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: IZTV HD" tvg-logo="http://ky-iptv.com:25461/images/7ac71641ea7b3d791c24480f975fa7ce.png" group-title="Turkey",TR: IZTV HD
+http://ky-iptv.com:80/hometeam/hometeam/221071.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="http://ky-iptv.com:25461/images/f9da793dcca336f47a55b5ec3ba2dff0.png" group-title="Turkey",TR: DMAX HD
+http://ky-iptv.com:80/hometeam/hometeam/221072.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2 FHD" tvg-logo="https://www.demokrathaber.org/images/resize/100/656x400/haberler/2017/01/teve_2_izle_h26750_c2308.png" group-title="Turkey",TR: Teve 2 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221077.ts
+#EXTINF:-1 tvg-id="Tele1.ch" tvg-name="TR: Tele 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c7aa4e9239cdc4a19c7237d662bca63c.png" group-title="Turkey",TR: Tele 1 HD
+http://ky-iptv.com:80/hometeam/hometeam/221078.ts
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TR: TV100 HD" tvg-logo="http://ky-iptv.com:80/images/ae39138302a07ce916da01c7b2115cbb.png" group-title="Turkey",TR: TV100 HD
+http://ky-iptv.com:80/hometeam/hometeam/221079.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC HD" tvg-logo="http://ky-iptv.com:25461/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="Turkey",TR: TLC HD
+http://ky-iptv.com:80/hometeam/hometeam/221080.ts
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="TR: Ülke TV HD" tvg-logo="http://ky-iptv.com:25461/images/d5b571507617bd5aa4123caa33f58f5a.jpg" group-title="Turkey",TR: Ülke TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221083.ts
+#EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="TR: KRT TV HD" tvg-logo="http://ky-iptv.com:80/images/466119c23a9acfc3dc73603eeaa57e3d.png" group-title="Turkey",TR: KRT TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221084.ts
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TR: TRT Turk" tvg-logo="http://ky-iptv.com:25461/images/e785f1def1ae49f1b8f2d4a5c2e368da.png" group-title="Turkey",TR: TRT Turk
+http://ky-iptv.com:80/hometeam/hometeam/221085.ts
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TR: TRT Haber FHD" tvg-logo="http://ky-iptv.com:80/images/fa578ece3b28d5286d6eaf941995b7ce.png" group-title="Turkey",TR: TRT Haber FHD
+http://ky-iptv.com:80/hometeam/hometeam/221087.ts
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="TR: EKOTÜRK HD" tvg-logo="http://ky-iptv.com:25461/images/5e3c365c33ede361b4c3f7bc2e2e5852.jpg" group-title="Turkey",TR: EKOTÜRK HD
+http://ky-iptv.com:80/hometeam/hometeam/221088.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bloomberg HT" tvg-logo="http://ky-iptv.com:25461/images/332974114116e225101f30d6587a391a.png" group-title="Turkey",TR: Bloomberg HT
+http://ky-iptv.com:80/hometeam/hometeam/221090.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Apara TV HD" tvg-logo="http://ky-iptv.com:25461/images/199b45de30ba90887d9177d290076b10.png" group-title="Turkey",TR: Apara TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221092.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber FHD" tvg-logo="http://ky-iptv.com:25461/images/0c72352d596ba6889a5a4370525fe89e.jpg" group-title="Turkey",TR: A Haber FHD
+http://ky-iptv.com:80/hometeam/hometeam/221094.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A News FHD" tvg-logo="http://ky-iptv.com:25461/images/f16f5de2afeb981eb91d8cdacf00c44e.jpg" group-title="Turkey",TR: A News FHD
+http://ky-iptv.com:80/hometeam/hometeam/221095.ts
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="TR: Haber Global FHD" tvg-logo="" group-title="Turkey",TR: Haber Global FHD
+http://ky-iptv.com:80/hometeam/hometeam/221097.ts
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="TR: CNN Turk FHD" tvg-logo="http://ky-iptv.com:25461/images/f588fc0481a8880b7aa28d1104f537de.jpg" group-title="Turkey",TR: CNN Turk FHD
+http://ky-iptv.com:80/hometeam/hometeam/221099.ts
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="TR: Haber Turk FHD" tvg-logo="http://ky-iptv.com:25461/images/0349a928d94cfe2d0b50b4d2e9e887dd.png" group-title="Turkey",TR: Haber Turk FHD
+http://ky-iptv.com:80/hometeam/hometeam/221101.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV Haber HD" tvg-logo="http://ky-iptv.com:25461/images/6cf72eeb90729805c8c8db2e015b8ba9.png" group-title="Turkey",TR: NTV Haber HD
+http://ky-iptv.com:80/hometeam/hometeam/221103.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber FHD" tvg-logo="http://ky-iptv.com:80/images/d89e04dbd08ae0bb9f7f0f3e8e066569.png" group-title="Turkey",TR: TGRT Haber FHD
+http://ky-iptv.com:80/hometeam/hometeam/221105.ts
+#EXTINF:-1 tvg-id="Kanal4.dk" tvg-name="TR: Kanal 24 HD" tvg-logo="http://ky-iptv.com:25461/images/5afedacc790fb47e05f0cb2d1f0c8169.png" group-title="Turkey",TR: Kanal 24 HD
+http://ky-iptv.com:80/hometeam/hometeam/221106.ts
+#EXTINF:-1 tvg-id="SmartCocuk.tr" tvg-name="TR: Smart Cocuk HD" tvg-logo="http://ky-iptv.com:25461/images/c8eee60a28df9f26b8fd57fc47b034b8.png" group-title="Turkey",TR: Smart Cocuk HD
+http://ky-iptv.com:80/hometeam/hometeam/221107.ts
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TR: TRT Çocuk HD" tvg-logo="http://ky-iptv.com:25461/images/da96a0b713a5d0a6d98fee243f6eea9d.png" group-title="Turkey",TR: TRT Çocuk HD
+http://ky-iptv.com:80/hometeam/hometeam/221108.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon HD" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-schweiz-logo-png-14.png" group-title="Turkey",TR: Nickelodeon HD
+http://ky-iptv.com:80/hometeam/hometeam/221109.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick JR HD" tvg-logo="http://ky-iptv.com:25461/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="Turkey",TR: Nick JR HD
+http://ky-iptv.com:80/hometeam/hometeam/221110.ts
+#EXTINF:-1 tvg-id="DisneyChannel.tr" tvg-name="TR: Disney Channel HD" tvg-logo="http://ky-iptv.com:25461/images/5bc92e45e1b6ef92fe8334157ee5ffd3.png" group-title="Turkey",TR: Disney Channel HD
+http://ky-iptv.com:80/hometeam/hometeam/221111.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney JR HD" tvg-logo="http://ky-iptv.com:80/images/a4c1ab9e1701a4d74ca3da06763df0ba.png" group-title="Turkey",TR: Disney JR HD
+http://ky-iptv.com:80/hometeam/hometeam/221112.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney XD HD" tvg-logo="http://ky-iptv.com:25461/images/88d38d7e606f3407449091e3f3349861.png" group-title="Turkey",TR: Disney XD HD
+http://ky-iptv.com:80/hometeam/hometeam/221113.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cbeebies HD" tvg-logo="http://ky-iptv.com:25461/images/751e7fd61d1a0e1f52bb6ba215d4f561.png" group-title="Turkey",TR: Cbeebies HD
+http://ky-iptv.com:80/hometeam/hometeam/221114.ts
+#EXTINF:-1 tvg-id="DaVinciKids.tr" tvg-name="TR: Da Vinci Kids HD" tvg-logo="http://ky-iptv.com:25461/images/6f55a169bf3491a8756ac200c8577e24.png" group-title="Turkey",TR: Da Vinci Kids HD
+http://ky-iptv.com:80/hometeam/hometeam/221115.ts
+#EXTINF:-1 tvg-id="BabyTV.tr" tvg-name="TR: Baby TV HD" tvg-logo="http://ky-iptv.com:25461/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="Turkey",TR: Baby TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221116.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang HD" tvg-logo="http://ky-iptv.com:25461/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="Turkey",TR: Boomerang HD
+http://ky-iptv.com:80/hometeam/hometeam/221117.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="TR: Cartoon Network HD" tvg-logo="http://ky-iptv.com:25461/images/16e3f03450d87a72144869486bc81d0e.png" group-title="Turkey",TR: Cartoon Network HD
+http://ky-iptv.com:80/hometeam/hometeam/221118.ts
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="TR: Minika Cocuk HD" tvg-logo="http://ky-iptv.com:25461/images/fbc5f0ee1e188c0e369902d9c212629f.png" group-title="Turkey",TR: Minika Cocuk HD
+http://ky-iptv.com:80/hometeam/hometeam/221120.ts
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TR: TRT Muzik HD" tvg-logo="http://ky-iptv.com:25461/images/bd5820c9556400556b5f108858811568.png" group-title="Turkey",TR: TRT Muzik HD
+http://ky-iptv.com:80/hometeam/hometeam/221121.ts
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="TR: Power TV HD" tvg-logo="http://ky-iptv.com:25461/images/73b8e73323ccb295195c89458660e061.png" group-title="Turkey",TR: Power TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221122.ts
+#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="TR: Power Turk HD" tvg-logo="http://ky-iptv.com:25461/images/9d1f10d6d74657f515f71fa2e45eb491.png" group-title="Turkey",TR: Power Turk HD
+http://ky-iptv.com:80/hometeam/hometeam/221123.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 HD" tvg-logo="http://ky-iptv.com:25461/images/73c2bf8efcf2a0291aed0478ef1d1597.png" group-title="Turkey",TR: NR1 HD
+http://ky-iptv.com:80/hometeam/hometeam/221124.ts
+#EXTINF:-1 tvg-id="DreamTV.tr" tvg-name="TR: Dream TV HD" tvg-logo="http://ky-iptv.com:25461/images/8a31140a643c971238ddb1c1ef715d7e.png" group-title="Turkey",TR: Dream TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221126.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk HD" tvg-logo="http://ky-iptv.com:25461/images/facc21db99cba907303e0c4ac0e8fb63.jpg" group-title="Turkey",TR: Dream Turk HD
+http://ky-iptv.com:80/hometeam/hometeam/221127.ts
+#EXTINF:-1 tvg-id="KreatorTv.hr" tvg-name="TR: KRAL TV HD" tvg-logo="http://ky-iptv.com:25461/images/576a8a6b8ea1923ba754e587d3664434.png" group-title="Turkey",TR: KRAL TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221128.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Halk TV HD" tvg-logo="http://ky-iptv.com:25461/images/00a255922670a138e061d76b153deec7.png" group-title="Turkey",TR: Halk TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221129.ts
+#EXTINF:-1 tvg-id="CETV.sk" tvg-name="TR: CEM TV" tvg-logo="http://ky-iptv.com:25461/images/7324423fcfb06e1160304611687fb0a5.png" group-title="Turkey",TR: CEM TV
+http://ky-iptv.com:80/hometeam/hometeam/221131.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV HD" tvg-logo="http://ky-iptv.com:25461/images/2ed31500c07dd8887877fef6febfcade.png" group-title="Turkey",TR: YOL TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221132.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAN TV HD" tvg-logo="http://ky-iptv.com:25461/images/0ff9a9e5de7a7741fd08a079aa496d06.PNG" group-title="Turkey",TR: CAN TV HD
+http://ky-iptv.com:80/hometeam/hometeam/221133.ts
+#EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="TR: Akilli TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABYXP1a2K1ZgU7CSSI8q8GQuEqOHMoJH-PQ&usqp=CAU" group-title="Turkey",TR: Akilli TV
+http://ky-iptv.com:80/hometeam/hometeam/221134.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ege Turk TV" tvg-logo="http://ky-iptv.com:25461/images/38b538973ec44e8c637437cabdeac78c.png" group-title="Turkey",TR: Ege Turk TV
+http://ky-iptv.com:80/hometeam/hometeam/221135.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal Avrupa HD" tvg-logo="http://ky-iptv.com:25461/images/0903dff76a847f79520b9fb99159b104.png" group-title="Turkey",TR: Kanal Avrupa HD
+http://ky-iptv.com:80/hometeam/hometeam/221136.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Mavi Karadeniz" tvg-logo="http://ky-iptv.com:25461/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="Turkey",TR: Mavi Karadeniz
+http://ky-iptv.com:80/hometeam/hometeam/221137.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV" tvg-logo="http://ky-iptv.com:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Turkey",TR: KOY TV
+http://ky-iptv.com:80/hometeam/hometeam/221138.ts
+#EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="TR: Akit Plus TV" tvg-logo="http://ky-iptv.com:25461/images/e8e7734c80cf773f62c4e9e015733567.png" group-title="Turkey",TR: Akit Plus TV
+http://ky-iptv.com:80/hometeam/hometeam/221139.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tek Rumeli TV" tvg-logo="http://ky-iptv.com:25461/images/4b17f6dfe31fe1e1e5973e5cbdf56e29.png" group-title="Turkey",TR: Tek Rumeli TV
+http://ky-iptv.com:80/hometeam/hometeam/221142.ts
+#EXTINF:-1 tvg-id="BuzzrTV.us" tvg-name="TR: Bursa TV" tvg-logo="http://ky-iptv.com:25461/images/4210c5a6ed3c996006cfd1647491fd0b.png" group-title="Turkey",TR: Bursa TV
+http://ky-iptv.com:80/hometeam/hometeam/221143.ts
+#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="TR: Semerkand TV" tvg-logo="http://ky-iptv.com:25461/images/c4176ea06744bafd23a28022d7d05374.png" group-title="Turkey",TR: Semerkand TV
+http://ky-iptv.com:80/hometeam/hometeam/221149.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="TR: Rehber TV" tvg-logo="http://ky-iptv.com:25461/images/cbdf1081e7b08f02589137c64991b4a3.jpg" group-title="Turkey",TR: Rehber TV
+http://ky-iptv.com:80/hometeam/hometeam/221151.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dost TV" tvg-logo="http://ky-iptv.com:25461/images/ac0fb0448a2c9af3cbab08e874f7f8ba.png" group-title="Turkey",TR: Dost TV
+http://ky-iptv.com:80/hometeam/hometeam/221152.ts
+#EXTINF:-1 tvg-id="Lale.ua" tvg-name="TR: Lalegul TV" tvg-logo="http://ky-iptv.com:25461/images/cf9f131b7973cb3457c0f0b167823c89.png" group-title="Turkey",TR: Lalegul TV
+http://ky-iptv.com:80/hometeam/hometeam/221156.ts
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="TR: beIN Box Office 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/70ff16885ec9e46bd5fb72227f7ac6f8.png" group-title="Turkey",TR: beIN Box Office 1 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221161.ts
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="TR: beIN Box Office 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/a5398d80f92b80d530f745557941d31d.png" group-title="Turkey",TR: beIN Box Office 2 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221162.ts
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="TR: beIN Box Office 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/e6184cc36b2338e72bdc88cf48ac5f7a.png" group-title="Turkey",TR: beIN Box Office 3 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221163.ts
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN Gurme HD" tvg-logo="http://ky-iptv.com:25461/images/a3d878b3481d182fddca1b4fb1924196.png" group-title="Turkey",TR: beIN Gurme HD
+http://ky-iptv.com:80/hometeam/hometeam/221165.ts
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="TR: beIN IZ HD" tvg-logo="http://ky-iptv.com:25461/images/8876a233b1633b5879386135ddf69319.png" group-title="Turkey",TR: beIN IZ HD
+http://ky-iptv.com:80/hometeam/hometeam/221166.ts
+#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="TR: beIN Movies Action 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/22836547befd9a819f72869a71a95165.png" group-title="Turkey",TR: beIN Movies Action 2 FHD
+http://ky-iptv.com:80/hometeam/hometeam/221173.ts
+#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="TR: beIN Movies Action FHD" tvg-logo="http://ky-iptv.com:25461/images/22836547befd9a819f72869a71a95165.png" group-title="Turkey",TR: beIN Movies Action FHD
+http://ky-iptv.com:80/hometeam/hometeam/221174.ts
+#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="TR: beIN Movies Family HD" tvg-logo="data:image/png;base64,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" group-title="Turkey",TR: beIN Movies Family HD
+http://ky-iptv.com:80/hometeam/hometeam/221175.ts
+#EXTINF:-1 tvg-id="beINMoviesPremier.tr" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="http://ky-iptv.com:80/images/8aafc8a3a7fdd01a7a458a3d86c99888.png" group-title="Turkey",TR: beIN Movies Premiere 2
+http://ky-iptv.com:80/hometeam/hometeam/221179.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere FHD" tvg-logo="https://d19502wuiaq9sa.cloudfront.net/1200x800/images/8359/digiturk-kanallari-bein-markasi-altinda-birlesiyor_131286978305942245.png" group-title="Turkey",TR: beIN Movies Premiere FHD
+http://ky-iptv.com:80/hometeam/hometeam/221180.ts
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="TR: beIN Movies Stars FHD" tvg-logo="http://ky-iptv.com:25461/images/999c21fccef2cafe3ede15936f6cf260.png" group-title="Turkey",TR: beIN Movies Stars FHD
+http://ky-iptv.com:80/hometeam/hometeam/221181.ts
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="TR: beIN Movies Turk FHD" tvg-logo="http://ky-iptv.com:25461/images/44626d5577fd6ac6820f3fa625e9225f.png" group-title="Turkey",TR: beIN Movies Turk FHD
+http://ky-iptv.com:80/hometeam/hometeam/221182.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FilmBOX HD Yesilcam" tvg-logo="http://ky-iptv.com:25461/images/22836547befd9a819f72869a71a95165.png" group-title="Turkey",TR: FilmBOX HD Yesilcam
+http://ky-iptv.com:80/hometeam/hometeam/221183.ts
+#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="TR: beIN Series Comedy FHD" tvg-logo="http://ky-iptv.com:80/images/279f725d7b6bfb2dd5ae0737d364e536.png" group-title="Turkey",TR: beIN Series Comedy FHD
+http://ky-iptv.com:80/hometeam/hometeam/221184.ts
+#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="TR: beIN Series Drama FHD" tvg-logo="http://ky-iptv.com:25461/images/59b514174bffe4ae402b3d63aad79fe0.png" group-title="Turkey",TR: beIN Series Drama FHD
+http://ky-iptv.com:80/hometeam/hometeam/221185.ts
+#EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="TR: beIN Series Sci-Fi HD" tvg-logo="http://ky-iptv.com:25461/images/be5a36b5a42adce0c35085e958f3da0b.png" group-title="Turkey",TR: beIN Series Sci-Fi HD
+http://ky-iptv.com:80/hometeam/hometeam/221186.ts
+#EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="TR: beIN Series Vice HD" tvg-logo="http://ky-iptv.com:25461/images/7432a57f8b42079c8de8d6c8746d128f.png" group-title="Turkey",TR: beIN Series Vice HD
+http://ky-iptv.com:80/hometeam/hometeam/221187.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Movies Smart Turk HD" tvg-logo="" group-title="Turkey",TR: Movies Smart Turk HD
+http://ky-iptv.com:80/hometeam/hometeam/221188.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT World FHD" tvg-logo="http://ky-iptv.com:80/images/e94c2b6354fe6355bcad0cf7c8cedb33.png" group-title="Turkey",TR: TRT World FHD
+http://ky-iptv.com:80/hometeam/hometeam/848963.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT HD" tvg-logo="http://ky-iptv.com:25461/images/e9aa3dbf737113cf9e952c9cc60f7df6.png" group-title="Turkey",TR: S SPORT HD
+http://ky-iptv.com:80/hometeam/hometeam/947573.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN Sport 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/25dee946bb52b7633331b3eb01efe6bf.png" group-title="Turkey",TR: EXXEN Sport 1 FHD
+http://ky-iptv.com:80/hometeam/hometeam/1697657.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN Sport 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/25dee946bb52b7633331b3eb01efe6bf.png" group-title="Turkey",TR: EXXEN Sport 2 FHD
+http://ky-iptv.com:80/hometeam/hometeam/1697658.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN Sport 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/25dee946bb52b7633331b3eb01efe6bf.png" group-title="Turkey",TR: EXXEN Sport 3 FHD
+http://ky-iptv.com:80/hometeam/hometeam/1697659.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN Sport 4 FHD" tvg-logo="http://ky-iptv.com:25461/images/25dee946bb52b7633331b3eb01efe6bf.png" group-title="Turkey",TR: EXXEN Sport 4 FHD
+http://ky-iptv.com:80/hometeam/hometeam/1697660.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN Sport 5 FHD" tvg-logo="http://ky-iptv.com:80/images/581885e96e0c71c903dc246b2887fbec.png" group-title="Turkey",TR: EXXEN Sport 5 FHD
+http://ky-iptv.com:80/hometeam/hometeam/1697661.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN Sport 6 FHD" tvg-logo="http://ky-iptv.com:25461/images/25dee946bb52b7633331b3eb01efe6bf.png" group-title="Turkey",TR: EXXEN Sport 6 FHD
+http://ky-iptv.com:80/hometeam/hometeam/1697662.ts

@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR - DISCOVERY IDX HD" tvg-logo=" //w7.pngwing.com/pngs/183/472/png-transparent-investigation-discovery-television-channel-id-xtra-television-show-science-television-text-logo.png" group-title="[ BELGESEL KANALLARI ]",TR - DISCOVERY IDX HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/1304.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - DISCOVERY CHANNEL HD" tvg-logo="https://cors.deno.dev/http://resim.yayins.com/kanallar/discovery.png" group-title="[ BELGESEL KANALLARI ]",TR - DISCOVERY CHANNEL HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - DISCOVERY SCIENCE HD" tvg-logo="https://cors.deno.dev/http://resim.yayins.com/kanallar/discovery-science.png" group-title="[ BELGESEL KANALLARI ]",TR - DISCOVERY SCIENCE HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/41124.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - NAT GEO WILD HD" tvg-logo="https://cors.deno.dev/http://resim.yayins.com/kanallar/ngwild.png" group-title="[ BELGESEL KANALLARI ]",TR - NAT GEO WILD HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - NAT GEOGRAPHIC HD" tvg-logo=" //i.ibb.co/WFP383j/1200px-National-Geographic-Logo-svg.png" group-title="[ BELGESEL KANALLARI ]",TR - NAT GEOGRAPHIC HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BBC EARHT HD" tvg-logo="https://cors.deno.dev/http://resim.yayins.com/kanallar/bbc_earth.png" group-title="[ BELGESEL KANALLARI ]",TR - BBC EARHT HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/2812.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - ANIMAL PLANET HD" tvg-logo=" //i.ibb.co/VVdrVvZ/45dbbed34d4d2c4124ad0650bbe434ef.png" group-title="[ BELGESEL KANALLARI ]",TR - ANIMAL PLANET HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - VIASAT HISTORY HD" tvg-logo=" //upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="[ BELGESEL KANALLARI ]",TR - VIASAT HISTORY HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- DMAX HD" tvg-logo=" //i.ibb.co/M2P4tqQ/507.png" group-title="[ BELGESEL KANALLARI ]",TR- DMAX HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/33406.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- TRT AVAZ HD" tvg-logo=" //i.ibb.co/hDjQv85/trt-avaz-logo-1280.png" group-title="[ BELGESEL KANALLARI ]",TR- TRT AVAZ HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/41995.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - TRT BELGESEL  HD" tvg-logo="https://cors.deno.dev/http://resim.yayins.com/kanallar/trtbelgesel.png" group-title="[ BELGESEL KANALLARI ]",TR - TRT BELGESEL  HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - TGRT BELGESEL HD" tvg-logo="https://cors.deno.dev/http://resim.yayins.com/yenilogo/TURKBELGESEL/TRTBELGESELHD.png" group-title="[ BELGESEL KANALLARI ]",TR - TGRT BELGESEL HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/106413.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - REDBOX BELGESEL HD" tvg-logo="" group-title="[ BELGESEL KANALLARI ]",TR - REDBOX BELGESEL HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/113179.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - YABAN TV HD" tvg-logo="https://cors.deno.dev/http://resim.yayins.com/kanallar/Yaban_tv.png" group-title="[ BELGESEL KANALLARI ]",TR - YABAN TV HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - HISTORY HD" tvg-logo=" //i.ibb.co/3zPV453/2000px-History-Logo-svg.png" group-title="[ BELGESEL KANALLARI ]",TR - HISTORY HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- TLC HD" tvg-logo=" //upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="[ BELGESEL KANALLARI ]",TR- TLC HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/4642.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - SCIENCE & VIE TV HD" tvg-logo=" //static.wikia.nocookie.net/logopedia/images/7/71/Science_et_Vie_TV_logo_2015.png/revision/latest?cb=20180326110518" group-title="[ BELGESEL KANALLARI ]",TR - SCIENCE & VIE TV HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/111538.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - DOCUBOX HD" tvg-logo="https://cors.deno.dev/http://resim.yayins.com/yenilogo/TURKIYEUHD/DOCUBOXUHD.png" group-title="[ BELGESEL KANALLARI ]",TR - DOCUBOX HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/111880.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - CHASSE ET PECHE HD" tvg-logo=" //static.wikia.nocookie.net/logopedia/images/0/0b/ChasseEtP%C3%AAche2013.svg/revision/latest/scale-to-width-down/300?cb=20200906180223" group-title="[ BELGESEL KANALLARI ]",TR - CHASSE ET PECHE HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/111540.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - ANIMAUX HD" tvg-logo="https://cors.deno.dev/http://2.bp.blogspot.com/-9zdWw1LKd7s/TmEaHQVyWdI/AAAAAAAACEQ/9rUQqHksAXg/w1200-h630-p-k-no-nu/Animaux+logo+2011.png" group-title="[ BELGESEL KANALLARI ]",TR - ANIMAUX HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/111541.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- BEIN GURME HD" tvg-logo=" //i.ibb.co/DDpcYh0/bein-gurme-logo-3-FA51981-B3-seeklogo-com.png" group-title="[ BELGESEL KANALLARI ]",TR- BEIN GURME HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/41996.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- BEIN IZ HD" tvg-logo=" //i.ibb.co/mvBbzwm/bein-iz-logo-A358-CCCC26-seeklogo-com.png" group-title="[ BELGESEL KANALLARI ]",TR- BEIN IZ HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/53422.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR- 24 KITCHEN HD" tvg-logo=" //i.ibb.co/0j6N8dT/24.png" group-title="[ BELGESEL KANALLARI ]",TR- 24 KITCHEN HD
+https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/53420.ts

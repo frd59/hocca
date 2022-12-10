@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="***** EXXEN SPORT *****" tvg-logo="" group-title="[EXXEN SPORTS ] ",***** EXXEN SPORT *****
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/103791.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 1 FEED HD" tvg-logo="" group-title="[ULUSAL KANALLAR ]",TR - EXXEN SPOR 1 FEED HD
+#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 1 FEED HD" tvg-logo="" group-title="[EXXEN SPORTS ]",TR - EXXEN SPOR 1 FEED HD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/113279.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 1 FHD" tvg-logo=" //img.sport-tv-guide.live/images/tv-station-exxen-2631.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 1 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/103781.ts
@@ -29,13 +29,13 @@ https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdi
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/101617.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD [ 50 FPS ]" tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [ 50 FPS ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/26365.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD.. [ YUKSEK INTERNET ]" tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD.. [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD.. [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/14259.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD [ YUKSEK INTERNET ]" tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/1968.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD. [ YUKSEK INTERNET ]" tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD. [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD. [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/1969.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 2 FHD [ YUKSEK INTERNET ]" tvg-logo=" //i.ibb.co/mqK7cmf/157bb52fbcc87ff33aca65eae3e495e2.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 2 FHD [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 2 FHD " tvg-logo=" //i.ibb.co/mqK7cmf/157bb52fbcc87ff33aca65eae3e495e2.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 2 FHD [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/95.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 3 FHD [ YUKSEK INTERNET ]" tvg-logo=" //i.ibb.co/19tGG4D/5f370cc598aacec8c796e1bb7a7990bc.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 3 FHD [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/96.ts

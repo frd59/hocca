@@ -1,67 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 1 FHD" tvg-logo=" //img.sport-tv-guide.live/images/tv-station-exxen-2631.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 1 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 1 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/103781.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 2 FHD " tvg-logo=" //img.sport-tv-guide.live/images/tv-station-exxen-2631.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 2 FHD 
+#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 2 FHD " tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 2 FHD 
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/103782.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 3 FHD" tvg-logo=" //img.sport-tv-guide.live/images/tv-station-exxen-2631.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 3 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 3 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/103783.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 4 FHD" tvg-logo=" //img.sport-tv-guide.live/images/tv-station-exxen-2631.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 4 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 4 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/104025.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 5 FHD" tvg-logo="//i.ibb.co/8jZ4MJG/Smart-spor-635084424044881793.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 5 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 5 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/104026.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 6 FHD" tvg-logo="//i.ibb.co/8jZ4MJG/Smart-spor-635084424044881793.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 6 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 6 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 6 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/104027.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 7 FHD" tvg-logo="//i.ibb.co/8jZ4MJG/Smart-spor-635084424044881793.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 7 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - EXXEN SPOR 7 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="[EXXEN SPORTS ] ",TR - EXXEN SPOR 7 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/104028.ts
-#EXTINF:-1 tvg-id="" tvg-name="***** BeIN SPORT *****" tvg-logo="//i.ibb.co/8jZ4MJG/Smart-spor-635084424044881793.png" group-title="[ BEIN SPORTS ]",***** BeIN SPORT *****
+#EXTINF:-1 tvg-id="" tvg-name="***** BeIN SPORT *****" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",***** BeIN SPORT *****
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/46631.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS MAX 1 HD" tvg-logo=" //i.ibb.co/1q3YDGc/beinsports1max-hd-70x46.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS MAX 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS MAX 1 HD" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS MAX 1 HD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/1964.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- BEiNSPORTS MAX 2 HD" tvg-logo=" //i.ibb.co/985srDy/beinsports2max-hd-70x46.png" group-title="[ BEIN SPORTS ]",TR- BEiNSPORTS MAX 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR- BEiNSPORTS MAX 2 HD" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR- BEiNSPORTS MAX 2 HD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/5606.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD [FEED YAYIN] MACTA ACIK " tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [FEED YAYIN] MACTA ACIK 
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD [FEED YAYIN] MACTA ACIK " tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [FEED YAYIN] MACTA ACIK 
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/101617.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD [ 50 FPS ]" tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [ 50 FPS ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD [ 50 FPS ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [ 50 FPS ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/26365.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD.. [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD.. [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/14259.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/1968.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD. [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 FHD " tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 FHD. [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/1969.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 2 FHD " tvg-logo=" //i.ibb.co/mqK7cmf/157bb52fbcc87ff33aca65eae3e495e2.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 2 FHD [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 2 FHD " tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 2 FHD [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/95.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 3 FHD [ YUKSEK INTERNET ]" tvg-logo=" //i.ibb.co/19tGG4D/5f370cc598aacec8c796e1bb7a7990bc.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 3 FHD [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 3 FHD [ YUKSEK INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 3 FHD [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/96.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 4 FHD [ YUKSEK INTERNET ]" tvg-logo=" //i.ibb.co/BKCVJ7Q/bein-sports-HD4.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 4 FHD [ YUKSEK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 4 FHD [ YUKSEK INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 4 FHD [ YUKSEK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/97.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 HD [ ORTA INTERNET ]" tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 HD [ ORTA INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 1 HD [ ORTA INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 1 HD [ ORTA INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/94.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 2 HD [ ORTA INTERNET ]" tvg-logo=" //i.ibb.co/mqK7cmf/157bb52fbcc87ff33aca65eae3e495e2.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 2 HD [ ORTA INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 2 HD [ ORTA INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 2 HD [ ORTA INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/99.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 3 HD  [ ORTA INTERNET ]" tvg-logo=" //i.ibb.co/19tGG4D/5f370cc598aacec8c796e1bb7a7990bc.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 3 HD  [ ORTA INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 3 HD  [ ORTA INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 3 HD  [ ORTA INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/100.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 4 HD  [ ORTA INTERNET ]" tvg-logo=" //i.ibb.co/BKCVJ7Q/bein-sports-HD4.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 4 HD  [ ORTA INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEINSPORTS 4 HD  [ ORTA INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR - BEINSPORTS 4 HD  [ ORTA INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/101.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- BEINSPORTS 1 SD [ DUSUK INTERNET ]" tvg-logo=" //i.ibb.co/yknSC6c/340.png" group-title="[ BEIN SPORTS ]",TR- BEINSPORTS 1 SD [ DUSUK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR- BEINSPORTS 1 SD [ DUSUK INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR- BEINSPORTS 1 SD [ DUSUK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/19989.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- BEINSPORTS 2 SD [ DUSUK INTERNET]" tvg-logo=" //i.ibb.co/mqK7cmf/157bb52fbcc87ff33aca65eae3e495e2.png" group-title="[ BEIN SPORTS ]",TR- BEINSPORTS 2 SD [ DUSUK INTERNET]
+#EXTINF:-1 tvg-id="" tvg-name="TR- BEINSPORTS 2 SD [ DUSUK INTERNET]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR- BEINSPORTS 2 SD [ DUSUK INTERNET]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/19990.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- BEINSPORTS  3 SD [ DUSUK INTERNET ]" tvg-logo=" //i.ibb.co/19tGG4D/5f370cc598aacec8c796e1bb7a7990bc.png" group-title="[ BEIN SPORTS ]",TR- BEINSPORTS  3 SD [ DUSUK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR- BEINSPORTS  3 SD [ DUSUK INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR- BEINSPORTS  3 SD [ DUSUK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/19991.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- BEINSPORTS 4 SD [ DUSUK INTERNET ]" tvg-logo=" //i.ibb.co/BKCVJ7Q/bein-sports-HD4.png" group-title="[ BEIN SPORTS ]",TR- BEINSPORTS 4 SD [ DUSUK INTERNET ]
+#EXTINF:-1 tvg-id="" tvg-name="TR- BEINSPORTS 4 SD [ DUSUK INTERNET ]" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="[ BEIN SPORTS ]",TR- BEINSPORTS 4 SD [ DUSUK INTERNET ]
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/19992.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 1 FHD" tvg-logo=" //i.ibb.co/5sL6FkD/channel-cover-1-1521199472.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 1 FHD" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 1 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/88.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 2 FHD" tvg-logo=" //i.ibb.co/B2rbC3h/channel-cover-2-1521200277.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 2 FHD" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 2 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/89.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 3 FHD" tvg-logo=" //i.ibb.co/SnFPt7k/channel-cover-3-1521200307.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 3 FHD" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 3 FHD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/90.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 1 SD" tvg-logo=" //i.ibb.co/5sL6FkD/channel-cover-1-1521199472.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 1 SD" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 1 SD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/84.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 2 SD" tvg-logo=" //i.ibb.co/B2rbC3h/channel-cover-2-1521200277.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 2 SD" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 2 SD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/85.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 3 SD" tvg-logo=" //i.ibb.co/SnFPt7k/channel-cover-3-1521200307.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 3 SD" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png" group-title="[ SPOR KANALLARI ]",TR - TIVIBU SPOR 3 SD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/86.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR- SMART SPOR  HD" tvg-logo=" //i.ibb.co/8jZ4MJG/Smart-spor-635084424044881793.png" group-title="[ SPOR KANALLARI ]",TR- SMART SPOR  HD
 https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/53257.ts

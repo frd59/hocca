@@ -1,218 +1,76 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS Haber FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="TR | SPOR-EXTRA",TR | BEIN SPORTS Haber FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1189
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 MOBILTV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 MOBILTV
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/45271
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/2752
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1173
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92601
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 SD " tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 SD 
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92608
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 2 SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92609
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS  3 SD " tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS  3 SD 
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92610
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 4 SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92611
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3937
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 2 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92605
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 3 HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 3 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92606
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 4 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92607
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 5 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/106797
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 FHD." tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 FHD.
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/2551
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 2 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92602
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 3 FHD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 3 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92603
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 4 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92604
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | BEINSPORTS 1 4K " tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 4K 
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/93098
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 UHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 UHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1174
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINSPORTS 1 FHD FEED " tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEINSPORTS 1 FHD FEED 
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/60489
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 2 SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3938
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 2 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1177
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 2 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/28025
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 3 SD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 3 SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/45273
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 3 HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 3 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1178
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 3 FHD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 3 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3939
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 4 SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/45274
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 4 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1179
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS 4 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3940
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS MAX 1 HD" tvg-logo="https://1.bp.blogspot.com/-ggwCBqyY_Pg/YBMXUwmvIlI/AAAAAAAAACY/wKdldyq2mdIzGFSHvTpHQIIhuo_sQ6EEACPcBGAYYCw/s320/Sports-Max-1.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS MAX 1 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1182
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS MAX 2 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS MAX 2 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1183
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS MAX 1 FHD" tvg-logo="https://1.bp.blogspot.com/-ggwCBqyY_Pg/YBMXUwmvIlI/AAAAAAAAACY/wKdldyq2mdIzGFSHvTpHQIIhuo_sQ6EEACPcBGAYYCw/s320/Sports-Max-1.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS MAX 1 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3941
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS MAX 2 FHD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS MAX 2 FHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3942
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINCONNET CANLI 1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-turkiye-qa-tr.png" group-title="TR | BEIN-SPORT",TR | BEINCONNET CANLI 1
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/71374
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINCONNET CANLI 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-turkiye-qa-tr.png" group-title="TR | BEIN-SPORT",TR | BEINCONNET CANLI 2
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/71375
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINCONNET CANLI 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-turkiye-qa-tr.png" group-title="TR | BEIN-SPORT",TR | BEINCONNET CANLI 3
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/71376
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINCONNET CANLI 4" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-turkiye-qa-tr.png" group-title="TR | BEIN-SPORT",TR | BEINCONNET CANLI 4
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/71377
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINCONNET CANLI 5" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-turkiye-qa-tr.png" group-title="TR | BEIN-SPORT",TR | BEINCONNET CANLI 5
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/71378
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEINCONNET CANLI 6" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-turkiye-qa-tr.png" group-title="TR | BEIN-SPORT",TR | BEINCONNET CANLI 6
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/71379
-#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT HD*" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S-SPORT HD*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1197
-#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S-SPORT HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1196
-#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT 2 HD*" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-2-tr.png" group-title="TR | SPOR-EXTRA",TR | S-SPORT 2 HD*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3943
-#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-2-tr.png" group-title="TR | SPOR-EXTRA",TR | S-SPORT 2 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3068
-#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT PLUS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S-SPORT PLUS
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/79842
-#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS 1 HD ( Yayın zamanı aktif )" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S SPORT PLUS 1 HD ( Yayın zamanı aktif )
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92461
-#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS 2 HD ( Yayın zamanı aktif )" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S SPORT PLUS 2 HD ( Yayın zamanı aktif )
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92462
-#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS 3 HD ( Yayın zamanı aktif )" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S SPORT PLUS 3 HD ( Yayın zamanı aktif )
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92463
-#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS 4 HD ( Yayın zamanı aktif )" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S SPORT PLUS 4 HD ( Yayın zamanı aktif )
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92464
-#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS 5 HD ( Yayın zamanı aktif )" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S SPORT PLUS 5 HD ( Yayın zamanı aktif )
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92465
-#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS 6 HD ( Yayın zamanı aktif )" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s-sport-tr.png" group-title="TR | SPOR-EXTRA",TR | S SPORT PLUS 6 HD ( Yayın zamanı aktif )
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92466
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 1 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 1 FHD  (Mac Saatinde)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/91401
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 2 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 2 FHD  (Mac Saatinde)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/91402
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 3 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 3 FHD  (Mac Saatinde)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/91403
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 4 FHD (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 4 FHD (Mac Saatinde)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/93110
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 5 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 5 FHD  (Mac Saatinde)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/93111
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 6 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 6 FHD  (Mac Saatinde)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/93112
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 7 FHD  (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 7 FHD  (Mac Saatinde)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/93113
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN SPORTS 8 FHD (Mac Saatinde)" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN SPORTS 8 FHD (Mac Saatinde)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/106446
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 1" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 1
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92455
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 2" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 2
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92457
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 3" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 3
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92459
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 1*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 1*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92010
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 2*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 2*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92011
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN HD 3*" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN HD 3*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92012
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 1 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 1 720p
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92456
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 2 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 2 720p
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92458
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXEN 3 720p" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXEN 3 720p
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92460
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXENN SPORTS 1 HD" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXENN SPORTS 1 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92007
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXENN SPORTS 2 HD" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXENN SPORTS 2 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92008
-#EXTINF:-1 tvg-id="" tvg-name="TR | EXXENN SPORTS 3 HD" tvg-logo="https://staticb.yolcu360.com/blog/wp-content/uploads/2020/12/24220928/exxen-TV.png" group-title="TR | EXXEN-SPORT",TR | EXXENN SPORTS 3 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/92009
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 1 HD*" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu_tr_spor.png" group-title="TR | SPOR-EXTRA",TR | TIVIBU SPOR 1 HD*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1190
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu_tr_spor.png" group-title="TR | SPOR-EXTRA",TR | TIVIBU SPOR 1 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1193
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 2 HD*" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="TR | SPOR-EXTRA",TR | TIVIBU SPOR 2 HD*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/2565
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="TR | SPOR-EXTRA",TR | TIVIBU SPOR 2 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1194
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 3 HD*" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="TR | SPOR-EXTRA",TR | TIVIBU SPOR 3 HD*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/2564
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="TR | SPOR-EXTRA",TR | TIVIBU SPOR 3 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1195
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu_tr_spor_4.png" group-title="TR | SPOR-EXTRA",TR | TIVIBU SPOR 4 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/106958
-#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBU SPOR 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivibu-spor-5-tr.png" group-title="TR | SPOR-EXTRA",TR | TIVIBU SPOR 5 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/107068
-#EXTINF:-1 tvg-id="" tvg-name="TR | SMART SPOR HD*" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-tr.png" group-title="TR | SPOR-EXTRA",TR | SMART SPOR HD*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1200
-#EXTINF:-1 tvg-id="" tvg-name="TR | SMART SPOR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-tr.png" group-title="TR | SPOR-EXTRA",TR | SMART SPOR HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/4957
-#EXTINF:-1 tvg-id="" tvg-name="TR | SMART SPOR 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-2-tr.png" group-title="TR | SPOR-EXTRA",TR | SMART SPOR 2 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/60515
-#EXTINF:-1 tvg-id="" tvg-name="TR | SMART SPOR 2 HD*" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-2-tr.png" group-title="TR | SPOR-EXTRA",TR | SMART SPOR 2 HD*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/60516
-#EXTINF:-1 tvg-id="" tvg-name="TR | SPORTS TV HD*" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports_tv_tr.png" group-title="TR | SPOR-EXTRA",TR | SPORTS TV HD*
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/45277
-#EXTINF:-1 tvg-id="" tvg-name="TR | SPORTS TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports_tv_tr.png" group-title="TR | SPOR-EXTRA",TR | SPORTS TV HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/38233
-#EXTINF:-1 tvg-id="" tvg-name="TR | NBA TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="TR | SPOR-EXTRA",TR | NBA TV HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3946
-#EXTINF:-1 tvg-id="" tvg-name="TR | FIGHTBOX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="TR | SPOR-EXTRA",TR | FIGHTBOX HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3947
-#EXTINF:-1 tvg-id="" tvg-name="TR | EUROSPORT 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="TR | SPOR-EXTRA",TR | EUROSPORT 1 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1201
-#EXTINF:-1 tvg-id="" tvg-name="TR | EUROSPORT 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="TR | SPOR-EXTRA",TR | EUROSPORT 2 HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1202
-#EXTINF:-1 tvg-id="" tvg-name="TR | TRT SPOR SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-tr.png" group-title="TR | SPOR-EXTRA",TR | TRT SPOR SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/24046
-#EXTINF:-1 tvg-id="" tvg-name="TR | TRT SPOR HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-tr.png" group-title="TR | SPOR-EXTRA",TR | TRT SPOR HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1205
-#EXTINF:-1 tvg-id="" tvg-name="TR | TRT SPOR UHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-tr.png" group-title="TR | SPOR-EXTRA",TR | TRT SPOR UHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/36176
-#EXTINF:-1 tvg-id="" tvg-name="TR | TRT SPOR YILDIZ HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="TR | SPOR-EXTRA",TR | TRT SPOR YILDIZ HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/93068
-#EXTINF:-1 tvg-id="" tvg-name="TR | TRT SPOR YILDIZ SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="TR | SPOR-EXTRA",TR | TRT SPOR YILDIZ SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/93069
-#EXTINF:-1 tvg-id="" tvg-name="TR | A SPOR SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a_spor_tr.png" group-title="TR | SPOR-EXTRA",TR | A SPOR SD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1204
-#EXTINF:-1 tvg-id="" tvg-name="TR | A SPOR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a_spor_tr.png" group-title="TR | SPOR-EXTRA",TR | A SPOR HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1203
-#EXTINF:-1 tvg-id="" tvg-name="TR | A SPOR UHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a_spor_tr.png" group-title="TR | SPOR-EXTRA",TR | A SPOR UHD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/36178
-#EXTINF:-1 tvg-id="" tvg-name="TR | FB TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fbtv_fenerbahce.png" group-title="TR | SPOR-EXTRA",TR | FB TV HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1207
-#EXTINF:-1 tvg-id="" tvg-name="TR | GS TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galatasaray_tv.png" group-title="TR | SPOR-EXTRA",TR | GS TV HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1206
-#EXTINF:-1 tvg-id="" tvg-name="TR | TJK TV HD" tvg-logo="https://i.pinimg.com/originals/36/5d/a8/365da80d63c27951d62265523500f921.png" group-title="TR | SPOR-EXTRA",TR | TJK TV HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/1208
-#EXTINF:-1 tvg-id="" tvg-name="TR | TAY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tay-tv-tr.png" group-title="TR | SPOR-EXTRA",TR | TAY TV HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/3945
-#EXTINF:-1 tvg-id="" tvg-name="TR | KICKBOKS" tvg-logo="https://w7.pngwing.com/pngs/517/880/png-transparent-bulls-fight-academy-kickboxing-bull-fighting-logo-sports-equipment-fictional-character-thumbnail.png" group-title="TR | SPOR-EXTRA",TR | KICKBOKS
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/65256
-#EXTINF:-1 tvg-id="" tvg-name="TR | WWE SMACKDOWN" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2019/09/SmackDown-Logo_1040X585-450x300.png" group-title="TR | SPOR-EXTRA",TR | WWE SMACKDOWN
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/65257
-#EXTINF:-1 tvg-id="" tvg-name="TR | EGZERSIZ SPORLARI" tvg-logo="https://spor.istanbul/wp-content/uploads/2021/06/PAZAR-cVCpy-41.png" group-title="TR | SPOR-EXTRA",TR | EGZERSIZ SPORLARI
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/65258
-#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKMEN SPORT HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png" group-title="TR | SPOR-EXTRA",TRS | TURKMEN SPORT HD
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/95658
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS HD 3 (TR)" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS HD 3 (TR)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/28170
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS HD 2 (TR)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS HD 2 (TR)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/28169
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS HD 1 (TR)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS HD 1 (TR)
-https://cors.deno.dev/http://135.181.134.183:50750/90FibErAkinciMEdia09/X90HollaNdAliUmutX09/28168
-#EXTINF:-1 tvg-id="" tvg-name="TR | BEIN SPORTS HD 4 (TR)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="TR | BEIN-SPORT",TR | BEIN SPORTS HD 4 (TR)
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORT HABER FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORT HABER FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/34
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 HD" tvg-logo="https://static.epg.best/tr/beINSports2.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 2 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/36
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 3 HD" tvg-logo="https://static.epg.best/tr/beINSports3.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 3 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/37
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EUROSPORT 1 HD" tvg-logo="https://static.epg.best/tr/Eurosport1.tr.png" group-title="TR SPORT",[TR] EUROSPORT 1 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/39
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EUROSPORT 2 HD" tvg-logo="https://static.epg.best/tr/Eurosport2.tr.png" group-title="TR SPORT",[TR] EUROSPORT 2 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/40
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SPOR SMART 2 FHD (Macta Aktif)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-2-tr.png" group-title="TR SPORT",[TR] SPOR SMART 2 FHD (Macta Aktif)
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/41
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S-SPORT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",[TR] S-SPORT HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/42
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S-SPORT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="TR SPORT",[TR] S-SPORT 2 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/43
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="TR SPORT",[TR] TIVIBU SPOR 1 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/44
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="TR SPORT",[TR] TIVIBU SPOR 2 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/45
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TIVIBU SPOR 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="TR SPORT",[TR] TIVIBU SPOR 3 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/46
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORT MAX HD" tvg-logo="https://static.epg.best/tr/beINSportsMax1.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORT MAX HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/47
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT SPOR HD" tvg-logo="https://static.epg.best/tr/TRTSpor.tr.png" group-title="TR SPORT",[TR] TRT SPOR HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/49
+#EXTINF:-1 tvg-id="" tvg-name="[TR] A SPOR HD" tvg-logo="https://static.epg.best/tr/ASpor.tr.png" group-title="TR SPORT",[TR] A SPOR HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/52
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORT MAX 2 HD" tvg-logo="https://static.epg.best/tr/beINSportsMax2.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORT MAX 2 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/48
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SPORTS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" group-title="TR SPORT",[TR] SPORTS TV
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/54
+#EXTINF:-1 tvg-id="" tvg-name="[TR] GS TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galatasaray_tv.png" group-title="TR SPORT",[TR] GS TV
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/57
+#EXTINF:-1 tvg-id="" tvg-name="[TR] FB TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fbtv_fenerbahce.png" group-title="TR SPORT",[TR] FB TV
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/56
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 4 HD" tvg-logo="https://static.epg.best/tr/beINSports4.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 4 HD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/6337
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 HD²" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 1 HD²
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/14644
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 FHD¹ 50 FPS" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 1 FHD¹ 50 FPS
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/14645
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 FEED 50FPS (MAC SAATI AKTIF)" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 1 FEED 50FPS (MAC SAATI AKTIF)
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/14643
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT SPOR 2 HD H265" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-spor-yildiz-tr.png" group-title="TR SPORT",[TR] TRT SPOR 2 HD H265
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/19805
+#EXTINF:-1 tvg-id="" tvg-name="===TR SPOR===" tvg-logo="" group-title="TR SPORT",===TR SPOR===
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/24484
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 FHD" tvg-logo="https://static.epg.best/tr/beINSports2.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 2 FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/53325
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SPOR SMART 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-tr.png" group-title="TR SPORT",[TR] SPOR SMART 1 FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/61326
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 4K H265" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 4K H265
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/63549
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORT 1 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="TR EX**N SPOR",[TR] EXXEN SPORT 1 FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/78260
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORT 2 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="TR EX**N SPOR",[TR] EXXEN SPORT 2 FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/78312
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORT 3 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="TR EX**N SPOR",[TR] EXXEN SPORT 3 FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/78313
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 4 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="TR EX**N SPOR",[TR] EXXEN SPORTS 4 FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/80671
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 5 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="TR EX**N SPOR",[TR] EXXEN SPORTS 5 FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/80672
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORTS 6 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="TR EX**N SPOR",[TR] EXXEN SPORTS 6 FHD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/80673
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EXXEN SPORT 1 FHD2" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4259ed110517397.5fefa413ec4a0.png" group-title="TR EX**N SPOR",[TR] EXXEN SPORT 1 FHD2
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/80821
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S-SPORT PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Ssport-plus-.png" group-title="TR SPORT",[TR] S-SPORT PLUS
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/94671
+#EXTINF:-1 tvg-id="" tvg-name="[TR] NBA TV" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="TR SPORT",[TR] NBA TV
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/102899
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 5" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F205%2Fbein-sports-hd-1.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 5
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/119413
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 1 SD" tvg-logo="" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 1 SD
+http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/105692

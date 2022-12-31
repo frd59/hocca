@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORT HABER FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORT HABER FHD
+#EXTM3U
+#EXTM3U#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORT HABER FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORT HABER FHD
 http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/34
 #EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 HD" tvg-logo="https://static.epg.best/tr/beINSports2.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 2 HD
 http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/36

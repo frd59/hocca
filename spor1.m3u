@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BeIN SPORTS 1 4K (2160P)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: BeIN SPORTS 1 4K (2160P)
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40759
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 HD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40760
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 UHD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 UHD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40761
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 (GECIKMESIZ)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 (GECIKMESIZ)
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40762
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPOR 1 HD (MAC SAATI)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: BEIN SPOR 1 HD (MAC SAATI)
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/63445
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 HD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 HD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40763
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 UHD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 UHD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40764
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 (Yedek)" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 (Yedek)
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40765
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: Bein SPORTS 3 HD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 3 HD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40766
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: Bein SPORTS 3 UHD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 3 UHD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40767
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: Bein SPORTS 4 HD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 4 HD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40768
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN SPORTS 4 UHD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR: SPOR",TR: beIN SPORTS 4 UHD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/40769
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR: SPOR",TR: beIN SPORTS 5 HD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/140573
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 UHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR: SPOR",TR: beIN SPORTS 5 UHD
+http://81duzceiptv.com:4512/tropicalkopru/dP9CHaYGIQ/140574
 #EXTM3U#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORT HABER FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORT HABER FHD
 http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/34
 #EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 HD" tvg-logo="https://static.epg.best/tr/beINSports2.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 2 HD

@@ -1,6 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 HD
 https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51915
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS FHD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4649
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 HD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/18947
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORT 1 FHD (1080p)" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORT 1 FHD (1080p)
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4658
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HEVC" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 HEVC
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4648
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 FEED" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 FEED
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4650
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 FHD FEED" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 FHD FEED
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/24511
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 2 FHD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4651
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 2 HD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4652
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 3 HD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4653
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 3 FHD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4654
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 3 FHD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/6688
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 4 FHD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4655
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 4 HD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4656
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 5 HD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/27608
 #EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORT HABER FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORT HABER FHD
 http://ftnh1923.nl:8080/petrovic/Ln4IpPwdSc/34
 #EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SPORTS 2 HD" tvg-logo="https://static.epg.best/tr/beINSports2.tr.png" group-title="TR B**N SPORTS",[TR] BEIN SPORTS 2 HD

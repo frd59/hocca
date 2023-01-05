@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR- Bein Box Office 1 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="Turkish",TR- Bein Box Office 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/689.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- Bein Box Office 2 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice2_DIGITAL_Mono.png.png" group-title="Turkish",TR- Bein Box Office 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/690.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- Bein Box Office 3 HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" group-title="Turkish",TR- Bein Box Office 3 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/691.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- Bein Movies Action 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Movies_Premiere_2_TR_logo.png" group-title="Turkish",TR- Bein Movies Action 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/692.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- Bein Movies Family HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/335/Image/bein_movies_family_250x150_2022.png" group-title="Turkish",TR- Bein Movies Family HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/693.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- Bein Movies Premier HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Movies_Premiere_TR_logo.png" group-title="Turkish",TR- Bein Movies Premier HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/695.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- Bein Movies Stars HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Movies_Premiere_TR_logo.png" group-title="Turkish",TR- Bein Movies Stars HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/696.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- Bein Movies Turk HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Movies_Turk_TR_logo.png" group-title="Turkish",TR- Bein Movies Turk HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/697.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- BeIN Series Drama HD" tvg-logo="https://w7.pngwing.com/pngs/144/282/png-transparent-logo-bein-media-group-bein-sports-high-definition-television-film-others-love-text-logo.png" group-title="Turkish",TR- BeIN Series Drama HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/698.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- BeIN Series Sci-Fi HD" tvg-logo="https://e7.pngegg.com/pngimages/171/50/png-clipart-la-liga-bein-sports-1-bein-channels-network-others-purple-text.png" group-title="Turkish",TR- BeIN Series Sci-Fi HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/699.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR- BeIN Series Vice HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_SERIES_VICE_TR_logo.png" group-title="Turkish",TR- BeIN Series Vice HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/700.ts
 #EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="|TR| beIN Movies Action 4K+" tvg-logo="https://cors.deno.dev/http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.png" group-title="TR : Sinema",|TR| beIN Movies Action 4K+
 https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/162
 #EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="|TR| beIN Movies Action 2 4K+" tvg-logo="https://cors.deno.dev/http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.2.png" group-title="TR : Sinema",|TR| beIN Movies Action 2 4K+

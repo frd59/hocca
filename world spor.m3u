@@ -1,0 +1,1389 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rq9cfory7cb5vtc/affcup.png?dl=1" group-title="Olahraga",AFF CUP
+https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tsbiwz9h3khntgn/mlbb.png?dl=1" group-title="Olahraga",MLBB M4
+https://dl.dropbox.com/s/owdpr4459ndvbpn/mlbb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/96ogqr42ssgabs6/proliga.png?dl=1" group-title="Olahraga",PROLIGA
+https://etslive-2-vidio-com.akamaized.net/exp=1673105682~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=f3bd87f728d01a52b08a81fd91621bc7c4123d17b7398018d3c0406c19f61cbe/vp9/11524_stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 1
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium123/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 2
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium124/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 3
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium125/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 4
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium126/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png?dl=1" group-title="Olahraga",Astro Supersport 5
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium43/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f94rw3u957uzs35/astrocricket.png?dl=1" group-title="Olahraga",Astro Cricket
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium370/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v43y2sxoikzhq6z/arenasport.png?dl=1" group-title="Olahraga",Arena Sport 1
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v43y2sxoikzhq6z/arenasport.png?dl=1" group-title="Olahraga",Arena Sport 2
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium430/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v43y2sxoikzhq6z/arenasport.png?dl=1" group-title="Olahraga",Arena Sport 3
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium431/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v43y2sxoikzhq6z/arenasport.png?dl=1" group-title="Olahraga",Arena Sport 4
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium580/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/x502xa7pvjj6wt9/arena1premium.png?dl=1" group-title="Olahraga",Arena 1 Premium
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium134/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yd5zpcflrc6s214/arena2premium.png?dl=1" group-title="Olahraga",Arena 2 Premium
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium135/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4zinxnfky1ad141/arena3premium.png?dl=1" group-title="Olahraga",Arena 3 Premium
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium139/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ssdfduuehudz58x/tsn.png?dl=1" group-title="Olahraga",TSN 1
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium365/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ssdfduuehudz58x/tsn.png?dl=1" group-title="Olahraga",TSN 2
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium112/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ssdfduuehudz58x/tsn.png?dl=1" group-title="Olahraga",TSN 3
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium113/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ssdfduuehudz58x/tsn.png?dl=1" group-title="Olahraga",TSN 4
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium114/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ssdfduuehudz58x/tsn.png?dl=1" group-title="Olahraga",TSN 5
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium115/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fnm5pcql5f4jnxd/sportv.png?dl=1" group-title="Olahraga",Sportv 1
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium78/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fnm5pcql5f4jnxd/sportv.png?dl=1" group-title="Olahraga",Sportv 2
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium79/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fnm5pcql5f4jnxd/sportv.png?dl=1" group-title="Olahraga",Sportv 3
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium80/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hlxxmcm3dcxd2hy/sporttv.png?dl=1" group-title="Olahraga",Sport TV 1
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium49/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hlxxmcm3dcxd2hy/sporttv.png?dl=1" group-title="Olahraga",Sport TV 2
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium74/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hlxxmcm3dcxd2hy/sporttv.png?dl=1" group-title="Olahraga",Sport TV 3
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium454/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png?dl=1" group-title="Olahraga",BT Sport 1
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium31/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png?dl=1" group-title="Olahraga",BT Sport 2
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium32/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png?dl=1" group-title="Olahraga",BT Sport 3
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium33/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ex5ccfwxbonqvaj/btsport2.png?dl=1" group-title="Olahraga",BT Sport 4
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium34/index.m3u8|referer=https://streamservicehd.click/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/o4xxriiiks2iu48/beinsports1.png?dl=1" group-title="Olahraga",Bein Sports 1 ID
+#https://anv-livechannel-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lcjqga7gf73toet/beinsports3.png?dl=1" group-title="Olahraga",Bein Sports 3 ID
+#https://anv-livechannel-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 1
+#http://warkop.cf/80/bein/01.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 2
+#http://warkop.cf/80/bein/02.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium92/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 3
+#http://warkop.cf/80/bein/03.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium93/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 4
+#http://warkop.cf/80/bein/04.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium94/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 5
+#http://warkop.cf/80/bein/05.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium95/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 6
+#http://warkop.cf/80/bein/06.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium96/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 7
+#http://warkop.cf/80/bein/07.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium97/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 1 Premium
+#http://warkop.cf/80/bein/08.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium98/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 2 Premium
+#http://warkop.cf/80/bein/09.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium99/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 3 Premium
+#http://warkop.cf/80/bein/10.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium100/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports Xtra
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports Xtra 1
+http://warkop.cf/80/bein/17.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports Xtra 2
+http://warkop.cf/80/bein/18.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports N
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 1 English
+#http://warkop.cf/80/bein/11.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium61/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 2 English
+#http://warkop.cf/80/bein/12.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium90/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 3 English
+#http://warkop.cf/80/bein/13.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium46/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 1 French
+#http://warkop.cf/80/bein/14.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium116/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 2 French
+#http://warkop.cf/80/bein/15.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium117/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 3 French
+#http://warkop.cf/80/bein/16.m3u8
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium118/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 1 Turki
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium62/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 2 Turki
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium63/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 3 Turki
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium64/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 4 Turki
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium67/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 1 Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lfnex0i804jsefs/beinsports.png?dl=1" group-title="Olahraga",Bein Sports 3 Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1wabbphijo2ien0/fs1.png?dl=1" group-title="Olahraga",FS1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/13hw65m8ao0zcr8/fs2.png?dl=1" group-title="Olahraga",FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r0m9io07h4dv70b/foxsports.png?dl=1" group-title="Olahraga",Fox Sports 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r0m9io07h4dv70b/foxsports.png?dl=1" group-title="Olahraga",Fox Sports 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r0m9io07h4dv70b/foxsports.png?dl=1" group-title="Olahraga",Fox Sports 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2084e3cjes89yv6/eurosport.png?dl=1" group-title="Olahraga",Eurosport 1
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium524/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2084e3cjes89yv6/eurosport.png?dl=1" group-title="Olahraga",Eurosport 2
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium525/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5py61tht7sylkqe/espn.png?dl=1" group-title="Olahraga",ESPN US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5py61tht7sylkqe/espn.png?dl=1" group-title="Olahraga",ESPN 2 US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5py61tht7sylkqe/espn.png?dl=1" group-title="Olahraga",ESPN
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium81/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5py61tht7sylkqe/espn.png?dl=1" group-title="Olahraga",ESPN 2
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium82/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5py61tht7sylkqe/espn.png?dl=1" group-title="Olahraga",ESPN 3
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium83/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5py61tht7sylkqe/espn.png?dl=1" group-title="Olahraga",ESPN Deportes
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium375/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5py61tht7sylkqe/espn.png?dl=1" group-title="Olahraga",ESPN Premium
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium387/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",+Sport
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium122/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",+Sport 360
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium464/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cuqmceeumh8dm11/canal%2B.png?dl=1" group-title="Olahraga",+Foot
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium463/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yn9gyp48b3t8mkm/diema.png?dl=1" group-title="Olahraga",Diema Sport 1
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium465/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dm7vd6jjk2k0xsy/diema2.png?dl=1" group-title="Olahraga",Diema Sport 2
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium466/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wu7nzi0qp74u37v/tudn.png?dl=1" group-title="Olahraga",TUDN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vt2cqkppjswc0g5/tycsports.png?dl=1" group-title="Olahraga",TyC Sports
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2ovopi1tg2wym6v/mutv.png?dl=1" group-title="Olahraga",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/aqb7snrx7sg3862/realmadridtv.png?dl=1" group-title="Olahraga",Real Madrid TV
+https://rmtv-canela.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3ypeowly0e6zqdb/truesports1.png?dl=1" group-title="Olahraga",True Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fv8l24cb1ihz689/truesports2.png?dl=1" group-title="Olahraga",True Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r46cvbq6oia3dea/truesports3.png?dl=1" group-title="Olahraga",True Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iq30brv2ntkmmqn/truesports4.png?dl=1" group-title="Olahraga",True Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nhkjohmfw98e0bq/truesports5.png?dl=1" group-title="Olahraga",True Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/b5jnn0j8lk9lo9w/truepremierfootball1.png?dl=1" group-title="Olahraga",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3fh3h16lgp0835m/truepremierfootball2.png?dl=1" group-title="Olahraga",True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/r83u0ga13f4ajpa/truepremierfootball3.png?dl=1" group-title="Olahraga",True Premier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/j4qaqxhnqwijf63/truepremierfootball4.png?dl=1" group-title="Olahraga",True Premier Football 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pcqvszx59tu0xg9/truepremierfootball5.png?dl=1" group-title="Olahraga",True Premier Football 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v5rcg62t5a080l0/ziggosport.png?dl=1" group-title="Olahraga",Ziggo Sport Racing
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium396/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v5rcg62t5a080l0/ziggosport.png?dl=1" group-title="Olahraga",Ziggo Sport Docu
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium383/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v5rcg62t5a080l0/ziggosport.png?dl=1" group-title="Olahraga",Ziggo Sport Select
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium393/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v5rcg62t5a080l0/ziggosport.png?dl=1" group-title="Olahraga",Ziggo Sport Voetbal
+https://cors.deno.dev/https://webdi.openhd.lol/ddy1/premium398/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/massxi2j5fj1qo8/unifi.png?dl=1" group-title="Olahraga",Unifi Sport 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/massxi2j5fj1qo8/unifi.png?dl=1" group-title="Olahraga",Unifi Sport 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/txrhza2co3508cc/fightsports.png?dl=1" group-title="Olahraga",Fight Sports
+#https://anv-livechannel-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/836xn3ftyuo5yfb/fite.png?dl=1" group-title="Olahraga",Fite
+#https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/mbz253pyyvycavw/impact.png?dl=1" group-title="Olahraga",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/k8hddqr5jltlpf3/adrenalina.png?dl=1" group-title="Olahraga",Adrenalina Sports Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xnjpimgqm1fv9ej/axstv.png?dl=1" group-title="Olahraga",AXS TV
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1h9ie8d4mazxcvy/redbulltv.png?dl=1" group-title="Olahraga",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gjqrrba1dl6t854/match.png?dl=1" group-title="Olahraga",Match!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1l69xj7sxhq1k0q/daznf1.png?dl=1" group-title="Olahraga",DAZN F1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tbcvarbz13qitmv/daznlaliga.png?dl=1" group-title="Olahraga",DAZN La Liga
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium538/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/e6vlhb82t8urfo3/adsports1.png?dl=1" group-title="Olahraga",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/52mbb7vx1l4uke0/adsports2.png?dl=1" group-title="Olahraga",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0uzffo0lbbxfd29/adsports3.png?dl=1" group-title="Olahraga",Abu Dhabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cw9h4hzhxiyqh9z/dubaisports.png?dl=1" group-title="Olahraga",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/o3qd1a1gpe6ztia/dubaisports2.png?dl=1" group-title="Olahraga",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vq8ed1nf10ym1n1/dubaisports3.png?dl=1" group-title="Olahraga",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iip48m7zvvxbi6b/horizon.png?dl=1" group-title="Olahraga",Horizon Sports
+http://210.210.155.37/uq2663/h/h282/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4imnzr21haieqz1/motorracing.png?dl=1" group-title="Olahraga",Motor Racing
+#http://210.210.155.37/uq2663/h/h223/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/047f241e-6a2f-4d8a-baac-3d0eb93758aa/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3f1wr61du22up80/motorvision.png?dl=1" group-title="Olahraga",Motorvision TV
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ru1hj9gsts9l1s0/motor1.png?dl=1" group-title="Olahraga",Motor1 TV
+https://motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0kaqg823dabwb0p/edgesports.png?dl=1" group-title="Olahraga",Edge Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ia3o8jinfqxsc3a/mavtv.png?dl=1" group-title="Olahraga",MavTV
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ogtqa4dhapw24gv/nbatv.png?dl=1" group-title="Olahraga",NBA TV
+#http://iptvid.my.id/hmm/nba.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dgiriynskk6252f/tennischannel.png?dl=1" group-title="Olahraga",Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vs8jnkmwgw9xwub/truetennis.png?dl=1" group-title="Olahraga",True Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2f10x0m4h4qhsye/golf.png?dl=1" group-title="Olahraga",Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7b91c92lplsks96/spotv.png?dl=1" group-title="Olahraga",SPOTV 1
+#https://anv-livechannel-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7b91c92lplsks96/spotv.png?dl=1" group-title="Olahraga",SPOTV 2
+#https://anv-livechannel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/royqep3xryxyqtv/soccer.png?dl=1" group-title="Olahraga",Soccer Channel
+https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tr9cntdpjfw7vvs/mncsports.png?dl=1" group-title="Olahraga",MNC Sports 1
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tr9cntdpjfw7vvs/mncsports.png?dl=1" group-title="Olahraga",MNC Sports 2
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tr9cntdpjfw7vvs/mncsports.png?dl=1" group-title="Olahraga",MNC Sports 3
+https://anv-livechannel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/p7y7domrmfxjo1j/tvrisport.png?dl=1" group-title="Olahraga",TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/n3g3fxd2gude2fo/useesports.png?dl=1" group-title="Olahraga",Usee Sports 1
+http://iptvid.my.id/hmm/useetl1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/n3g3fxd2gude2fo/useesports.png?dl=1" group-title="Olahraga",Usee Sports 2
+http://iptvid.my.id/hmm/useetl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/oqx601ru3q4fwi8/egg.png?dl=1" group-title="Olahraga",Egg Network
+http://210.210.155.37/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qjmexo3tydyj2sj/duniagames.png?dl=1" group-title="Olahraga",Dunia Games
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/as791qpnhw4gn6i/densplay.png?dl=1" group-title="Olahraga",Dens Play
+http://210.210.155.37/x6bnqe/s/s37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/acfrk26rhbaqpqd/sctv.png?dl=1" group-title="Lokal",SCTV
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/acfrk26rhbaqpqd/sctv.png?dl=1" group-title="Lokal",SCTV
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eqbvbf28z4cj4zw/indosiar.png?dl=1" group-title="Lokal",Indosiar
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eqbvbf28z4cj4zw/indosiar.png?dl=1" group-title="Lokal",Indosiar
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
+https://dl.dropbox.com/s/qcoxpjuwsaccqc1/moji.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ja4t9tvfvk4oupi/moji.png?dl=1" group-title="Lokal",Moji
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fplpsm57no899e8/net.png?dl=1" group-title="Lokal",NET
+https://anv-livechannel-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fplpsm57no899e8/net.png?dl=1" group-title="Lokal",NET
+#http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+http://45.126.83.51:80/qwr9ew/s/s08/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/62ryx1k6tdaeygm/rcti.png?dl=1" group-title="Lokal",RCTI
+https://anv-livechannel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/62ryx1k6tdaeygm/rcti.png?dl=1" group-title="Lokal",RCTI
+https://d27gr10k1gmcw.cloudfront.net/RCTI_2021.m3u8|referer=https://video.sindonews.com/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fcc2sbh556rtp08/gtv.png?dl=1" group-title="Lokal",GTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fcc2sbh556rtp08/gtv.png?dl=1" group-title="Lokal",GTV
+https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8|referer=https://video.sindonews.com/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/541aydqr502xl5z/mnctv.png?dl=1" group-title="Lokal",MNCTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/541aydqr502xl5z/mnctv.png?dl=1" group-title="Lokal",MNCTV
+https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|referer=https://video.sindonews.com/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vxm41wbiyfmhbx1/inews.png?dl=1" group-title="Lokal",INews
+https://anv-livechannel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vxm41wbiyfmhbx1/inews.png?dl=1" group-title="Lokal",INews
+https://d25tjwq1t7aw0m.cloudfront.net/INEWS_2021.m3u8|referer=https://video.sindonews.com/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9kjgtxf2mufmyd2/transtv.png?dl=1" group-title="Lokal",Trans TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9kjgtxf2mufmyd2/transtv.png?dl=1" group-title="Lokal",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1418834012_b744100_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/p4813vn2o8275z1/trans7.png?dl=1" group-title="Lokal",Trans 7
+https://anv-livechannel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/p4813vn2o8275z1/trans7.png?dl=1" group-title="Lokal",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1509218743_b744100_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gw7a9w0miy795vy/rtv.png?dl=1" group-title="Lokal",RTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gw7a9w0miy795vy/rtv.png?dl=1" group-title="Lokal",RTV
+#http://210.210.155.37/dr9445/h/h10/index1.m3u8
+https://dl.dropbox.com/s/kenp5gib6g4d1eo/rtv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8n9oj3d529o9w1g/antv.png?dl=1" group-title="Lokal",ANTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8n9oj3d529o9w1g/antv.png?dl=1" group-title="Lokal",ANTV
+#http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+#https://cdn09jtedge.indihometv.com/atemedvr/1672742010/0/ANTV_AT/ANTV_AT.mpd
+https://dl.dropbox.com/s/0jh2qv96apttrcf/antv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v0c8ypclystuwkg/tvone.png?dl=1" group-title="Lokal",TVOne
+https://anv-livechannel-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/v0c8ypclystuwkg/tvone.png?dl=1" group-title="Lokal",TVOne
+#http://210.210.155.37/qwr9ew/s/s105/index.m3u8
+https://dl.dropbox.com/s/trjnrffqjvvsiid/tvone.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/aswki0zykc42s1o/metrotv.png?dl=1" group-title="Lokal",Metro TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/aswki0zykc42s1o/metrotv.png?dl=1" group-title="Lokal",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4mga5xltpd3ygxn/kompastv.png?dl=1" group-title="Lokal",Kompas TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4mga5xltpd3ygxn/kompastv.png?dl=1" group-title="Lokal",Kompas TV
+https://video.jixie.media/live-test/kompastv.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uyz3hqsivoxjfvj/balitv.png?dl=1" group-title="Lokal",Bali TV
+https://av-live-cdn-01.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uyz3hqsivoxjfvj/balitv.png?dl=1" group-title="Lokal",Bali TV
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672742389/0/BALITV_AT/BALITV_AT.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/95l9wobwt5nv5ob/bandungtv.png?dl=1" group-title="Lokal",Bandung TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/06wiut4q11q92mc/nusantaratv.png?dl=1" group-title="Lokal",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8bgct35iq7hti3f/garudatv.png?dl=1" group-title="Lokal",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fylg57wwdyys1ir/indonesianatv.png?dl=1" group-title="Lokal",Indonesiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bw4u1eouvf2n9eg/jpm.png?dl=1" group-title="Lokal",JPM
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sgo7owplmt5j7sl/jaktv.png?dl=1" group-title="Lokal",JAK TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/svda56px53dzs70/jtv.png?dl=1" group-title="Lokal",JTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/siolbyggijbn3f9/magna.png?dl=1" group-title="Lokal",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ggn53c32adqoi6e/antaratv.png?dl=1" group-title="Lokal",Antara TV
+https://dl.dropbox.com/s/k4jhfknr0s1hb0m/antaratv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uv6lxmw5ed4hgiz/elshintatv.png?dl=1" group-title="Lokal",Elshinta TV
+http://210.210.155.35/qwr9ew/s/s10/index10.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3otsx9tmmh18aqn/cnnindo.png?dl=1" group-title="Berita",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1553194862_b384000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2iu0ade1fd1dgk2/cnn.png?dl=1" group-title="Berita",CNN International
+https://anv-livechannel-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hv0plztzfv35e8h/cnbcindo.png?dl=1" group-title="Berita",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w636491043_b384000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/e4xfbfyeghurarr/beritasatu.png?dl=1" group-title="Berita",Berita Satu
+https://anv-livechannel-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/e4xfbfyeghurarr/beritasatu.png?dl=1" group-title="Berita",Berita Satu
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/BeritaSatuChannel/live
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wv2qoteaewga9oe/beritasatuworld.png?dl=1" group-title="Berita",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fdt48n79ul99tn6/mncnews.png?dl=1" group-title="Berita",MNC News
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7yyhr140lqt832e/tvri.png?dl=1" group-title="Berita",TVRI Nasional
+https://anv-livechannel-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7yyhr140lqt832e/tvri.png?dl=1" group-title="Berita",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yq8zq1gb4cpvgcd/rrinet.png?dl=1" group-title="Berita",RRI NET
+https://dl.dropbox.com/s/b0rjn5ynu2ypv3p/rrinet.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/91t5ke1utdw0lqg/jakartaglobe.png?dl=1" group-title="Berita",Jakarta Globe News
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0noc1ri0a1beaha/metroglobe.png?dl=1" group-title="Berita",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/p7cwvz582rct2cn/aljazeera.png?dl=1" group-title="Berita",Aljazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8w3agoiq11avx0i/dw.png?dl=1" group-title="Berita",DW English
+#https://anv-livechannel-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hi0cxx8owmpxuv5/bbcworldnews.png?dl=1" group-title="Berita",BBC World News
+https://anv-livechannel-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/89d93buqru12rrn/euronews.png?dl=1" group-title="Berita",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/b8wdf6hhvvnv3yv/globalnews.png?dl=1" group-title="Berita",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bn0tnjfwxwqa1rc/seatoday.png?dl=1" group-title="Berita",Sea Today
+https://anv-livechannel-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ictxv54kmv9rqt4/trtworld.png?dl=1" group-title="Berita",TRT World
+https://anv-livechannel-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lrly1otzi6yfndk/france24.png?dl=1" group-title="Berita",France 24
+https://anv-livechannel-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3o8wueqwnnokjwz/skynews.png?dl=1" group-title="Berita",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/i8ymatxqm5rvgsa/foxnews.png?dl=1" group-title="Berita",Fox News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yyzxxbh9xvrn9ep/abcnews.png?dl=1" group-title="Berita",ABC Australia
+https://anv-livechannel-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yyzxxbh9xvrn9ep/abcnews.png?dl=1" group-title="Berita",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u0dwmytvgob5ogv/abcnewslive.png?dl=1" group-title="Berita",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6qfwl6bubdtstxb/cna.png?dl=1" group-title="Berita",CNA
+#https://anv-livechannel-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sds4h9k6agurww8/idx.png?dl=1" group-title="Berita",IDX Channel
+https://anv-livechannel-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xfv0o53chpd82im/wion.png?dl=1" group-title="Berita",WION
+http://210.210.155.37/uq2663/h/h91/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yk35eou6f08vy5c/bernama.png?dl=1" group-title="Berita",Bernama
+https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/45jb5o8gfh1ahmq/hbo.png?dl=1" group-title="Hiburan",HBO
+https://anv-livechannel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9lmchrvt6dfd21s/hbohits.png?dl=1" group-title="Hiburan",HBO Hits
+https://anv-livechannel-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eh9nlf20uhc9xbg/hbosignature.png?dl=1" group-title="Hiburan",HBO Signature
+https://anv-livechannel-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/99u866yr2c6qs8n/hbofamily.png?dl=1" group-title="Hiburan",HBO Family
+https://anv-livechannel-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7o66wychx4m2wmo/cinemax.png?dl=1" group-title="Hiburan",Cinemax
+https://anv-livechannel-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/97dmg4rodbnm0gh/imc.png?dl=1" group-title="Hiburan",IMC
+https://anv-livechannel-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/g6cqxvjwvh4ji6e/ent.png?dl=1" group-title="Hiburan",Entertainment
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/mx9a5yi9gub89ve/ie.png?dl=1" group-title="Hiburan",Infotainment
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/i7o7np585xsyazy/oktv.png?dl=1" group-title="Hiburan",OKTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/swpb44zffvl7zk1/visionprime.png?dl=1" group-title="Hiburan",Vision Prime
+https://anv-livechannel-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/slxotzkfe3j9zdh/galaxy.png?dl=1" group-title="Hiburan",Galaxy
+https://anv-livechannel-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/slxotzkfe3j9zdh/galaxy.png?dl=1" group-title="Hiburan",Galaxy Premium
+https://anv-livechannel-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/81800hd33epuddg/axn.png?dl=1" group-title="Hiburan",AXN
+https://anv-livechannel-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fcrtqmoyt0pfb29/ccm.png?dl=1" group-title="Hiburan",Celestial Classic Movie
+https://anv-livechannel-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fcrtqmoyt0pfb29/ccm.png?dl=1" group-title="Hiburan",Celestial Classic Movie
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/myjkc30le0fysph/cm.png?dl=1" group-title="Hiburan",Celestial Movie
+https://anv-livechannel-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/myjkc30le0fysph/cm.png?dl=1" group-title="Hiburan",Celestial Movie
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2emaxo9wj7qbatg/thrill.png?dl=1" group-title="Hiburan",Thrill
+https://anv-livechannel-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bjjyw99hfifpumo/cinemaworld.png?dl=1" group-title="Hiburan",Cinema World
+https://anv-livechannel-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2hore941e511wdk/hits.png?dl=1" group-title="Hiburan",Hits
+https://anv-livechannel-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bbanr59vm07pach/hitsmovies.png?dl=1" group-title="Hiburan",Hits Movies
+https://anv-livechannel-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8k7wayonb9lfrpj/warnertv.png?dl=1" group-title="Hiburan",Warner TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3xr054htzqtielq/arirang.png?dl=1" group-title="Hiburan",Arirang
+#https://anv-livechannel-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/gs3h06lqhrzz6kz/tvn.png?dl=1" group-title="Hiburan",TVN
+https://anv-livechannel-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/z3s9reueitxren9/tvnmovies.png?dl=1" group-title="Hiburan",TVN Movies
+https://anv-livechannel-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/arnvg3sof7c625r/kix.png?dl=1" group-title="Hiburan",KIX
+https://anv-livechannel-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/o3oc07hz412yo99/one.png?dl=1" group-title="Hiburan",ONE
+https://anv-livechannel-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4hp68jpssqyjh9b/fmn.png?dl=1" group-title="Hiburan",FMN
+https://anv-livechannel-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fldtbe5kvdc3k75/axstvnow.png?dl=1" group-title="Hiburan",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eqyxytz33nyxdhz/nhkjapan.png?dl=1" group-title="Hiburan",NHK World Japan
+#https://anv-livechannel-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0b1ih1htnrk6yps/cinelife.png?dl=1" group-title="Hiburan",Cinelife
+https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/oy6dy1g6wc73sh3/e%21.png?dl=1" group-title="Hiburan",E!
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7p9tuzikl4pxg3q/fx.png?dl=1" group-title="Hiburan",FX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zjecc4d8dq1zrc7/sbs.png?dl=1" group-title="Hiburan",SBS TV
+http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qg4jvzdgooy7hq2/k%2B.png?dl=1" group-title="Hiburan",K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/m9kclzq7dvv1f6b/abscbn.png?dl=1" group-title="Hiburan",ABS CBN
+https://dl.dropbox.com/s/vwi93ecvd1d8nib/abscbn.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/umi818y69btr6uq/rockaction.png?dl=1" group-title="Hiburan",Rock Action
+#http://210.210.155.37/dr9445/h/h15/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672741410/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0ehvpuw8ln8owf2/rockentertainment.png?dl=1" group-title="Hiburan",Rock Entertainment
+#http://210.210.155.37/dr9445/h/h16/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1672741373/0/BLUEANT_AT/BLUEANT_AT.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yxgzbtsddfwh8rx/flik.png?dl=1" group-title="Hiburan",FLIK
+http://iptvid.my.id/hmm/flik.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/p0nol0p732qgarw/boo.png?dl=1" group-title="Hiburan",BOO
+http://23.237.10.66:16420
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/piv79y8nqcmzblt/digione.png?dl=1" group-title="Hiburan",Digione
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dh5ek8aw769ut0n/duniasinema.png?dl=1" group-title="Hiburan",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/c5pwjdx8lmfz2xj/dramasangat.png?dl=1" group-title="Hiburan",Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zq7cxioc6ozam6h/mcn.png?dl=1" group-title="Hiburan",My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7u8527kz6az4miv/mca.png?dl=1" group-title="Hiburan",My Cinema Asia
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5fqpl3zoxh1jkg6/mce.png?dl=1" group-title="Hiburan",My Cinema Europe
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/uxenb7l594wift1/mfc.png?dl=1" group-title="Hiburan",My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bcngvz30749b4ha/tic.png?dl=1" group-title="Hiburan",The Indonesia Channel
+https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8xkpm1bnsuglgvu/bioskop.png?dl=1" group-title="Hiburan",Bioskop Indonesia
+http://iptvid.my.id/hmm/biosid.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jjvgudpjghgcis0/seru.png?dl=1" group-title="Hiburan",Seru
+http://iptvid.my.id/hmm/seru.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1b304i996n82k8g/rans.png?dl=1" group-title="Hiburan",RANS Entertainment
+https://dl.dropbox.com/s/qvelkozlr6q6afp/rans.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3povdgdi9j6wc63/zeebioskop.png?dl=1" group-title="Hiburan",Zee Bioskop
+https://anv-livechannel-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dro4pfep9be5cx4/tlc.png?dl=1" group-title="Hiburan",TLC
+https://anv-livechannel-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cp67ye828npl4k7/lifetime.png?dl=1" group-title="Hiburan",Lifetime
+https://anv-livechannel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ks8i6wtocqqt2za/paramount.png?dl=1" group-title="Hiburan",Paramount Network
+https://cors.deno.dev/https://webdi.openhd.lol/lb/premium334/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/akkdiokk54g6oel/moviesphere.png?dl=1" group-title="Hiburan",Movie Sphere
+http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/mghoxg3h6gbsho1/redbox.png?dl=1" group-title="Hiburan",Redbox
+https://rush-redbox.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1dzoofqxwuqys0l/ionplus.png?dl=1" group-title="Hiburan",Ion Plus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rqsz9oc0uwranpm/tv5monde.png?dl=1" group-title="Hiburan",TV5 Monde Asie
+https://anv-livechannel-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zx4et44ip5hrgur/jiangsutv.png?dl=1" group-title="Hiburan",Jiangsu TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vc7hf9brqhdw3v4/hunantv.png?dl=1" group-title="Hiburan",Hunan TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/a0pnyssary1h07u/shanghaidragontv.png?dl=1" group-title="Hiburan",Shanghai Dragon TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/a03htptk5qxa4zz/xingkongtv.png?dl=1" group-title="Hiburan",Xing Kong TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dwhgz7cbeo3w2we/anhuitv.png?dl=1" group-title="Hiburan",Anhui TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wppfj15s8nb8iy6/musictv.png?dl=1" group-title="Hiburan",Music TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2pdxxw7h724f5qu/musica.png?dl=1" group-title="Hiburan",Musica
+https://dl.dropbox.com/s/mb8357j4ybu2yny/musica.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pwtu8hvptb7ebwu/mtv.png?dl=1" group-title="Hiburan",MTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/72n4z8c2rdierlm/prambors.png?dl=1" group-title="Hiburan",Prambors
+http://iptvid.my.id/hmm/prambors.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/k03dtjsjy729d04/ikonser.png?dl=1" group-title="Hiburan",Ikonser
+https://cdn09jtedge.indihometv.com/atemedvr/1672740559/0/IKONSER_AT/IKONSER_AT.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/chh4oyo57v789vy/musikindo.png?dl=1" group-title="Hiburan",Musik Indonesia
+http://iptvid.my.id/hmm/musikindo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vl0ywb3wyem0gt9/maleo.png?dl=1" group-title="Hiburan",Maleo
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5z4acgmfhm2i3lx/molahits.png?dl=1" group-title="Hiburan",Molahits TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8c7u2pa8g4x8th4/useephoto.png?dl=1" group-title="Rekreasi",Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#http://iptvid.my.id/hmm/useephoto.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6a1f2zrsjxx311f/useeprime.png?dl=1" group-title="Rekreasi",Usee Prime
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w117432352_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4mk33iyjolx7cac/bizadventure.png?dl=1" group-title="Rekreasi",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wowymocfn207vfb/bizlifestyle.png?dl=1" group-title="Rekreasi",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/yv9i0gt1uvn9c1n/denslifestyle.png?dl=1" group-title="Rekreasi",Dens Life & Style
+http://210.210.155.37/x6bnqe/s/s65/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/x3fvbmhvvrrswqb/densshowbiz.png?dl=1" group-title="Rekreasi",Dens Showbiz
+http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8fwuy4ua2inlare/densfood.png?dl=1" group-title="Rekreasi",Dens Food Channel
+http://210.210.155.35/x6bnqe/s/s38/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dzqy9ouiqxcrwrw/afn.png?dl=1" group-title="Rekreasi",Asian Food Network
+https://anv-livechannel-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nd4ngvn12nl6hzc/hgtv.png?dl=1" group-title="Rekreasi",HGTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ytcdgnlpuim9xhz/lifestyle%26fashion.png?dl=1" group-title="Rekreasi",Lifestyle & Fashion
+https://anv-livechannel-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tknh0epwjz93rhi/globalfashion.png?dl=1" group-title="Rekreasi",Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/seh99xsuzg7opg3/ftv.png?dl=1" group-title="Rekreasi",Fashion TV
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/s2g4o52u945mtc3/outdoor.png?dl=1" group-title="Rekreasi",Outdoor
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cryejf1tncokws9/outside.png?dl=1" group-title="Rekreasi",Outside
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/626
+#https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/727d0y4ile37ep2/fishingtv.png?dl=1" group-title="Rekreasi",Fishing TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/w0qsuym08w7fmky/insight.png?dl=1" group-title="Rekreasi",Insight
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/k59p2horvbwrfpw/inwild.png?dl=1" group-title="Rekreasi",Inwild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/aly9byfhq87rjnb/inwonder.png?dl=1" group-title="Rekreasi",Inwonder
+https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/obf1lb00afsqzuu/people.png?dl=1" group-title="Rekreasi",People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dhokqih7oixf7z1/denslearning.png?dl=1" group-title="Pengetahuan",Dens Learning & Knowledge
+#http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+http://210.210.155.35/uq2663/h/h97/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/g5hysiza546nw0q/tvedukasi.png?dl=1" group-title="Pengetahuan",TV Edukasi
+http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rz7mlx4p2e9y1qn/besmart.png?dl=1" group-title="Pengetahuan",Be Smart
+https://anv-livechannel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lop6wy2iztov2jr/techstorm.png?dl=1" group-title="Pengetahuan",Tech Storm
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sefs5wiqna7d46x/lingua.png?dl=1" group-title="Pengetahuan",Lingua Channel
+http://iptvid.my.id/hmm/lingua.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/72sqnvzggklsllz/animalplanet.png?dl=1" group-title="Pengetahuan",Animal Planet
+https://anv-livechannel-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1yhz6ux66qz5dzb/bbcearth.png?dl=1" group-title="Pengetahuan",BBC Earth
+https://anv-livechannel-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/mdp2hnm9d2zi0cs/discovery.png?dl=1" group-title="Pengetahuan",Discovery Channel
+https://anv-livechannel-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hwbm7w14zi8wfnt/history.png?dl=1" group-title="Pengetahuan",History
+https://anv-livechannel-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rvxizpk5qmtsdc0/natgeo.png?dl=1" group-title="Pengetahuan",National Geographic
+https://anv-livechannel-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xo469bsgq43wbc6/natgeowild.png?dl=1" group-title="Pengetahuan",National Geographic Wild
+https://anv-livechannel-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jrlor4rjw4jfuh5/crime%2B.png?dl=1" group-title="Pengetahuan",Crime Investigation
+https://anv-livechannel-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jrij9892nnbldbw/cgtn.png?dl=1" group-title="Pengetahuan",CGTN Documentary
+https://anv-livechannel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2lx4zr6tnfz9k27/smithsonian.png?dl=1" group-title="Pengetahuan",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ylzmz2903l4ej49/lovenature.png?dl=1" group-title="Pengetahuan",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pfx43nlcugrhr4n/nowyouknow.png?dl=1" group-title="Pengetahuan",Now You Know
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8vegaz21bl7vv76/nasa.png?dl=1" group-title="Pengetahuan",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8vegaz21bl7vv76/nasa.png?dl=1" group-title="Pengetahuan",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/l1o4b4ghv8mfhxw/mentaritv.png?dl=1" group-title="Anak",Mentari TV
+https://dl.dropbox.com/s/wexbmnhxsy2902x/mentaritv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vrzlb4pchkk30az/mkidz.png?dl=1" group-title="Anak",My Kidz
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wre776h1hw6vfrg/bizkids.png?dl=1" group-title="Anak",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9hiphi99cxskl5r/indikids.png?dl=1" group-title="Anak",IndiKids
+https://dl.dropbox.com/s/aspq8s2vr9noqgp/indikids.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/m16qghw6kto0pgv/horee.png?dl=1" group-title="Anak",Horee
+http://iptvid.my.id/hmm/horee.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9rzjsn0q24b37y6/dreamworks.png?dl=1" group-title="Anak",Dreamworks
+http://iptvid.my.id/hmm/drmwrk.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xv9b9euuyorwc2p/davinci.png?dl=1" group-title="Anak",Da Vinci
+https://cdn09jtedge.indihometv.com/atemedvr/1672740826/0/DAVINCI_AT/DAVINCI_AT.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/vrf4ov330vrnisi/duniaanak.png?dl=1" group-title="Anak",Dunia Anak
+http://iptvid.my.id/hmm/duniaanak.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6zbrigu3jkrncfr/animax.png?dl=1" group-title="Anak",Animax
+https://anv-livechannel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bbzpovc44sqw8n1/miaomi.png?dl=1" group-title="Anak",Miao Mi
+https://anv-livechannel-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xew6rxqf07ph17m/babytv.png?dl=1" group-title="Anak",Baby TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zvw4w1shvm73yw9/boomerang.png?dl=1" group-title="Anak",Boomerang
+https://anv-livechannel-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6hyo3qmrgg2ng1k/cn.png?dl=1" group-title="Anak",Cartoon Network
+https://anv-livechannel-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cwqrnd23xzzt6vm/toongoogles.png?dl=1" group-title="Anak",Toon Googles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3f1hmmdr8q0zt49/cbeebies.png?dl=1" group-title="Anak",Cbeebies BBC
+https://anv-livechannel-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/q9oi8m3h5wyyham/nickjr.png?dl=1" group-title="Anak",Nick Junior
+https://anv-livechannel-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cjr6qn2k94yzkla/nickelodeon.png?dl=1" group-title="Anak",Nickelodeon
+https://anv-livechannel-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/79r505mfja8jp1i/kidstv.png?dl=1" group-title="Anak",Kids TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/86lrzdnton1dobh/aniplus.png?dl=1" group-title="Anak",Aniplus
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/d1xjg8x2y7y5d1x/tvanime.png?dl=1" group-title="Anak",Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pu99ywa0k36z8nt/doratv.png?dl=1" group-title="Anak",Pluto TV Dora
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u1ev3r81eijola2/contvanime.png?dl=1" group-title="Anak",Contv Anime
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/msv8ugeifxi2c1f/happykids.png?dl=1" group-title="Anak",Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pj0hb5whmh0o231/cocoro.png?dl=1" group-title="Anak",Cocoro
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/s1p232enjrz1hy0/lego.png?dl=1" group-title="Anak",Lego
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/z77n91gcp9kmpyz/zoomoo.png?dl=1" group-title="Anak",Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tgrwm3y80nq8t8r/ducktv.png?dl=1" group-title="Anak",Duck TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3bmtm7171p7ccv4/disneychannel.png?dl=1" group-title="Anak",Disney Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/krcmfbwdyapzxpi/disneyjunior.png?dl=1" group-title="Anak",Disney Junior
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wnb8nzq51px6m0a/disneyxd.png?dl=1" group-title="Anak",Disney XD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/lt2p9nl068qzvy2/ajwatv.png?dl=1" group-title="Religi",Ajwa TV
+https://dl.dropbox.com/s/ejw26xqutq5o9lb/ajwatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/1sbyfrehiy3cvk4/rodjatv.png?dl=1" group-title="Religi",Rodja TV
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u2clhi5s7xa8kyr/aliman.png?dl=1" group-title="Religi",Al-Iman TV
+#https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+https://h1.intechmedia.net/intech/ch9.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/omsox8tmmfq6jwb/daaitv.png?dl=1" group-title="Religi",DAAI TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/sx0hr3oepuvfop2/muslimtv.png?dl=1" group-title="Religi",Muslim TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/m50fs6hl26yzgh4/madinah.png?dl=1" group-title="Religi",Madinah
+https://edge.taghtia.com/sa/6.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9xmttnf6a6h7d8x/mekkah.png?dl=1" group-title="Religi",Makkah
+#https://anv-livechannel-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+https://edge.taghtia.com/sa/7.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9r0wxfu0iyp0cq1/tv9.png?dl=1" group-title="Religi",TV9
+https://anv-livechannel-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/45lg2dmiccusryz/tvmu.png?dl=1" group-title="Religi",TV Muhammadiyah
+https://anv-livechannel-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0g6qro3q2tswpzi/badartv.png?dl=1" group-title="Religi",Badar TV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/h8sku4kxmhhi6bc/inspira.png?dl=1" group-title="Religi",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/chunks.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/l32842tfi69ov6h/tawaftv.png?dl=1" group-title="Religi",Tawaf TV
+https://anv-livechannel-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iszdkpq2ftlapu4/mgitv.png?dl=1" group-title="Religi",MGI TV
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/69y8l3z8w0id36n/mqtv.png?dl=1" group-title="Religi",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ulqv1ev6ic5d3z3/mtatv.png?dl=1" group-title="Religi",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0i35ifql6thso41/muadztv.png?dl=1" group-title="Religi",Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/aoyphcfrgv2pn2r/medstv.png?dl=1" group-title="Religi",Media Sunnah Aceh
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/c31crvnjsq6kxta/rtbsukmaindera.png?dl=1" group-title="Religi",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xhv8ic798mokd1x/rtbaneka.png?dl=1" group-title="Religi",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xw5u1r4pn5ihbj4/life.png?dl=1" group-title="Religi",Life
+https://anv-livechannel-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/527fgji52xo2kl3/reformed21.png?dl=1" group-title="Religi",Reformed 21
+https://anv-livechannel-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xo0wodblkyx8pqu/ewtn.png?dl=1" group-title="Religi",EWTN
+https://anv-livechannel-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd

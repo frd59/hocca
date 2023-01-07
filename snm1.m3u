@@ -1,32 +1,32 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="|TR| BeIN Box Office 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fe/BeIN_BOX_OFFICE_HD_1_2018_logo.png" group-title="TURKEY",|TR| BeIN Box Office 1 HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149575.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149575.ts
 #EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="|TR| BeIN Box Office 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8f/BeIN_BOX_OFFICE_HD_2_2018_logo.png" group-title="TURKEY",|TR| BeIN Box Office 2 HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149576.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149576.ts
 #EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="|TR| BeIN Box Office 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5e/BeIN_BOX_OFFICE_HD_3_2018_logo.png" group-title="TURKEY",|TR| BeIN Box Office 3 HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149577.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149577.ts
 #EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="|TR| BeIN Movies Action 1 HD" tvg-logo="https://seeklogo.com/images/B/bein-movies-logo-F391F272F3-seeklogo.com.png" group-title="TURKEY",|TR| BeIN Movies Action 1 HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149578.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149578.ts
 #EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="|TR| BeIN Movies Action 2 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="TURKEY",|TR| BeIN Movies Action 2 HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149579.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149579.ts
 #EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="|TR| BeIN Movies Stars HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/BeIN_MOVIES_Stars-HD.png" group-title="TURKEY",|TR| BeIN Movies Stars HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149580.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149580.ts
 #EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="|TR| BeIN Movies Turk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BeIN_MOVIES_Turk-HD.png" group-title="TURKEY",|TR| BeIN Movies Turk HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149581.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149581.ts
 #EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="|TR| BeIN Movies Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BeIN_MOVIES_Family-HD.png" group-title="TURKEY",|TR| BeIN Movies Family HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149582.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149582.ts
 #EXTINF:-1 tvg-id="beINMoviesPremiere2.tr" tvg-name="|TR| BeIN Movies Premiere 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/BeIN_MOVIES_Premiere_HD_2018_logo.png/revision/latest?cb=20200829071403" group-title="TURKEY",|TR| BeIN Movies Premiere 1 HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149583.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149583.ts
 #EXTINF:-1 tvg-id="beINMoviesPremiere2.tr" tvg-name="|TR| BeIN Movies Premiere 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/BeIN_MOVIES_Premier-2_HD.png" group-title="TURKEY",|TR| BeIN Movies Premiere 2 HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149584.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149584.ts
 #EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="|TR| BeIN Series Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Bein_series_comedy1.png" group-title="TURKEY",|TR| BeIN Series Comedy HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149585.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149585.ts
 #EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="|TR| BeIN Series Vice HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bein_series_vice.png/640px-Bein_series_vice.png" group-title="TURKEY",|TR| BeIN Series Vice HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149586.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149586.ts
 #EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="|TR| BeIN Series Sci-Fi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bein_series_vice.png/640px-Bein_series_vice.png" group-title="TURKEY",|TR| BeIN Series Sci-Fi HD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149587.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149587.ts
 #EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="|TR| Bein Series Drama FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bein_series_drama.png/640px-Bein_series_drama.png" group-title="TURKEY",|TR| Bein Series Drama FHD
-http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149588.ts
+https://cors.deno.dev/http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149588.ts
 #EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="|TR| beIN Movies Action 4K+" tvg-logo="https://cors.deno.dev/http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.png" group-title="TR : Sinema",|TR| beIN Movies Action 4K+
 https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/162
 #EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="|TR| beIN Movies Action 2 4K+" tvg-logo="https://cors.deno.dev/http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.2.png" group-title="TR : Sinema",|TR| beIN Movies Action 2 4K+

@@ -1,5 +1,4 @@
 #EXTM3U
-https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvComune6023/21752
 #EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 3" tvg-logo="" group-title="TURKEY",ENO ViZYON 3
 https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvComune6023/21753
 #EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 4" tvg-logo="" group-title="TURKEY",ENO ViZYON 4
@@ -50,40 +49,6 @@ https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvCo
 https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvComune6023/21776
 #EXTINF:-1 tvg-id="" tvg-name="POPCORN DINI" tvg-logo="" group-title="TURKEY",POPCORN DINI
 https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvComune6023/21777
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" group-title="Turkey ➾ Movie",TR: beIN Box Office 1
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/536
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" group-title="Turkey ➾ Movie",TR: beIN Box Office 2
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/281863
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d76fd2683c5c3a355f92d2e71afc5.png" group-title="Turkey ➾ Movie",TR: beIN Box Office 3
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/538
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f35c4aa1c5be07033c105aa2a264ee99.png" group-title="Turkey ➾ Movie",TR: beIN Box Office Turk
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/539
-#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: beIN Gurme" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae6ed623d37a8ee71af209e2cc08d22e.png" group-title="Turkey ➾ Food",TR: beIN Gurme
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1807
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: beIN Iz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" group-title="Turkey ➾ LifeStyle",TR: beIN Iz
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1806
-#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: beIN Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" group-title="Turkey ➾ Movie",TR: beIN Movies Action
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1761
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c72fbf1b70577e54df906132c848507.png" group-title="Turkey ➾ Movie",TR: beIN Movies Action 2
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/278527
-#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: beIN Movies Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/75e47808eb64b20e1611e171c8a17339.png" group-title="Turkey ➾ Movie",TR: beIN Movies Family
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1763
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN Movies Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" group-title="Turkey ➾ Movie",TR: beIN Movies Premiere
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1764
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" group-title="Turkey ➾ Movie",TR: beIN Movies Premiere 2
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1765
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN Movies Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" group-title="Turkey ➾ Movie",TR: beIN Movies Stars
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1766
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN Movies Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" group-title="Turkey ➾ Movie",TR: beIN Movies Turk
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1767
-#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: beIN Series Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/adf92f2916a0009d7b4f31870656b093.png" group-title="Turkey ➾ Movie",TR: beIN Series Comedy
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1768
-#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR: beIN Series Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e62d82be35a5c21cae0c62a78dbf8cd3.png" group-title="Turkey ➾ Movie",TR: beIN Series Drama
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1769
-#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: beIN Series sci-fi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf507af54d2ac2a97c0d29eb11228cc5.png" group-title="Turkey ➾ Movie",TR: beIN Series sci-fi
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/8231
-#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: beIN Series Vice" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a85386e5f0ba61e22a977adb64670bab.png" group-title="Turkey ➾ Movie",TR: beIN Series Vice
-https://cors.deno.dev/http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1771
 #EXTINF:-1 tvg-id="" tvg-name="|TR| BEiN BOX OFFİCE 1 HD" tvg-logo="" group-title="TURKEY",|TR| BEiN BOX OFFİCE 1 HD
 https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51833
 #EXTINF:-1 tvg-id="" tvg-name="|TR| BEiN BOX OFFİCE 2 HD" tvg-logo="" group-title="TURKEY",|TR| BEiN BOX OFFİCE 2 HD

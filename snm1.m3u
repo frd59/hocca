@@ -27,133 +27,421 @@ https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvCo
 https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvComune6023/21765
 #EXTINF:-1 tvg-id="" tvg-name="ENO WESTERN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",ENO WESTERN
 https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvComune6023/21766
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEiN BOX OFFİCE 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| BEiN BOX OFFİCE 1 HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51833
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEiN BOX OFFİCE 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| BEiN BOX OFFİCE 2 HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51834
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEiN BOX OFFİCE 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| BEiN BOX OFFİCE 3 HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51835
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES ACTION 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN MOVIES ACTION 2 HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51836
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES ACTION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN MOVIES ACTION HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51837
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES FAMILY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN MOVIES FAMILY HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51838
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES PREMIERE 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN MOVIES PREMIERE 2 HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51839
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES PREMIERE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN MOVIES PREMIERE HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51840
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES STARS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN MOVIES STARS HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51841
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES TURK HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN MOVIES TURK HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51842
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN SERIES COMEDY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN SERIES COMEDY HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51843
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN SERIES DRAMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN SERIES DRAMA HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51844
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN SERIES SCI-FI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN SERIES SCI-FI HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51845
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN SERIES VICE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| beIN SERIES VICE HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51846
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART CLASSIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| MOVIE SMART CLASSIC HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51848
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MOVIE SMART PLATIN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| MOVIE SMART PLATIN HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51853
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SiNEMA TV 1001 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| SiNEMA TV 1001 HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51857
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SiNEMA TV AiLE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| SiNEMA TV AiLE HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51858
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SiNEMA TV AKSiYON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| SiNEMA TV AKSiYON HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51859
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SiNEMA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| SiNEMA TV HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51860
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SiNEMA TV KOMEDi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| SiNEMA TV KOMEDi HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51861
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SiNEMA TV YERLi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| SiNEMA TV YERLi HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51862
-#EXTINF:-1 tvg-id="" tvg-name="|TR| DIZI SMART PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| DIZI SMART PREMIUM HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51863
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX TURK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| MAX TURK
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51864
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| FX HD
-https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51865
-#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="|TR| beIN Movies Action 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.png" group-title="TR : Sinema",|TR| beIN Movies Action 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/162
-#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="|TR| beIN Movies Action 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.2.png" group-title="TR : Sinema",|TR| beIN Movies Action 2 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/163
-#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="|TR| beIN Movies Family 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.FAMILY.png" group-title="TR : Sinema",|TR| beIN Movies Family 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/164
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="|TR| beIN Movies Premiere 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.PREMIERE.png" group-title="TR : Sinema",|TR| beIN Movies Premiere 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/165
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="|TR| beIN Movies Premiere 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.PREMIERE.2.png" group-title="TR : Sinema",|TR| beIN Movies Premiere 2 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/166
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="|TR| beIN Movies Stars 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.STARS.png" group-title="TR : Sinema",|TR| beIN Movies Stars 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/167
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="|TR| beIN Movies Turk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.TURK.png" group-title="TR : Sinema",|TR| beIN Movies Turk 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/168
-#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="|TR| beIN Series Comedy 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.COMEDY.png" group-title="TR : Sinema",|TR| beIN Series Comedy 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/169
-#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="|TR| beIN Series Drama 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/beinseriesdrama1.png" group-title="TR : Sinema",|TR| beIN Series Drama 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/170
-#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="|TR| beIN Series Sci-Fi 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.SCI.FI.png" group-title="TR : Sinema",|TR| beIN Series Sci-Fi 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/171
-#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="|TR| beIN Series Vice 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.VICE.png" group-title="TR : Sinema",|TR| beIN Series Vice 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/172
-#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-name="|TR| Movie smart Premium 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.PREMIUM.png" group-title="TR : Sinema",|TR| Movie smart Premium 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/177
-#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="|TR| Movie smart Turk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.TURK.png" group-title="TR : Sinema",|TR| Movie smart Turk 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/178
-#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="|TR| Movie smart Cocuk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/moviesmartcocuk.png" group-title="TR : Sinema",|TR| Movie smart Cocuk 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/179
-#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="|TR| Movie smart Classic 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.CLASSIC.png" group-title="TR : Sinema",|TR| Movie smart Classic 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/192
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Dizismart Max 4K+  " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/DIZI.SMART.MAX.png" group-title="TR : Sinema",|TR| Dizismart Max 4K+  
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74844
-#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="|TR| Dizi Smart Premium 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/DIZI.SMART.PREMIUM.png" group-title="TR : Sinema",|TR| Dizi Smart Premium 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/180
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Yerli 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.YERLI.png" group-title="TR : Sinema",|TR| Sinema Tv Yerli 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74839
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Yerli 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.YERLI.png" group-title="TR : Sinema",|TR| Sinema Tv Yerli 2 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74840
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Komedi 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.KOMEDI.png" group-title="TR : Sinema",|TR| Sinema Tv Komedi 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74819
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Komedi 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.KOMEDI.png" group-title="TR : Sinema",|TR| Sinema Tv Komedi 2 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74836
-#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="|TR| Sinema TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.png" group-title="TR : Sinema",|TR| Sinema TV 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/182
-#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="|TR| Sinema TV 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.2.png" group-title="TR : Sinema",|TR| Sinema TV 2 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/183
-#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="|TR| Sinema TV 1001 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.1001.png" group-title="TR : Sinema",|TR| Sinema TV 1001 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/184
-#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="|TR| Sinema TV 1002 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.1002.png" group-title="TR : Sinema",|TR| Sinema TV 1002 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/181
-#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="|TR| Sinema TV Aile 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AILE.png" group-title="TR : Sinema",|TR| Sinema TV Aile 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/185
-#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="|TR| Sinema TV Aile 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AILE.png" group-title="TR : Sinema",|TR| Sinema TV Aile 2 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/49449
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="|TR| Sinema TV Aksiyon 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AKSIYON.png" group-title="TR : Sinema",|TR| Sinema TV Aksiyon 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/186
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Aksiyon 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AKSIYON.png" group-title="TR : Sinema",|TR| Sinema Tv Aksiyon 2 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74837
-#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="|TR| Fox Crime 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/FOX.CRIME.png" group-title="TR : Sinema",|TR| Fox Crime 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/188
-#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="|TR| FX 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/FX.png" group-title="TR : Sinema",|TR| FX 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/196
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="|TR| Bein Box office 1 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.BOX.OFFICE.1.png" group-title="TR : Sinema",|TR| Bein Box office 1 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/193
-#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="|TR| Bein Box Office 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.BOX.OFFICE.2.png" group-title="TR : Sinema",|TR| Bein Box Office 2 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/194
-#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="|TR| Bein Box Office 3 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/beinboxoffice3.png" group-title="TR : Sinema",|TR| Bein Box Office 3 4K+
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/195
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 1" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon1.png" group-title="TR : Sinema",|TR| Salon 1
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22248
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 2" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon2.png" group-title="TR : Sinema",|TR| Salon 2
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22242
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 3" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon3.png" group-title="TR : Sinema",|TR| Salon 3
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22235
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 1" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 1
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22251
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 2" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 2
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22250
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 3" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 3
-https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22249
+#EXTINF:-1 tvg-id="" tvg-name="TRS | YESILCAM BEST" tvg-logo="" group-title="TR | SINEMA",TRS | YESILCAM BEST
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/91379
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMAX KORKU" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | SINEMAX KORKU
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/30136
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMAX KOMEDI" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | SINEMAX KOMEDI
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/30138
+#EXTINF:-1 tvg-id="" tvg-name="TRS |  FILMBOX YESILCAM" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS |  FILMBOX YESILCAM
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/30141
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FIBERBOX TURK HD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | FIBERBOX TURK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/5358
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FIBERBOX KOMEDİ HD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | FIBERBOX KOMEDİ HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/5356
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FIBERBOX KORKU HD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | FIBERBOX KORKU HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/5357
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FIBERBOX AKSİYON HD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | FIBERBOX AKSİYON HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/5362
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FIBERBOX DRAM HD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | FIBERBOX DRAM HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/5360
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FIBERBOX FANTASTİK HD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | FIBERBOX FANTASTİK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/5359
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FIBERBOX YESİLCAM HD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | FIBERBOX YESİLCAM HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/17595
+#EXTINF:-1 tvg-id="" tvg-name="TRS | YESILCAM BOX  5" tvg-logo="https://cors.deno.dev/http://romax.live:2086/images/cbb464dfc471814d14317586438f9b99.jpg" group-title="TR | SINEMA",TRS | YESILCAM BOX  5
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/26938
+#EXTINF:-1 tvg-id="" tvg-name="TRS | YESILCAM BOX 6" tvg-logo="https://cors.deno.dev/http://romax.live:2086/images/cbb464dfc471814d14317586438f9b99.jpg" group-title="TR | SINEMA",TRS | YESILCAM BOX 6
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/26940
+#EXTINF:-1 tvg-id="" tvg-name="TRS | YESILCAM BOX 10" tvg-logo="https://cors.deno.dev/http://romax.live:2086/images/cbb464dfc471814d14317586438f9b99.jpg" group-title="TR | SINEMA",TRS | YESILCAM BOX 10
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/27579
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENOFLIX 1" tvg-logo="https://w7.pngwing.com/pngs/729/974/png-transparent-33-elmwood-birthday-netflix-streaming-media-party-birthday-holidays-text-label-thumbnail.png" group-title="TR | SINEMA",TRS | ENOFLIX 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69816
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENOFLIX 2" tvg-logo="https://w7.pngwing.com/pngs/729/974/png-transparent-33-elmwood-birthday-netflix-streaming-media-party-birthday-holidays-text-label-thumbnail.png" group-title="TR | SINEMA",TRS | ENOFLIX 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69817
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENOFLIX 3" tvg-logo="https://w7.pngwing.com/pngs/729/974/png-transparent-33-elmwood-birthday-netflix-streaming-media-party-birthday-holidays-text-label-thumbnail.png" group-title="TR | SINEMA",TRS | ENOFLIX 3
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69818
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENOFLIX 1" tvg-logo="https://w7.pngwing.com/pngs/729/974/png-transparent-33-elmwood-birthday-netflix-streaming-media-party-birthday-holidays-text-label-thumbnail.png" group-title="TR | SINEMA",TRS | ENOFLIX 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69819
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENOFLIX 2" tvg-logo="https://w7.pngwing.com/pngs/729/974/png-transparent-33-elmwood-birthday-netflix-streaming-media-party-birthday-holidays-text-label-thumbnail.png" group-title="TR | SINEMA",TRS | ENOFLIX 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69820
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENOFLIX 3" tvg-logo="https://w7.pngwing.com/pngs/729/974/png-transparent-33-elmwood-birthday-netflix-streaming-media-party-birthday-holidays-text-label-thumbnail.png" group-title="TR | SINEMA",TRS | ENOFLIX 3
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69821
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO KOMEDI TV 1" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO KOMEDI TV 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69822
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO KOMEDI TV 2" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO KOMEDI TV 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69823
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO KOMEDI TV 3" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO KOMEDI TV 3
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69824
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO KOMEDI TV 4" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO KOMEDI TV 4
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69825
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO AKSIYON 1" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO AKSIYON 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69826
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO AKSIYON 2" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO AKSIYON 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69827
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO TURK 1" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO TURK 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69832
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO TURK 2" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO TURK 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69833
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO TURK 3" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO TURK 3
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69834
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO TURK 5" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO TURK 5
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69836
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO TURK 6" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO TURK 6
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69837
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO TURK 7" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO TURK 7
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69838
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO VIZYON 1" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO VIZYON 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69839
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO VIZYON 2" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO VIZYON 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69840
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO VIZYON 3" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO VIZYON 3
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69841
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO VIZYON 4" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO VIZYON 4
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69842
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO VIZYON 5" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO VIZYON 5
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69843
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO VIZYON 6" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO VIZYON 6
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69844
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO KADIR INANIR TV" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO KADIR INANIR TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69845
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO KADIR INANIR TV 2" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO KADIR INANIR TV 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69846
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO ZEKI METIN TV" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO ZEKI METIN TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69847
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 20" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 20
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70042
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 1" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70043
+#EXTINF:-1 tvg-id="" tvg-name="₪₪₪  [ TR | SINEMA ] ₪₪₪" tvg-logo="https://tr.seaicons.com/wp-content/uploads/2017/04/Turkey-icon.png" group-title="TR | SINEMA",₪₪₪  [ TR | SINEMA ] ₪₪₪
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57654
+#EXTINF:-1 tvg-id="" tvg-name="TRS | YESILCAM BOX 1" tvg-logo="https://cf.kizlarsoruyor.com/q11188334/1c8d10ea-fcbd-4f37-aa61-e2cddb1960f5-m.jpg" group-title="TR | SINEMA",TRS | YESILCAM BOX 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/23577
+#EXTINF:-1 tvg-id="" tvg-name="TRS | YESILCAM BOX 2" tvg-logo="https://cors.deno.dev/http://livegamer.org:2086/images/cbb464dfc471814d14317586438f9b99.jpg" group-title="TR | SINEMA",TRS | YESILCAM BOX 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/23607
+#EXTINF:-1 tvg-id="" tvg-name="TRS | YESILCAM BOX 3" tvg-logo="https://cors.deno.dev/http://romax.live:2086/images/cbb464dfc471814d14317586438f9b99.jpg" group-title="TR | SINEMA",TRS | YESILCAM BOX 3
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/23608
+#EXTINF:-1 tvg-id="" tvg-name="TRS | YESILCAM BOX 4" tvg-logo="https://cors.deno.dev/http://livegamer.org:2086/images/cbb464dfc471814d14317586438f9b99.jpg" group-title="TR | SINEMA",TRS | YESILCAM BOX 4
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/26937
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 11 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 11 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29806
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 12 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 12 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29807
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 13 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 13 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29808
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 1 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 1 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29962
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 2 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 2 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29963
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 3 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 3 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29964
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 4 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 4 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29965
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 5 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 5 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29966
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 6 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 6 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29967
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 7 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 7 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29968
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 8 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 8 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29969
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 9 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 9 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29970
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 10 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 10 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29971
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 14 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 14 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/35945
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 15 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 15 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/35946
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 16 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 16 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/35947
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 17 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 17 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/35948
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 18 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 18 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/35949
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 19 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 19 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/35950
+#EXTINF:-1 tvg-id="" tvg-name="TRS | UNI BOX OFFICE 20 UHD" tvg-logo="https://webcomicms.net/sites/default/files/clipart/159977/movie-logo-cliparts-159977-861374.png" group-title="TR | SINEMA",TRS | UNI BOX OFFICE 20 UHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/35951
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CUNEYT ARKIN TV" tvg-logo="" group-title="TR | SINEMA",TRS | CUNEYT ARKIN TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/55840
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SENER SEN TV" tvg-logo="" group-title="TR | SINEMA",TRS | SENER SEN TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/55841
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TARIK AKAN TV" tvg-logo="" group-title="TR | SINEMA",TRS | TARIK AKAN TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/55842
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ZEKİ&METİN TV" tvg-logo="" group-title="TR | SINEMA",TRS | ZEKİ&METİN TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/55843
+#EXTINF:-1 tvg-id="" tvg-name="TRS | KADİR İNANIR TV" tvg-logo="" group-title="TR | SINEMA",TRS | KADİR İNANIR TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/55845
+#EXTINF:-1 tvg-id="" tvg-name="TRS | HALİT AKCATEPE TV" tvg-logo="" group-title="TR | SINEMA",TRS | HALİT AKCATEPE TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/55847
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MUNİR OZKUL TV" tvg-logo="" group-title="TR | SINEMA",TRS | MUNİR OZKUL TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/55848
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SADRİ ALİSİK TV" tvg-logo="" group-title="TR | SINEMA",TRS | SADRİ ALİSİK TV
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/55849
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 1" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60505
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 2" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60506
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 3" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 3
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60507
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 4" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 4
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60508
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 5" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 5
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60509
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 6" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 6
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60510
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 7" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 7
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60511
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 8" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 8
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60512
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MARVEL STUDIOS 10" tvg-logo="" group-title="TR | SINEMA",TRS | MARVEL STUDIOS 10
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/60514
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV KOMEDIMIX" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV KOMEDIMIX
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64989
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV KOMEDIMIX 2" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV KOMEDIMIX 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64990
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV KOREMIX 1" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV KOREMIX 1
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64991
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV KOREMIX 2" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV KOREMIX 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64992
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV WESTERN" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV WESTERN
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64993
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV REBETIKO" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV REBETIKO
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64995
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV SUPER" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV SUPER
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64996
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV TURKMIX" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV TURKMIX
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64997
+#EXTINF:-1 tvg-id="" tvg-name="TRS | VIZYONTV TURKMIX 2" tvg-logo="" group-title="TR | SINEMA",TRS | VIZYONTV TURKMIX 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/64998
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX ACTION HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixaction.PNG" group-title="TR | SINEMA",TRS | CINEFLIX ACTION HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68010
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX DRAMA HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixdrama.png" group-title="TR | SINEMA",TRS | CINEFLIX DRAMA HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68011
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX 007 HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflix007.PNG" group-title="TR | SINEMA",TRS | CINEFLIX 007 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68012
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX CASUSLUK HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixcasusluk.PNG" group-title="TR | SINEMA",TRS | CINEFLIX CASUSLUK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68013
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX COMEDY HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixcomedy.png" group-title="TR | SINEMA",TRS | CINEFLIX COMEDY HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68014
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX FAMILY HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixfamily.png" group-title="TR | SINEMA",TRS | CINEFLIX FAMILY HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68015
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX GOLD HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixgold.png" group-title="TR | SINEMA",TRS | CINEFLIX GOLD HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68016
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX SCI-FI HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixsci-fi.png" group-title="TR | SINEMA",TRS | CINEFLIX SCI-FI HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68017
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX TURK HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixturk.png" group-title="TR | SINEMA",TRS | CINEFLIX TURK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68018
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX WESTERN HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixwestern.png" group-title="TR | SINEMA",TRS | CINEFLIX WESTERN HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68019
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX SENER SEN HD" tvg-logo="https://cors.deno.dev/http://62.210.92.21/sinema/cineflixsenersen.png" group-title="TR | SINEMA",TRS | CINEFLIX SENER SEN HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68022
+#EXTINF:-1 tvg-id="" tvg-name="TRS | PRIMEBOX AKSIYON 1 FHD" tvg-logo="" group-title="TR | SINEMA",TRS | PRIMEBOX AKSIYON 1 FHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68023
+#EXTINF:-1 tvg-id="" tvg-name="TRS | PRIMEBOX AKSIYON 2 FHD" tvg-logo="" group-title="TR | SINEMA",TRS | PRIMEBOX AKSIYON 2 FHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68024
+#EXTINF:-1 tvg-id="" tvg-name="TRS | PRIMEBOX TURK 1 FHD" tvg-logo="" group-title="TR | SINEMA",TRS | PRIMEBOX TURK 1 FHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68027
+#EXTINF:-1 tvg-id="" tvg-name="TRS | PRIMEBOX TURK 2 FHD" tvg-logo="" group-title="TR | SINEMA",TRS | PRIMEBOX TURK 2 FHD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/68028
+#EXTINF:-1 tvg-id="" tvg-name="TRS | ENO TURK 4" tvg-logo="https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2021/08/ENO-TV-Comic-Opera.png" group-title="TR | SINEMA",TRS | ENO TURK 4
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/69835
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 2" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 2
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70024
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 3" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 3
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70025
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 4" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 4
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70026
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 5" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 5
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70027
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 6" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 6
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/93115
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 7" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 7
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70029
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 8" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 8
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70030
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 9" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 9
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70031
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 10" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 10
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70032
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 11" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 11
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70033
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 12" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 12
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70034
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 13" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 13
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70035
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 14" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 14
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70036
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 15" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 15
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70037
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 16" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 16
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70038
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 17" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 17
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70039
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 18" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 18
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70040
+#EXTINF:-1 tvg-id="" tvg-name="TRS | GoogLe TV SALON 19" tvg-logo="https://e7.pngegg.com/pngimages/430/386/png-clipart-logo-google-tv-television-set-google-television-text-thumbnail.png" group-title="TR | SINEMA",TRS | GoogLe TV SALON 19
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/70041
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CiNEBOX KEMAL SUNAL HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CiNEBOX KEMAL SUNAL HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94543
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CiNEBOX YESiLCAM HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CiNEBOX YESiLCAM HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94544
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX KOMEDI HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX KOMEDI HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94545
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX AKSIYON HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX AKSIYON HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94546
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX MACERA HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX MACERA HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94547
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX FANTASTIK HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX FANTASTIK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94548
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX ROMANTiK HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX ROMANTiK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94549
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX BILIMKURGU HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX BILIMKURGU HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94550
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX KORKU HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX KORKU HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94551
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX ANIMASYON HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX ANIMASYON HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94552
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEBOX DRAM HD" tvg-logo="https://2.bp.blogspot.com/-1X-NqYO_H2g/WKH_3aagMwI/AAAAAAAAcBo/lG4RDI3-WlA5LTBenrn3zKXQ9SxZQw5ugCLcB/s1600/CINEBOX%2BLOGO.png" group-title="TR | SINEMA",TRS | CINEBOX DRAM HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/94553
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE SALON 1 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE SALON 1 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42594
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE SALON 2 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE SALON 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42595
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE SALON 3 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE SALON 3 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42596
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE SALON 4 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE SALON 4 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42597
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE SALON 5 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE SALON 5 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42598
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE TURK 1 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE TURK 1 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42599
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE TURK 2 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE TURK 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42600
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE KOMEDI HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE KOMEDI HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42601
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE KOMEDI 2 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE KOMEDI 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42602
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE AKSIYON 1 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE AKSIYON 1 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42603
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE BILIM KURGU HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE BILIM KURGU HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42605
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE AKSIYON 2 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE AKSIYON 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42604
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE KORKU 1 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE KORKU 1 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42607
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE KORKU 2 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE KORKU 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42608
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE YESILCAM HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE YESILCAM HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42609
+#EXTINF:-1 tvg-id="" tvg-name="TRS | TURKLIVE BILIM KURGU 2 HD" tvg-logo="" group-title="TR | SINEMA",TRS | TURKLIVE BILIM KURGU 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/42606
+#EXTINF:-1 tvg-id="" tvg-name="TRS | CINEFLIX KEMAL SUNAL HD" tvg-logo="https://cdn.apk-cloud.com/detail/screenshot/A3mqoG7FEdlkWQ_lIG8vzxCxEaV_bpMBXe-oQbn1KtrwWERahHhNfP9nkErgxyNjK3w=h900.png" group-title="TR | SINEMA",TRS | CINEFLIX KEMAL SUNAL HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/87286
+#EXTINF:-1 tvg-id="" tvg-name="₪₪₪  [ TR | SINEMA CANLI ] ₪₪₪" tvg-logo="https://tr.seaicons.com/wp-content/uploads/2017/04/Turkey-icon.png" group-title="TR | SINEMA CANLI",₪₪₪  [ TR | SINEMA CANLI ] ₪₪₪
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/2272
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="TR | SINEMA CANLI",TRS | FX HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1338
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FX HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="TR | SINEMA CANLI",TRS | FX HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57722
+#EXTINF:-1 tvg-id="" tvg-name="TRS | FOX CRİME HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="TR | SINEMA CANLI",TRS | FOX CRİME HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57724
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-tv-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1340
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-2-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29994
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV 1001 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-1001-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV 1001 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1341
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV 1002 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-1002-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV 1002 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/30067
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV AILE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aile-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV AILE HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1342
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV AILE 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV AILE 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29995
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV AKSIYON HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV AKSIYON HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1343
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV AKSIYON 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aksiyon-2-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV AKSIYON 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29996
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV KOMEDI HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV KOMEDI HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1344
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV YERLI HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-yerli-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV YERLI HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1345
+#EXTINF:-1 tvg-id="" tvg-name="TRS | SINEMA TV YERLI 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="TR | SINEMA CANLI",TRS | SINEMA TV YERLI 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29998
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MOVIESMART CLASSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moviesmart-classic-tr.png" group-title="TR | SINEMA CANLI",TRS | MOVIESMART CLASSIC HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1348
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MOVİESMART CLASSİC HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moviesmart-classic-tr.png" group-title="TR | SINEMA CANLI",TRS | MOVİESMART CLASSİC HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57727
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MOVİESMART PREMİUM HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moviesmart-premium-tr.png" group-title="TR | SINEMA CANLI",TRS | MOVİESMART PREMİUM HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57725
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MOVIESMART PREMIUM 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moviesmart-premium-2-tr.png" group-title="TR | SINEMA CANLI",TRS | MOVIESMART PREMIUM 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1354
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MOVİESMART PREMİUM 2 HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moviesmart-premium-2-tr.png" group-title="TR | SINEMA CANLI",TRS | MOVİESMART PREMİUM 2 HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57716
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MOVIESMART TURK HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="TR | SINEMA CANLI",TRS | MOVIESMART TURK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1356
+#EXTINF:-1 tvg-id="" tvg-name="TRS | MOVİE SMART TURK HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="TR | SINEMA CANLI",TRS | MOVİE SMART TURK HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57728
+#EXTINF:-1 tvg-id="" tvg-name="TRS | DIZISMART MAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="TR | SINEMA CANLI",TRS | DIZISMART MAX HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/5382
+#EXTINF:-1 tvg-id="" tvg-name="TRS | DiziSmart MAX HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="TR | SINEMA CANLI",TRS | DiziSmart MAX HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57730
+#EXTINF:-1 tvg-id="" tvg-name="TRS | DIZISMART PREMIUM HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-premium-tr.png" group-title="TR | SINEMA CANLI",TRS | DIZISMART PREMIUM HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1337
+#EXTINF:-1 tvg-id="" tvg-name="TRS | DiziSmart PREMİUM HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-premium-tr.png" group-title="TR | SINEMA CANLI",TRS | DiziSmart PREMİUM HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57729
+#EXTINF:-1 tvg-id="" tvg-name="TRS | BluTV PLAY 1 HD" tvg-logo="https://tcybers.net/wp-content/uploads/2020/12/hafta-sonuna-ozel-ucretsiz-olan-blutv-nasil-izlenir-2.png" group-title="TR | SINEMA CANLI",TRS | BluTV PLAY 1 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/85330
+#EXTINF:-1 tvg-id="" tvg-name="TRS | BluTV  PLAY 2 HD" tvg-logo="https://tcybers.net/wp-content/uploads/2020/12/hafta-sonuna-ozel-ucretsiz-olan-blutv-nasil-izlenir-2.png" group-title="TR | SINEMA CANLI",TRS | BluTV  PLAY 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/85329
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVİES ACTİON 2 HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVİES ACTİON 2 HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1326
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVİES ACTİON HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-action-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVİES ACTİON HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1327
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVİES PREMİERE 2 HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVİES PREMİERE 2 HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1328
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVİES PREMİERE HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVİES PREMİERE HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1329
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVİES STARS HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-stars-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVİES STARS HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1330
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVİES TURK HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVİES TURK HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1331
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN SERİES COMEDY HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN SERİES COMEDY HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1332
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beINSERİES SCİ-Fİ HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beINSERİES SCİ-Fİ HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1335
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN SERİES VİCE  HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-vice-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN SERİES VİCE  HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/1336
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVIES ACTION HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-action-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVIES ACTION HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37861
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVIES ACTION 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVIES ACTION 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37862
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN SERIES COMEDY HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN SERIES COMEDY HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37863
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVIES STARS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-stars-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVIES STARS HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37860
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVIES PREMIERE HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVIES PREMIERE HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37864
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVIES PREMIERE 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVIES PREMIERE 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37865
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVIES FAMILY HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-family-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVIES FAMILY HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/50543
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN MOVIES TURK HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN MOVIES TURK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37866
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN SERIES VICE HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-vice-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN SERIES VICE HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37867
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN SERIES SCI-FI HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN SERIES SCI-FI HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/37868
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN SERIES DRAMA HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-drama-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN SERIES DRAMA HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/44510
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN Series DRAMA HDᶫᵒ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-drama-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN Series DRAMA HDᶫᵒ
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/57731
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN BOX OFFICE 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_box_office_01_hd.png" group-title="TR | SINEMA CANLI",TRS | beIN BOX OFFICE 1 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29294
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN BOX OFFICE 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_box_office_02_hd.png" group-title="TR | SINEMA CANLI",TRS | beIN BOX OFFICE 2 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29295
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN BOX OFFICE 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_tr_box_office_03_hd.png" group-title="TR | SINEMA CANLI",TRS | beIN BOX OFFICE 3 HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29296
+#EXTINF:-1 tvg-id="" tvg-name="TRS | beIN BOX OFFICE TURK HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="TR | SINEMA CANLI",TRS | beIN BOX OFFICE TURK HD
+https://cors.deno.dev/http://combative.balans13.xyz:50750/xPPkCR5WrxJc/ZuKcWegSJs6E/29297

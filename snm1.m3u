@@ -1,4 +1,4 @@
-#EXTM3U
+Bu#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",ENO ViZYON 3
 https://cors.deno.dev/http://vip.lotusnet.digital:19051/RedirectedChannels/SrvComune6023/21753
 #EXTINF:-1 tvg-id="" tvg-name="ENO ViZYON 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",ENO ViZYON 4
@@ -77,3 +77,83 @@ https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0i
 https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51864
 #EXTINF:-1 tvg-id="" tvg-name="|TR| FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRj5rxMjhB90fmbKZ2UDWGSGqyodC2e40Svw&usqp=CAU" group-title="TURKEY",|TR| FX HD
 https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51865
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="|TR| beIN Movies Action 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.png" group-title="TR : Sinema",|TR| beIN Movies Action 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/162
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="|TR| beIN Movies Action 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.ACTION.2.png" group-title="TR : Sinema",|TR| beIN Movies Action 2 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/163
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="|TR| beIN Movies Family 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.FAMILY.png" group-title="TR : Sinema",|TR| beIN Movies Family 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/164
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="|TR| beIN Movies Premiere 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.PREMIERE.png" group-title="TR : Sinema",|TR| beIN Movies Premiere 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/165
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="|TR| beIN Movies Premiere 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.PREMIERE.2.png" group-title="TR : Sinema",|TR| beIN Movies Premiere 2 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/166
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="|TR| beIN Movies Stars 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.STARS.png" group-title="TR : Sinema",|TR| beIN Movies Stars 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/167
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="|TR| beIN Movies Turk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.MOVIES.TURK.png" group-title="TR : Sinema",|TR| beIN Movies Turk 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/168
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="|TR| beIN Series Comedy 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.COMEDY.png" group-title="TR : Sinema",|TR| beIN Series Comedy 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/169
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="|TR| beIN Series Drama 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/beinseriesdrama1.png" group-title="TR : Sinema",|TR| beIN Series Drama 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/170
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="|TR| beIN Series Sci-Fi 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.SCI.FI.png" group-title="TR : Sinema",|TR| beIN Series Sci-Fi 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/171
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="|TR| beIN Series Vice 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.SERIES.VICE.png" group-title="TR : Sinema",|TR| beIN Series Vice 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/172
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-name="|TR| Movie smart Premium 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.PREMIUM.png" group-title="TR : Sinema",|TR| Movie smart Premium 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/177
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="|TR| Movie smart Turk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.TURK.png" group-title="TR : Sinema",|TR| Movie smart Turk 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/178
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="|TR| Movie smart Cocuk 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/moviesmartcocuk.png" group-title="TR : Sinema",|TR| Movie smart Cocuk 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/179
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="|TR| Movie smart Classic 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/MOVIE.SMART.CLASSIC.png" group-title="TR : Sinema",|TR| Movie smart Classic 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/192
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Dizismart Max 4K+  " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/DIZI.SMART.MAX.png" group-title="TR : Sinema",|TR| Dizismart Max 4K+  
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74844
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="|TR| Dizi Smart Premium 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/DIZI.SMART.PREMIUM.png" group-title="TR : Sinema",|TR| Dizi Smart Premium 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/180
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Yerli 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.YERLI.png" group-title="TR : Sinema",|TR| Sinema Tv Yerli 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74839
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Yerli 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.YERLI.png" group-title="TR : Sinema",|TR| Sinema Tv Yerli 2 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74840
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Komedi 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.KOMEDI.png" group-title="TR : Sinema",|TR| Sinema Tv Komedi 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74819
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Komedi 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.KOMEDI.png" group-title="TR : Sinema",|TR| Sinema Tv Komedi 2 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74836
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="|TR| Sinema TV 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.png" group-title="TR : Sinema",|TR| Sinema TV 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/182
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="|TR| Sinema TV 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.2.png" group-title="TR : Sinema",|TR| Sinema TV 2 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/183
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="|TR| Sinema TV 1001 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.1001.png" group-title="TR : Sinema",|TR| Sinema TV 1001 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/184
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="|TR| Sinema TV 1002 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.1002.png" group-title="TR : Sinema",|TR| Sinema TV 1002 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/181
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="|TR| Sinema TV Aile 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AILE.png" group-title="TR : Sinema",|TR| Sinema TV Aile 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/185
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="|TR| Sinema TV Aile 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AILE.png" group-title="TR : Sinema",|TR| Sinema TV Aile 2 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/49449
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="|TR| Sinema TV Aksiyon 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AKSIYON.png" group-title="TR : Sinema",|TR| Sinema TV Aksiyon 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/186
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema Tv Aksiyon 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/SINEMA.TV.AKSIYON.png" group-title="TR : Sinema",|TR| Sinema Tv Aksiyon 2 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/74837
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="|TR| Fox Crime 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/FOX.CRIME.png" group-title="TR : Sinema",|TR| Fox Crime 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/188
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="|TR| FX 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/FX.png" group-title="TR : Sinema",|TR| FX 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/196
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="|TR| Bein Box office 1 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.BOX.OFFICE.1.png" group-title="TR : Sinema",|TR| Bein Box office 1 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/193
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="|TR| Bein Box Office 2 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/BEIN.BOX.OFFICE.2.png" group-title="TR : Sinema",|TR| Bein Box Office 2 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/194
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="|TR| Bein Box Office 3 4K+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/beinboxoffice3.png" group-title="TR : Sinema",|TR| Bein Box Office 3 4K+
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/195
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 1" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon1.png" group-title="TR : Sinema",|TR| Salon 1
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22248
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 2" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon2.png" group-title="TR : Sinema",|TR| Salon 2
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22242
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon 3" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/salon3.png" group-title="TR : Sinema",|TR| Salon 3
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22235
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 1" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 1
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22251
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 2" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 2
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22250
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca 3" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Sinema/turkiye.png" group-title="TR : Sinema",|TR| Loca 3
+https://cors.deno.dev/http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/22249

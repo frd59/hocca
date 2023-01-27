@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 HD
+https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51915
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 HD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4649
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 HD
+https://cors.deno.dev/http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149526
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: beIN SPORTS 1 HD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/18947
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: beIN SPORT 1 FHD (1080p)
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4658
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: beIN SPORTS 1 HEVC
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4648
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: beIN SPORTS 1 FEED
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4650
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: beIN SPORTS 1 FHD FEED
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/24511
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: beIN SPORTS 2 FHD
+https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4651

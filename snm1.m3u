@@ -1,279 +1,519 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: b**N B0X 0FFİCE 1 HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: b**N B0X 0FFİCE 1 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/313
-#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: b**N B0X 0FFİCE 2 HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: b**N B0X 0FFİCE 2 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/314
-#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: b**N B*X OFFİCE 3 HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: b**N B*X OFFİCE 3 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/315
-#EXTINF:-1 tvg-id="" tvg-name="TR:  MAX Aksiyon HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR:  MAX Aksiyon HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10839
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Aksiyon 2 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10840
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Premier HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10841
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Orjinal HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10842
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Western HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10843
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Hint Filimleri
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10844
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Vizyon HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10845
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Vizyon 2 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10846
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Vizyon 3 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10847
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX Vizyon 4 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10848
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX 007 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10849
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX STAR WARS HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10850
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX TURK HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10851
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX PLUS HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10852
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: MAX GOLD HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/10853
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK VIZYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK VIZYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185217
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK AKSIYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK AKSIYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185218
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BILIMKURGU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK BILIMKURGU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185219
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BOX-SET" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK BOX-SET
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185220
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST NETFLIX" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST NETFLIX
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185221
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK DRAM" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK DRAM
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185222
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK IMBD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185223
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK TURK" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK TURK
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185224
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KOMEDI" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK KOMEDI
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185225
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KORKU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK KORKU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185226
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 1" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK LOCA 1
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185227
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 2" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK LOCA 2
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185228
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 3" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK LOCA 3
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185229
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK YESILCAM" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK YESILCAM
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185230
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK ANIMASYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK ANIMASYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185231
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST WESTERN" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST WESTERN
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185232
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SAVAS" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SAVAS
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185233
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK UZAKDOGU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK UZAKDOGU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185234
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KEMAL SUNAL" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK KEMAL SUNAL
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185235
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SENER SEN" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SENER SEN
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185236
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK WESTERN" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK WESTERN
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185237
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK MARVEL" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK MARVEL
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185238
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK MUZIK" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK MUZIK
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185239
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK HABABAM SINIFI" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK HABABAM SINIFI
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185240
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 1" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 1
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185241
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 2" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 2
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185242
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 3" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 3
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185243
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 4" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 4
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185244
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 5" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 5
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185245
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 6" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 6
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185246
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 7" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 7
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185247
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 8" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 8
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185248
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 9" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 9
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185249
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 10" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DINAMIK SALON 10
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185250
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD IMBD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD IMBD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185254
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD AKSIYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD AKSIYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185251
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD ANIMASYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD ANIMASYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185252
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD BILIMKURGU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD BILIMKURGU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185253
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KEMAL SUNAL" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD KEMAL SUNAL
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185255
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KOMEDI" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD KOMEDI
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185256
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KORKU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD KORKU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185257
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD SAVAS" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD SAVAS
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185258
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD TURK" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA HD TURK
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185259
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM TURK
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185260
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM SAVAS" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM SAVAS
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185261
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 1" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 1
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185262
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 2" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 2
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185263
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 3" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 3
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185264
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 4" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 4
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185265
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 5" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 5
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185266
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 6" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 6
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185267
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 7" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 7
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185268
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 8" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 8
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185269
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 9" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 9
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185270
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 10" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 10
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185271
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM BILIMKURGU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM BILIMKURGU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185272
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM BOX-SET" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM BOX-SET
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185273
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM DRAM" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM DRAM
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185274
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KEMAL SUNAL" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM KEMAL SUNAL
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185275
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KOMEDI" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM KOMEDI
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185276
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM AKSIYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM AKSIYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185277
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM ANIMASYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM ANIMASYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185278
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KORKU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM KORKU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185279
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 1" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM LOCA 1
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185280
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 2" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM LOCA 2
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185281
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 3" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM LOCA 3
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185282
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST AKSIYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST AKSIYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185283
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST TURK" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST TURK
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185284
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST KOMEDI" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST KOMEDI
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185285
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST KORKU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST KORKU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185286
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST IMBD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST IMBD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185287
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST BILIMKURGU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST BILIMKURGU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185288
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST DRAM" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST DRAM
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185289
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SAVAS" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST SAVAS
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185290
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST ANIMASYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST ANIMASYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185291
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST YESILCAM" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST YESILCAM
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185292
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 1" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST LOCA 1
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185293
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 2" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST LOCA 2
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185294
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 3" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST LOCA 3
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185295
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 1" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST SALON 1
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185299
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 2" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST SALON 2
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185296
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 3" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST SALON 3
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185297
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA AKSIYON HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: SINEMA AKSIYON HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/335
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: b**N B0X 0FFİCE 1 HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: b**N B0X 0FFİCE 1 HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/313
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: b**N B0X 0FFİCE 2 HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: b**N B0X 0FFİCE 2 HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/314
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: b**N B*X OFFİCE 3 HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: b**N B*X OFFİCE 3 HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/315
+#EXTINF:-1 tvg-id="" tvg-name="TR:  MAX Aksiyon HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR:  MAX Aksiyon HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10839
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Aksiyon 2 HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10840
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Premier HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10841
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Orjinal HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10842
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Western HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10843
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Hint Filimleri
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10844
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Vizyon HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10845
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Vizyon 2 HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10846
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Vizyon 3 HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10847
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX Vizyon 4 HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10848
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX 007 HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10849
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX STAR WARS HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10850
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX TURK HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10851
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX PLUS HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10852
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: MAX GOLD HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/10853
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK VIZYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK VIZYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185217
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK AKSIYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK AKSIYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185218
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BILIMKURGU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK BILIMKURGU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185219
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BOX-SET" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK BOX-SET
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185220
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST NETFLIX" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST NETFLIX
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185221
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK DRAM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK DRAM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185222
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK IMBD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185223
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK TURK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK TURK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185224
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KOMEDI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK KOMEDI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185225
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KORKU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK KORKU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185226
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 1" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK LOCA 1
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185227
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 2" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK LOCA 2
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185228
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 3" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK LOCA 3
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185229
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK YESILCAM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK YESILCAM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185230
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK ANIMASYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK ANIMASYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185231
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST WESTERN" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST WESTERN
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185232
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SAVAS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SAVAS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185233
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK UZAKDOGU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK UZAKDOGU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185234
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK KEMAL SUNAL
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185235
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SENER SEN" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SENER SEN
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185236
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK WESTERN" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK WESTERN
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185237
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK MARVEL" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK MARVEL
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185238
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK MUZIK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK MUZIK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185239
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK HABABAM SINIFI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK HABABAM SINIFI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185240
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 1" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 1
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185241
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 2" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 2
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185242
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 3" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 3
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185243
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 4" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 4
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185244
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 5" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 5
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185245
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 6" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 6
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185246
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 7" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 7
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185247
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 8" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 8
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185248
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 9" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 9
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185249
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 10" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DINAMIK SALON 10
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185250
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD IMBD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD IMBD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185254
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD AKSIYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD AKSIYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185251
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD ANIMASYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD ANIMASYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185252
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD BILIMKURGU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD BILIMKURGU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185253
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD KEMAL SUNAL
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185255
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KOMEDI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD KOMEDI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185256
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KORKU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD KORKU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185257
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD SAVAS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD SAVAS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185258
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD TURK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA HD TURK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185259
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM TURK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185260
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM SAVAS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM SAVAS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185261
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 1" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 1
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185262
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 2" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 2
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185263
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 3" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 3
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185264
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 4" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 4
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185265
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 5" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 5
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185266
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 6" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 6
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185267
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 7" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 7
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185268
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 8" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 8
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185269
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 9" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 9
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185270
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 10" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM b**N OFFE 10
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185271
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM BILIMKURGU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM BILIMKURGU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185272
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM BOX-SET" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM BOX-SET
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185273
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM DRAM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM DRAM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185274
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KEMAL SUNAL" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM KEMAL SUNAL
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185275
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KOMEDI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM KOMEDI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185276
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM AKSIYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM AKSIYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185277
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM ANIMASYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM ANIMASYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185278
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KORKU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM KORKU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185279
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 1" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM LOCA 1
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185280
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 2" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM LOCA 2
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185281
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 3" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM LOCA 3
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185282
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST AKSIYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST AKSIYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185283
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST TURK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST TURK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185284
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST KOMEDI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST KOMEDI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185285
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST KORKU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST KORKU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185286
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST IMBD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST IMBD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185287
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST BILIMKURGU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST BILIMKURGU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185288
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST DRAM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST DRAM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185289
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SAVAS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST SAVAS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185290
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST ANIMASYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST ANIMASYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185291
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST YESILCAM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST YESILCAM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185292
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 1" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST LOCA 1
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185293
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 2" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST LOCA 2
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185294
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 3" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST LOCA 3
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185295
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 1" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST SALON 1
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185299
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 2" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST SALON 2
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185296
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 3" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST SALON 3
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185297
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA AKSIYON HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: SINEMA AKSIYON HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/335
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX PREMIERE" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX PREMIERE
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/386
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/386
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX VIZYON 1 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/390
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/390
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 2  HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX VIZYON 2  HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/396
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/396
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX SINEMA TURK 1 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/391
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/391
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK  2 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX SINEMA TURK  2 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/399
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/399
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX ACTIE 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX ACTIE 1 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/392
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/392
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX BILIMKURGU 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX BILIMKURGU 1 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/393
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/393
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX HORROR 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX HORROR 1 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/394
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/394
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX MIX 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX MIX 1 HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/395
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/395
 #EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX DRAMA HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR SINEMA",TR: REDBOX DRAMA HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/398
-#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX Türk HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR:  FILMAX Türk HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/387
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GOLD HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX GOLD HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/389
-#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX FANTASTIK HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR:  FILMAX FANTASTIK HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/382
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Korku HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX Korku HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/383
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Action HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX Action HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/385
-#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX COMEDY HD" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR:  FILMAX COMEDY HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/388
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX Yesilcam
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/113522
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX Kemal Sunal
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/113521
-#EXTINF:-1 tvg-id="" tvg-name="TR: Filmax Drama" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: Filmax Drama
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/113523
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/398
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX Türk HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR:  FILMAX Türk HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/387
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GOLD HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX GOLD HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/389
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX FANTASTIK HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR:  FILMAX FANTASTIK HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/382
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Korku HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX Korku HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/383
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Action HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX Action HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/385
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX COMEDY HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR:  FILMAX COMEDY HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/388
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX Yesilcam
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/113522
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX Kemal Sunal
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/113521
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmax Drama" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: Filmax Drama
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/113523
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Sinema HD" tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title="TR SINEMA",TR: Yesilcam Sinema HD
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/37975
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal TV" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: Kemal Sunal TV
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/397
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEST HABABAM SINIFI" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: BEST HABABAM SINIFI
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185298
-#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM ZEKMET TV" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: YESILCAM ZEKMET TV
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185301
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM WESTERN" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM WESTERN
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185302
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM NETFLIX" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DREAM NETFLIX
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185304
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA ANIMASYON" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: ULTRA ANIMASYON
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/185305
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX AILE" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX AILE
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209088
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BILIM KURGU" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX BILIM KURGU
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209089
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GERILIM" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX GERILIM
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209090
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ROMANTIK" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX ROMANTIK
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209091
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SAVAS" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX SAVAS
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209092
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX IMDB TOP" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX IMDB TOP
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209093
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DISNEY" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: FILMAX DISNEY
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209247
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX LIFE" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DOCUAX LIFE
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209249
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX EARTH" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DOCUAX EARTH
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209250
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX WAR" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR: DOCUAX WAR
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209251
-#EXTINF:-1 tvg-id="" tvg-name="TR : FILMAX KOMEDI" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR : FILMAX KOMEDI
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209581
-#EXTINF:-1 tvg-id="" tvg-name="TR : FILMAX TURK" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR SINEMA",TR : FILMAX TURK
-http://stream.live-ip.tv:8080/Ramirestream/6QZxZKX2k7/209582
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/37975
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal TV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: Kemal Sunal TV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/397
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST HABABAM SINIFI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: BEST HABABAM SINIFI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185298
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM ZEKMET TV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: YESILCAM ZEKMET TV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185301
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM WESTERN" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM WESTERN
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185302
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM NETFLIX" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DREAM NETFLIX
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185304
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA ANIMASYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: ULTRA ANIMASYON
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/185305
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX AILE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX AILE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209088
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BILIM KURGU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX BILIM KURGU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209089
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GERILIM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX GERILIM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209090
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ROMANTIK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX ROMANTIK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209091
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SAVAS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX SAVAS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209092
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX IMDB TOP" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX IMDB TOP
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209093
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DISNEY" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX DISNEY
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209247
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX LIFE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DOCUAX LIFE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209249
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX EARTH" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DOCUAX EARTH
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209250
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX WAR" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DOCUAX WAR
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209251
+#EXTINF:-1 tvg-id="" tvg-name="TR : FILMAX KOMEDI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR : FILMAX KOMEDI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209581
+#EXTINF:-1 tvg-id="" tvg-name="TR : FILMAX TURK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR : FILMAX TURK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209582
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX NETFLIX" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: FILMAX NETFLIX
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209952
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE LAST OF US" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR SINEMA",TR: DIZIAX THE LAST OF US
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209955
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cukur HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Cukur HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/106604
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ask Memnu HD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Ask Memnu HD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/106605
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kurtlar Vadisi" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Kurtlar Vadisi
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/106606
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuklar Duymasin" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Cocuklar Duymasin
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/106607
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Game of Thrones" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Game of Thrones
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/106608
+#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİAX Atiye" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DİZİAX Atiye
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/106623
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN ERSAN KUNTERI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: EXXEN ERSAN KUNTERI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/114889
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Hercai" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Hercai
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/115460
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cicek Taxi" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Cicek Taxi
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/115461
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Bin Bir Gece" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Bin Bir Gece
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/123358
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ezel" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Ezel
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/123359
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Masumlar Apartmani" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Masumlar Apartmani
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/123360
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kirmizi Oda" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Kirmizi Oda
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/123361
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX S1F1R B1R ADANA" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX S1F1R B1R ADANA
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/124281
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sokagin Cocuklari" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Sokagin Cocuklari
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/124282
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Suskunlar" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Suskunlar
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/124283
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Yilan Hikayesi" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Yilan Hikayesi
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/124284
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sadakatsiz" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Sadakatsiz
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/124285
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX YILAN HIKAYESI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX YILAN HIKAYESI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142083
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Behzat Ç" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Behzat Ç
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142084
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Alemin Kralı" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Alemin Kralı
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142085
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Jet Sosyete" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Jet Sosyete
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142086
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ramo" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Ramo
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142087
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Diriliş Ertuğrul" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Diriliş Ertuğrul
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142088
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KONUSANLAR" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX KONUSANLAR
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142089
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX EKMEK TEKNESI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX EKMEK TEKNESI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142090
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX NICOLAS CAGE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX NICOLAS CAGE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142092
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BRAD PITT" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX BRAD PITT
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142093
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TOM CRUISE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX TOM CRUISE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142094
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX  BRUCE WILLS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX  BRUCE WILLS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142095
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SYLVESTER STALLONE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX SYLVESTER STALLONE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142096
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JETLI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX JETLI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142097
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JASON STATHAM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX JASON STATHAM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142098
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JACKY CHAN" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX JACKY CHAN
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142099
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VAN DAMME" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX VAN DAMME
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142100
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CAMERON DIAZ" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX CAMERON DIAZ
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142101
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ARNOLD SCHWARZENEGGER" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ARNOLD SCHWARZENEGGER
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142102
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ANGELINE JOLIE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ANGELINE JOLIE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142103
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALPACINO" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ALPACINO
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142104
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SUSKUNLAR" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX SUSKUNLAR
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142105
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX DAREDEVIL" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX DAREDEVIL
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142106
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX DARK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX DARK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142107
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BINBIR GECE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX BINBIR GECE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142108
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX YARGI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX YARGI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142109
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LA CASA DE PAPEL" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX LA CASA DE PAPEL
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142110
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BLACKLIST" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX BLACKLIST
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142111
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX NARCOS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX NARCOS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142112
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX OZARK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX OZARK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142113
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX PRISON BREAK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX PRISON BREAK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142114
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE WALKING DEAD" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX THE WALKING DEAD
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142115
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Stranger Things" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Stranger Things
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142116
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VAN HELSING" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX VAN HELSING
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142117
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VIKINGS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX VIKINGS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142118
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LOST IN SPACE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX LOST IN SPACE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142119
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LUCIFER" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX LUCIFER
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142120
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX FLASH" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX FLASH
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142121
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ELITE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ELITE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142122
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX El Chapo" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX El Chapo
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142123
+#EXTINF:-1 tvg-id="" tvg-name="TR: TR: DIZIAX LOTR Guc Yuzukleri" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: TR: DIZIAX LOTR Guc Yuzukleri
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142124
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX House Of Dragon" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX House Of Dragon
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142125
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BRUCE LEE TV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX BRUCE LEE TV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142126
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Designated Survivor" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX Designated Survivor
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142127
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KOBRA KAİ" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX KOBRA KAİ
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142128
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX 007 JAMES BOND" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX 007 JAMES BOND
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142129
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HARRY POTTER" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX HARRY POTTER
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142130
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ROCKY BALBOA" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ROCKY BALBOA
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142131
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX RECEP IVEDIK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX RECEP IVEDIK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142132
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALACAKARANLIK EFSANESI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ALACAKARANLIK EFSANESI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142133
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ÖLÜMCÜL DENEY" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ÖLÜMCÜL DENEY
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142134
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HOBBIT TV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX HOBBIT TV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142135
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BATMAN TV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX BATMAN TV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142138
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SUPERMAN TV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX SUPERMAN TV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142136
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ORUMCEK ADAM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ORUMCEK ADAM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142137
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARAYIP KORSANLARI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX KARAYIP KORSANLARI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142139
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ZOR OLUM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ZOR OLUM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142140
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CEHENNEM SILAHI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX CEHENNEM SILAHI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142141
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SON DURAK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX SON DURAK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142142
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX POLIS AKEDEMISI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX POLIS AKEDEMISI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142143
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TESTERE SAW" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX TESTERE SAW
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142144
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TERMINATOR TV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX TERMINATOR TV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142145
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX X-MEN TV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX X-MEN TV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142146
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX 13.CUMA" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX 13.CUMA
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142147
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TRANSFORMERS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX TRANSFORMERS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142148
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MUMYA" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX MUMYA
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142149
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE BOURNE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX THE BOURNE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142150
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE MATRİX" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX THE MATRİX
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142151
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX STAR TREK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX STAR TREK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142152
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MAYMUNLAR CEHENEMI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX MAYMUNLAR CEHENEMI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142153
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALIEN VS PREDATOR" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ALIEN VS PREDATOR
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142154
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX RAMBO" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX RAMBO
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142155
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MASKELI BESLER" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX MASKELI BESLER
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142156
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CILGIN DERSHANE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX CILGIN DERSHANE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142157
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARANLIKLAR ULKESI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX KARANLIKLAR ULKESI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142158
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX IP-MAN" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX IP-MAN
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142159
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SAKARYA FIRAT" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX SAKARYA FIRAT
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/142185
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CAMDAKİ KIZ" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX CAMDAKİ KIZ
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209454
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARDESLERIM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX KARDESLERIM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209455
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BEN BU CIHANA SIGMAM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX BEN BU CIHANA SIGMAM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209456
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX UC KIZ KARDES" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX UC KIZ KARDES
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209457
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX UC KURUS" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX UC KURUS
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209458
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ICERDE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ICERDE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209459
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HATIRLA SEVGILI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX HATIRLA SEVGILI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209460
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX GUZEL KOYLU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX GUZEL KOYLU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209461
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ELVEDA RUMELI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ELVEDA RUMELI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209462
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX COCUK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX COCUK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209463
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BENIM ADIM MELEK" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX BENIM ADIM MELEK
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209464
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX AVLU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX AVLU
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209466
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAC ANNE" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAC ANNE
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209467
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALEV ALEV" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX ALEV ALEV
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209468
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX AKREP" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX AKREP
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209469
+#EXTINF:-1 tvg-id="" tvg-name="TR : DIZIAX AYNEN AYNEN" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR : DIZIAX AYNEN AYNEN
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209578
+#EXTINF:-1 tvg-id="" tvg-name="TR : DIZIAX CEKIC VE GUL" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR : DIZIAX CEKIC VE GUL
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209579
+#EXTINF:-1 tvg-id="" tvg-name="TR : DIZIAX AYAK ISLERI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR : DIZIAX AYAK ISLERI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209580
+#EXTINF:-1 tvg-id="" tvg-name="TR : DIZIAX GIBI" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR : DIZIAX GIBI
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209947
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SIZI DINLIYORUM" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX SIZI DINLIYORUM
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209948
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SADECE ARKADASIZ" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX SADECE ARKADASIZ
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209949
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LEYLA ILE MECNUN" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX LEYLA ILE MECNUN
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209950
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TOLGSHOW" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="TR DIZI 7/24",TR: DIZIAX TOLGSHOW
+http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209951

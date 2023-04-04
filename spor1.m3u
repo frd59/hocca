@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR ** BEIN SPORTS 1  UHD" tvg-logo="" group-title="TURK SPOR",TR ** BEIN SPORTS 1  UHD
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/77459
-#EXTINF:-1 tvg-id="" tvg-name="TR ** BEIN SPORTS 1  FHD" tvg-logo="" group-title="TURK SPOR",TR ** BEIN SPORTS 1  FHD
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/1089
-#EXTINF:-1 tvg-id="" tvg-name="TR ** BEIN SPORTS 1  fHD" tvg-logo="" group-title="TURK SPOR",TR ** BEIN SPORTS 1  fHD
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/1086
-#EXTINF:-1 tvg-id="" tvg-name="TR -- BEIN SPORTS 1 BHD" tvg-logo="" group-title="TURK SPOR",TR -- BEIN SPORTS 1 BHD
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/1087
-#EXTINF:-1 tvg-id="" tvg-name="TR -- Bein Sport 1 HD (480p)" tvg-logo="" group-title="TURK SPOR",TR -- Bein Sport 1 HD (480p)
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/1088
-#EXTINF:-1 tvg-id="" tvg-name="TR -- BEIN SPORTS 1 HD ( MACTA FHD )" tvg-logo="" group-title="TURK SPOR",TR -- BEIN SPORTS 1 HD ( MACTA FHD )
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/77714
-#EXTINF:-1 tvg-id="" tvg-name=" TR -- BEiN SPORT-5 HD" tvg-logo="" group-title="TURK SPOR", TR -- BEiN SPORT-5 HD
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/77713
-#EXTINF:-1 tvg-id="" tvg-name="TR -- beIN SPORTS 2 HD" tvg-logo="" group-title="TURK SPOR",TR -- beIN SPORTS 2 HD
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/27661
-#EXTINF:-1 tvg-id="" tvg-name="TR -- BEiN SPORT-2 HD  (720P)" tvg-logo="" group-title="TURK SPOR",TR -- BEiN SPORT-2 HD  (720P)
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/80230
-#EXTINF:-1 tvg-id="" tvg-name="TR -- BEIN SPORTS 3 HD (1920X1080)" tvg-logo="" group-title="TURK SPOR",TR -- BEIN SPORTS 3 HD (1920X1080)
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/80231
-#EXTINF:-1 tvg-id="" tvg-name="TR -- BEIN SPORT 3 HD 720P" tvg-logo="" group-title="TURK SPOR",TR -- BEIN SPORT 3 HD 720P
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/1093
-#EXTINF:-1 tvg-id="" tvg-name="TR -- BEIN SPORT 3 HD" tvg-logo="" group-title="TURK SPOR",TR -- BEIN SPORT 3 HD
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/1118
-#EXTINF:-1 tvg-id="bein.sports.4.tr" tvg-name="TR -- BEIN SPORT 4 HD 720P" tvg-logo="" group-title="TURK SPOR",TR -- BEIN SPORT 4 HD 720P
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/1095
-#EXTINF:-1 tvg-id="" tvg-name="TR -- BEIN SPORT 4 HD" tvg-logo="" group-title="TURK SPOR",TR -- BEIN SPORT 4 HD
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/1119
-#EXTINF:-1 tvg-id="" tvg-name="TR -- BEiN SPORT-5 HD (720P)" tvg-logo="" group-title="TURK SPOR",TR -- BEiN SPORT-5 HD (720P)
-http://knowing.sbs:2086/CengizAbiFR/jkLtR3KVHv8r/80232
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP0RT 1 FHD" tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 1 FHD
 https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/AkerKaynak2023/hJpxYqZEaJdQ/5000
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP0RT 1 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 1 HD+

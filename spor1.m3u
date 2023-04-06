@@ -1,183 +1,117 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP0RT 1 FHD" tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 1 FHD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/5000
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP0RT 1 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 1 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19048
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP0RT 1 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 1 HD 
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/288
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: b**N SP0RT 1 SD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 1 SD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/286
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: b**N SP0RT 2 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 2 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/289
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: b**N SP0RT 2 HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 2 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/262
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: b**N SP0RT 3 HD+" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 3 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/290
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: b**N SP0RT 3 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 3 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/263
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: b**N SP0RT 4 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 4 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/291
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: b**N SP0RT 4 HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 4 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/264
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: b**N SP0RTS MAX 1 HD+" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="TR bieN SP0RTS",TR: b**N SP0RTS MAX 1 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/292
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: b**N SP0RT MAX 1 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT MAX 1 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/265
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: b**N SP0RT MAX 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT MAX 2 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/293
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: b**N SP0RT MAX 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT MAX 2 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/266
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: b**N SP0RT HABER HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT HABER HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/267
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: b**N SP0RT HABER HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT HABER HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/285
-#EXTINF:-1 tvg-id="" tvg-name="TR: b**N CNNECT 1 maczamani" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="TR bieN SP0RTS",TR: b**N CNNECT 1 maczamani
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/117040
-#EXTINF:-1 tvg-id="" tvg-name="TR: b**N CNNECT 2 maczamani" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="TR bieN SP0RTS",TR: b**N CNNECT 2 maczamani
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/117041
-#EXTINF:-1 tvg-id="" tvg-name="TR: b**N CNNECT 3 maczamani" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="TR bieN SP0RTS",TR: b**N CNNECT 3 maczamani
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/117042
-#EXTINF:-1 tvg-id="" tvg-name="TR: b**N SP0RT 5 HD+" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="TR bieN SP0RTS",TR: b**N SP0RT 5 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/117043
-#EXTINF:-1 tvg-id="" tvg-name="TR:  beiN SP0RT 1 [KUTU]" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="TR bieN SP0RTS",TR:  beiN SP0RT 1 [KUTU]
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/117044
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS HABER HD." tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="Local",TR: bEIN SP0RTS HABER HD.
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68408
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS 1 HD+ (1920x1080)." tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Local",TR: bEIN SP0RTS 1 HD+ (1920x1080).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68410
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS 1 MOBIL (480P)." tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Local",TR: bEIN SP0RTS 1 MOBIL (480P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68411
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS 2 HD (DT PLAY 720P)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RTS 2 HD (DT PLAY 720P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68412
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS 2 MOBIL (480P)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RTS 2 MOBIL (480P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68413
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS 3 HD  (DT PLAY 720P)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RTS 3 HD  (DT PLAY 720P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68414
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS 3 MOBIL (480P)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RTS 3 MOBIL (480P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68415
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS 4 HD  (DT PLAY 720P)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RTS 4 HD  (DT PLAY 720P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68416
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS 4 MOBIL (480P)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RTS 4 MOBIL (480P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68417
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEINSP0RTS M*X 1 MOBIL (480P)." tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="Local",TR: bEINSP0RTS M*X 1 MOBIL (480P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68418
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS M*X 1 HD (DT PLAY 720P)." tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="Local",TR: bEIN SP0RTS M*X 1 HD (DT PLAY 720P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68419
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS M*X 2 HD (DT PLAY 720P)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RTS M*X 2 HD (DT PLAY 720P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68420
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RTS MX 2 MOBIL (480P)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RTS MX 2 MOBIL (480P).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68421
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RT 1 (B)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RT 1 (B).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68422
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RT 2 (B)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RT 2 (B).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68423
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RT 3 (B)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RT 3 (B).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68424
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RT 4 (B)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RT 4 (B).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68425
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RT MAX 1 (B)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RT MAX 1 (B).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68426
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SP0RT MAX 2 (B)." tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png" group-title="Local",TR: bEIN SP0RT MAX 2 (B).
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/68427
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 1 HD+ (maczamani)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR SPORT",TR: EXXEN 1 HD+ (maczamani)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125020
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 2 HD+ (maczamani)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR SPORT",TR: EXXEN 2 HD+ (maczamani)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125073
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 3 HD+ (maczamani)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR SPORT",TR: EXXEN 3 HD+ (maczamani)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125857
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 4 HD+ (maczamani)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR SPORT",TR: EXXEN 4 HD+ (maczamani)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/141719
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 5 HD+ (maczamani)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR SPORT",TR: EXXEN 5 HD+ (maczamani)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/141720
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 6 HD+ (maczamani)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR SPORT",TR: EXXEN 6 HD+ (maczamani)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/141721
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 7 HD+ (maczamani)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR SPORT",TR: EXXEN 7 HD+ (maczamani)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/141923
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN 8 HD+ (maczamani)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR SPORT",TR: EXXEN 8 HD+ (maczamani)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/141924
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="TR SPORT",TR: TiViBUSPOR 1 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/298
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="TR SPORT",TR: TiViBUSPOR 2 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/299
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="TR SPORT",TR: TiViBUSPOR 3 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/300
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="TR SPORT",TR: TIVIBUSPOR 1 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/268
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/79/Tivibu_SPOR_2_logo.jpg" group-title="TR SPORT",TR: TIVIBUSPOR 2 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/269
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="TR SPORT",TR: TIVIBUSPOR 3 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/270
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",TR: S-SPORT HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/271
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",TR: S-SPORT 1 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/294
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD++" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",TR: S-SPORT 1 HD++
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/305
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="TR SPORT",TR: S-SPORT 2 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/295
-#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="TR SPORT",TR: S-SPORT 2 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/116073
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPORT SMART HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/301
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPORT SMART HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/302
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART HD++" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPOR SMART HD++
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/297
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR SPORT",TR: SPOR SMART HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/272
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART SD (1280)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png" group-title="TR SPORT",TR: SPOR SMART SD (1280)
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/124764
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="TR SPORT",TR: SPOR SMART 2 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/69715
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 Mac Saati" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",TR: S Sport+1 Mac Saati
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125105
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 Mac Saati" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",TR: S Sport+2 Mac Saati
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125106
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+3 Mac Saati" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",TR: S Sport+3 Mac Saati
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125107
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 Mac Saati" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",TR: S Sport+4 Mac Saati
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125108
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Mac Saati" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="TR SPORT",TR: S Sport+5 Mac Saati
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125109
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="TR SPORT",TR: NBA TV HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/296
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="TR SPORT",TR: NBA TV HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/274
-#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR: SPORTSTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/48/Sportstv_logosu.png" group-title="TR SPORT",TR: SPORTSTV HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/278
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png" group-title="TR SPORT",TR: TRT SPOR HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/283
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png" group-title="TR SPORT",TR: TRT SPOR HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/281
-#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: TRT SPOR YILDIZ HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1920px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="TR SPORT",TR: TRT SPOR YILDIZ HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/114887
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/1920px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="TR SPORT",TR: TRT SPOR YILDIZ HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/282
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TRT_3-Spor_kurumsal_logo.png/1920px-TRT_3-Spor_kurumsal_logo.png" group-title="TR SPORT",TR: TRT 3 SPOR
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/114885
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="TR SPORT",TR: A SPOR HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/284
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="TR SPORT",TR: A SPOR HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/280
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1920px-Eurosport_1_Logo_2015.svg.png" group-title="TR SPORT",TR: EUROSPORT 1 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/275
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="TR SPORT",TR: EUROSPORT 2 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/276
-#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="https://proxy.rssblue.com?url=http://www.meibur.com/uploads/kanal/20214fb.png" group-title="TR SPORT",TR: FB TV HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/259
-#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG" group-title="TR SPORT",TR: GS TV HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/277
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TJK TV HD" tvg-logo="https://w7.pngwing.com/pngs/573/693/png-transparent-jockey-club-of-turkey-logo-encapsulated-postscript-tjk-tv-business-cdr-text-rectangle-thumbnail.png" group-title="TR SPORT",TR: TJK TV HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/279
-#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports Ultimate" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR SP0R FEED",TR: Platinum X Sports Ultimate
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125161
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Platinum X Sports HEVC " tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR SP0R FEED",TR: Platinum X Sports HEVC 
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/116091
-#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports HD+" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR SP0R FEED",TR: Platinum X Sports HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/126525
-#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports 2 HD+" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR SP0R FEED",TR: Platinum X Sports 2 HD+
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/125160
-#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports 2 HD" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR SP0R FEED",TR: Platinum X Sports 2 HD
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/142061
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Platinum X Sport 4K" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR SP0R FEED",TR: Platinum X Sport 4K
-https://proxy.rssblue.com?url=http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/106810
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPOR 1 HD (MAC SAATI)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: BEIN SPOR 1 HD (MAC SAATI)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/63445
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40760
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 UHD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40761
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 (GECIKMESIZ)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 (GECIKMESIZ)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40762
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BeIN SPORTS 1 4K (2160P)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: BeIN SPORTS 1 4K (2160P)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40759
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 HD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40763
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 UHD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40764
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 (Yedek)" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 (Yedek)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40765
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: Bein SPORTS 3 HD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 3 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40766
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: Bein SPORTS 3 UHD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 3 UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40767
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: Bein SPORTS 4 HD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 4 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40768
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN SPORTS 4 UHD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR: SPOR",TR: beIN SPORTS 4 UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40769
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR: SPOR",TR: beIN SPORTS 5 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140573
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 UHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR: SPOR",TR: beIN SPORTS 5 UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140574
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: beIN SPORTS MAX 1 UHD" tvg-logo="https://i.ibb.co/hLm58rM/bein-sports-max-1-qa-tr.png" group-title="TR: SPOR",TR: beIN SPORTS MAX 1 UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40770
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: beIN SPORTS MAX 2 UHD" tvg-logo="https://i.ibb.co/Nn04gp5/bein-sports-max-2-qa-tr.png" group-title="TR: SPOR",TR: beIN SPORTS MAX 2 UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40771
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="https://i.ibb.co/sbpWcfv/bein-sports-haber-qa-tr.png" group-title="TR: SPOR",TR: beIN SPORTS HABER HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40758
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 1 FHD (MAC SAATI)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104602
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 1 HD (MAC SAATI)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104665
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 2 FHD (MAC SAATI)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104129
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 2 HD (MAC SAATI)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104666
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 3 FHD (MAC SAATI)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104603
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 3 HD (MAC SAATI)
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104667
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 4 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106418
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 4 FHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/141289
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 5 FHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106421
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 5 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106420
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 6 FHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106423
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 6 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106422
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 7 FHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106526
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 7 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106525
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 8 FHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106528
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 8 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106527
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="TR: SPOR",TR: Tivibu SPOR HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/154982
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 1 HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="TR: SPOR",TR: Tivibu SPOR 1 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40772
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 2 HD" tvg-logo="https://i.ibb.co/H7p9kqz/tivibu-tr-spor-2.png" group-title="TR: SPOR",TR: Tivibu SPOR 2 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40773
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 3 HD" tvg-logo="https://i.ibb.co/bH6WM8p/tivibu-tr-spor-3.png" group-title="TR: SPOR",TR: Tivibu SPOR 3 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40774
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR 4 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F885%2Ftivibu-spor-4-1.png" group-title="TR: SPOR",TR: Tivibu SPOR 4 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/145502
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SMARTSPOR UHD" tvg-logo="https://i.ibb.co/CwXHTHp/spor-smart-tr.png" group-title="TR: SPOR",TR: SMARTSPOR UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40775
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SMARTSPOR HD" tvg-logo="https://i.ibb.co/CwXHTHp/spor-smart-tr.png" group-title="TR: SPOR",TR: SMARTSPOR HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40776
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTSPOR 2 HD" tvg-logo="" group-title="TR: SPOR",TR: SMARTSPOR 2 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/98598
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT UHD" tvg-logo="https://i.ibb.co/Npb6g2P/s-sport-tr.png" group-title="TR: SPOR",TR: S SPORT UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40777
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT HD" tvg-logo="https://i.ibb.co/Npb6g2P/s-sport-tr.png" group-title="TR: SPOR",TR: S SPORT HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40778
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 HD" tvg-logo="" group-title="TR: SPOR",TR: S SPORT 2 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/82732
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +" tvg-logo="" group-title="TR: SPOR",TR: S SPORT +
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140501
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://i.ibb.co/6HLY6nZ/index.png" group-title="TR: SPOR",TR: EUROSPORT 1 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40780
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://i.ibb.co/1KZbZDy/Eurosport2.png" group-title="TR: SPOR",TR: EUROSPORT 2 HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40781
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://proxy.rssblue.com?url=http://tv.cinegold.vip:8080/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="TR: SPOR",TR: TRT SPOR HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40782
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR UHD" tvg-logo="https://proxy.rssblue.com?url=http://tv.cinegold.vip:8080/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="TR: SPOR",TR: TRT SPOR UHD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40783
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD+" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="TR: SPOR",TR: A SPOR HD+
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/45700
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="TR: SPOR",TR: A SPOR HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40784
+#EXTINF:-1 tvg-id="" tvg-name="TR: FiGHTBOX HD" tvg-logo="" group-title="TR: SPOR",TR: FiGHTBOX HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/60290
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV HD" tvg-logo="https://i.ibb.co/S6NDPm8/fbtv-fenerbahce.png" group-title="TR: SPOR",TR: FB TV HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40786
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: GS TV HD" tvg-logo="https://i.ibb.co/r4wcYJD/galatasaray-tv.png" group-title="TR: SPOR",TR: GS TV HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40787
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV" tvg-logo="https://i.ibb.co/vk80hbr/nb.png" group-title="TR: SPOR",TR: NBA TV
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40788
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV HD" tvg-logo="" group-title="TR: SPOR",TR: TAY TV HD
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/60289
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: T.A.Y TV" tvg-logo="https://i.ibb.co/8cv6bs6/turkiye-jokey-kulubu.png" group-title="TR: SPOR",TR: T.A.Y TV
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40789
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="" group-title="TR: SPOR",TR: TRT SPOR YILDIZ
+https://proxy.rssblue.com?url=http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/126788

@@ -1,117 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPOR 1 HD (MAC SAATI)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: BEIN SPOR 1 HD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/63445
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 HD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40760
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 UHD" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40761
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Bein SPORTS 1 (GECIKMESIZ)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 1 (GECIKMESIZ)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40762
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BeIN SPORTS 1 4K (2160P)" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR: SPOR",TR: BeIN SPORTS 1 4K (2160P)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40759
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 HD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40763
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 UHD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40764
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: Bein SPORTS 2 (Yedek)" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 2 (Yedek)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40765
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: Bein SPORTS 3 HD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 3 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40766
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: Bein SPORTS 3 UHD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 3 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40767
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: Bein SPORTS 4 HD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR: SPOR",TR: Bein SPORTS 4 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40768
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN SPORTS 4 UHD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR: SPOR",TR: beIN SPORTS 4 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40769
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR: SPOR",TR: beIN SPORTS 5 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140573
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 UHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR: SPOR",TR: beIN SPORTS 5 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140574
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: beIN SPORTS MAX 1 UHD" tvg-logo="https://i.ibb.co/hLm58rM/bein-sports-max-1-qa-tr.png" group-title="TR: SPOR",TR: beIN SPORTS MAX 1 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40770
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: beIN SPORTS MAX 2 UHD" tvg-logo="https://i.ibb.co/Nn04gp5/bein-sports-max-2-qa-tr.png" group-title="TR: SPOR",TR: beIN SPORTS MAX 2 UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40771
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="https://i.ibb.co/sbpWcfv/bein-sports-haber-qa-tr.png" group-title="TR: SPOR",TR: beIN SPORTS HABER HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40758
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 1 FHD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104602
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 1 HD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104665
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 2 FHD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104129
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 2 HD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104666
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 FHD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 3 FHD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104603
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 HD (MAC SAATI)" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 3 HD (MAC SAATI)
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/104667
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 4 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106418
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 4 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/141289
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 5 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106421
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 5 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106420
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 6 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106423
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 6 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106422
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 7 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106526
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 7 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106525
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 FHD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 8 FHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106528
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 HD" tvg-logo="https://www.turdigital.com/wp-content/uploads/exxen-cat.png" group-title="TR: SPOR",TR: EXXEN SPORT 8 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/106527
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="TR: SPOR",TR: Tivibu SPOR HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/154982
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 1 HD" tvg-logo="https://i.ibb.co/kV7VMgL/tivibu-tr-spor.png" group-title="TR: SPOR",TR: Tivibu SPOR 1 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40772
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 2 HD" tvg-logo="https://i.ibb.co/H7p9kqz/tivibu-tr-spor-2.png" group-title="TR: SPOR",TR: Tivibu SPOR 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40773
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TR: Tivibu SPOR 3 HD" tvg-logo="https://i.ibb.co/bH6WM8p/tivibu-tr-spor-3.png" group-title="TR: SPOR",TR: Tivibu SPOR 3 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40774
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR 4 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F885%2Ftivibu-spor-4-1.png" group-title="TR: SPOR",TR: Tivibu SPOR 4 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/145502
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SMARTSPOR UHD" tvg-logo="https://i.ibb.co/CwXHTHp/spor-smart-tr.png" group-title="TR: SPOR",TR: SMARTSPOR UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40775
-#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SMARTSPOR HD" tvg-logo="https://i.ibb.co/CwXHTHp/spor-smart-tr.png" group-title="TR: SPOR",TR: SMARTSPOR HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40776
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMARTSPOR 2 HD" tvg-logo="" group-title="TR: SPOR",TR: SMARTSPOR 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/98598
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT UHD" tvg-logo="https://i.ibb.co/Npb6g2P/s-sport-tr.png" group-title="TR: SPOR",TR: S SPORT UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40777
-#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT HD" tvg-logo="https://i.ibb.co/Npb6g2P/s-sport-tr.png" group-title="TR: SPOR",TR: S SPORT HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40778
-#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 HD" tvg-logo="" group-title="TR: SPOR",TR: S SPORT 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/82732
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT +" tvg-logo="" group-title="TR: SPOR",TR: S SPORT +
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/140501
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://i.ibb.co/6HLY6nZ/index.png" group-title="TR: SPOR",TR: EUROSPORT 1 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40780
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://i.ibb.co/1KZbZDy/Eurosport2.png" group-title="TR: SPOR",TR: EUROSPORT 2 HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40781
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://cors.zimjs.com/http://tv.cinegold.vip:8080/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="TR: SPOR",TR: TRT SPOR HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40782
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR UHD" tvg-logo="https://cors.zimjs.com/http://tv.cinegold.vip:8080/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="TR: SPOR",TR: TRT SPOR UHD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40783
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD+" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="TR: SPOR",TR: A SPOR HD+
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/45700
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="TR: SPOR",TR: A SPOR HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40784
-#EXTINF:-1 tvg-id="" tvg-name="TR: FiGHTBOX HD" tvg-logo="" group-title="TR: SPOR",TR: FiGHTBOX HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/60290
-#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR: FB TV HD" tvg-logo="https://i.ibb.co/S6NDPm8/fbtv-fenerbahce.png" group-title="TR: SPOR",TR: FB TV HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40786
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: GS TV HD" tvg-logo="https://i.ibb.co/r4wcYJD/galatasaray-tv.png" group-title="TR: SPOR",TR: GS TV HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40787
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV" tvg-logo="https://i.ibb.co/vk80hbr/nb.png" group-title="TR: SPOR",TR: NBA TV
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40788
-#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV HD" tvg-logo="" group-title="TR: SPOR",TR: TAY TV HD
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/60289
-#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: T.A.Y TV" tvg-logo="https://i.ibb.co/8cv6bs6/turkiye-jokey-kulubu.png" group-title="TR: SPOR",TR: T.A.Y TV
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40789
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="" group-title="TR: SPOR",TR: TRT SPOR YILDIZ
-https://cors.zimjs.com/http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/126788
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
+https://proxy.rssblue.com?url=http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/13635
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
+https://proxy.rssblue.com?url=http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/8493.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
+https://proxy.rssblue.com?url=http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/5367.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
+https://proxy.rssblue.com?url=http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1274.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
+https://proxy.rssblue.com?url=http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168567.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
+https://proxy.rssblue.com?url=http://formule.link:80/live/ZainTV01/oYChnp7cuX34/15488.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
+https://proxy.rssblue.com?url=http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/116592
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
+https://proxy.rssblue.com?url=http://spainline.xyz:8000/live/trading/XGfgNDGTGwhP/149606.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv 
+https://proxy.rssblue.com?url=http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/7973.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
+https://proxy.rssblue.com?url=http://nl01.spr24.net/5823/mpegts?token=569XzbdmXUcUKN
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
+https://proxy.rssblue.com?url=http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/6819/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
+https://proxy.rssblue.com?url=http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/7975.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
+https://proxy.rssblue.com?url=http://nl01.spr24.net/5822/mpegts?token=569XzbdmXUcUKN
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4655.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4656.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Sports UHD 5
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/27608.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Sports FHD 5
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/27608.ts
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 UHD
+https://proxy.rssblue.com?url=http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/5705.ts
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4657.ts
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 UHD
+https://proxy.rssblue.com?url=http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/6132.ts
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4659.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4665.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4666.ts
+
+#EXTINF:-1 tvg-logo="https://proxy.rssblue.com?url=http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
+https://proxy.rssblue.com?url=http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/5644.ts
+#EXTINF:-1 tvg-logo="https://proxy.rssblue.com?url=http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 2
+https://proxy.rssblue.com?url=http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/49002.ts
+
+#EXTINF:-1 tvg-logo="https://proxy.rssblue.com?url=http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4661.ts
+#EXTINF:-1 tvg-logo="https://proxy.rssblue.com?url=http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4662.ts
+#EXTINF:-1 tvg-logo="https://proxy.rssblue.com?url=http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD" tvg-logo="https://proxy.rssblue.com?url=http://logo.apk-red.com/cdn/pluspanel/spor/tivibu%20spor%204.png" group-title="SPOR KANALI",Tivibu Spor 4
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/16096.ts
+
+#EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="https://proxy.rssblue.com?url=http://epg.it999.ru/img/3885.png", Eurosport 1 HD
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4667.ts
+#EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="https://proxy.rssblue.com?url=http://epg.it999.ru/img/3886.png", Eurosport 2 HD
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4668.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
+https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4674.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
+https://proxy.rssblue.com?url=http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
+https://proxy.rssblue.com?url=http://66.160.192.241/aspor/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
+https://proxy.rssblue.com?url=http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/7840.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
+https://proxy.rssblue.com?url=http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/36872.ts
+#EXTINF:-1 group-title="SPOR KANALI", TRT 3-SPOR
+https://proxy.rssblue.com?url=http://185.205.201.105:8035/play/a025
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8

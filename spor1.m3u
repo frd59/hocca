@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-https://proxy.rssblue.com?url=http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/5367.ts
+https://cors.zimjs.com/http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/5367.ts
 #EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
 https://proxy.rssblue.com?url=http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168567.ts
 #EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR

@@ -1,26 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
 http://45.143.222.41:8080/dooby1312/b244f7ab/1735
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15943
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/6414
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 4 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15722
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/17739
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/17740
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 3 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/17741
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 4 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 4 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/19038
-#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN SPORTS MAX 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 1 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15723
-#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN SPORTS MAX 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax2.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 2 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/29048
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="Live: beIN Media Group",beIN SPORTS HABER HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/17896
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="|TR| BeIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 1 HD
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149526
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="|TR| BeIN Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 2 HD
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149529
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="|TR| BeIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 3 HD
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149531
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="|TR| BeIN Sports 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 4 HD
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149533
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="|TR| BeIN Sports Max 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports Max 1 HD
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149535
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="|TR| BeIN Sports Max 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/1200px-Logo_bein_sports_max_2.png"  group-title= "itvdom  SPORT",,|TR| BeIN Sports Max 2 HD
+http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149536
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 1 FHD TR
 http://45.12.1.14:80/BehareCaraj/X6o8aL2894/88662
 #EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 2 FHD TR

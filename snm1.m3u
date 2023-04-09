@@ -1,223 +1,159 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Sinema TV HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4698
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Sinema TV Aile HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4699
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Sinema TV Action HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4700
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Sinema TV Yerli
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4701
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Sinema TV Comedy HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4702
-#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Moviesmart Classic HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4696
-#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MovieSmart Turk
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4697
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: DIZISMART PREMIUM HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4676
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN MOVIES ACTION HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4683
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN MOVIES ACTION 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4684
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN MOVIES PREMIERE HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4682
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN MOVIES PREMIERE 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/20778
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINMOVIES STARS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEINMOVIES STARS HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4685
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES FAMLY HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN MOVIES FAMLY HD 
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4686
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES TURK HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN MOVIES TURK HD 
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4687
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES SCI FI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN SERIES SCI FI
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/15391
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN SERIES VICE
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/15393
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: BEIN SERIES COMEDY
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/15392
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Bilim Kurgu HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Bilim Kurgu HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/57
-#EXTINF:-1 tvg-id="" tvg-name="TR: Gine Gold Dram/Western HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Gine Gold Dram/Western HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/56
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Polisiye HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Polisiye HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/55
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dövüş HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Dövüş HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/54
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dram HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Dram HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/53
-#EXTINF:-1 tvg-id="" tvg-name="TR: Gine Gold Gerilim HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Gine Gold Gerilim HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/52
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Animasyon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Animasyon HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/51
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Komedi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Komedi HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/50
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Korku HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Korku HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/49
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Macera HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Macera HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/48
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Aksiyon 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Aksiyon 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/47
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Yerli 5 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/46
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Belgesel 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Belgesel 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/16
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Yerli 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/42
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Yerli 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/43
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Yerli 3 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/44
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Cine Gold Yerli 4 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/45
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7283
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7284
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 3 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7285
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 4 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7286
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 5 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7287
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 6 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7288
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 7 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7289
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 8 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7290
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 9 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7291
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 10 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7292
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 11 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7293
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 12 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7294
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 13 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7295
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 14 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 14 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7296
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 15 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 15 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7297
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 16 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 16 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7298
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 17 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 17 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7299
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 18 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 18 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7300
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 19 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 19 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7301
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 20 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX 20 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7302
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7303
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7304
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 3 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7305
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 4 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7306
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 5 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7307
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 6 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7308
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 7 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7309
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 8 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7310
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 9 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7311
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 10 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7312
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7313
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7314
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 3 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7315
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 4 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7316
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 5 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7317
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 6 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7318
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 7 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7319
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 8 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7320
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 9 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7321
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Turk 10 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7322
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7323
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7324
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 3 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7325
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 4 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7326
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 5 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7327
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 6 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7328
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 7 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7329
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 8 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7330
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 9 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7331
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Netflix 10 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7332
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7333
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7334
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 3 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7335
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 4 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7336
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 5 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7337
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 6 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7338
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 7 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7339
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 8 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7340
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 9 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7341
-#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: MaxBox Cocuk 10 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7342
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 1. Sezon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 1. Sezon
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/20
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 2. Sezon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 2. Sezon
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/21
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 3. Sezon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 3. Sezon
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/22
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 4. Sezon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 4. Sezon
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/23
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 5. Sezon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 5. Sezon
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/24
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 6. Sezon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 6. Sezon
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/25
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 7.Sezon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 7.Sezon
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/26
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 8. Sezon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 8. Sezon
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/27
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kemal Sunal 1 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/37
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kemal Sunal 2 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/38
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kemal Sunal 3 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/39
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kemal Sunal 4 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/40
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Kemal Sunal 5 HD
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/41
-#EXTINF:-1 tvg-id="" tvg-name="TR: Siyah Beyaz Yesilcam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Siyah Beyaz Yesilcam
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/28
-#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Yesilcam Tv
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/29
-#EXTINF:-1 tvg-id="" tvg-name="TR: Heidi 3D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TR: SINEMA",TR: Heidi 3D
-https://proxy.rssblue.com?url=http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4626
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFFİCE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: BEiN BOX OFFİCE 1 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10627
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFFİCE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: BEiN BOX OFFİCE 2 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10626
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFFİCE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: BEiN BOX OFFİCE 3 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10625
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN MOVIES ACTION 2 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10620
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN MOVIES ACTION HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10621
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN MOVIES FAMILY HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10618
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES PREMIERE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN MOVIES PREMIERE 2 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10622
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN MOVIES PREMIERE HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10623
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN MOVIES STARS HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10619
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES TURK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN MOVIES TURK HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10624
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SERIES COMEDY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN SERIES COMEDY HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10617
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SERIES DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN SERIES DRAMA HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10616
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SERIES SCI-FI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: beIN SERIES SCI-FI HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10615
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART CLASSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MOVIE SMART CLASSIC HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10603
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MOVIE SMART FAMILY HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10604
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART PLATIN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MOVIE SMART PLATIN HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10609
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART TURK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MOVIE SMART TURK HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10612
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMA TV AKSiYON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: SiNEMA TV AKSiYON HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10599
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMA TV YERLi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: SiNEMA TV YERLi HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10601
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: DIZI SMART PREMIUM HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10613
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD" tvg-name="TR: BEIN  GURME  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: BEIN  GURME  HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/5963
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD" tvg-name="TR: 360 TV (Backup)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: 360 TV (Backup)
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/9885
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD [4K Transcoded]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: DMAX HD [4K Transcoded]
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/10646
+#EXTINF:-1 tvg-id="" tvg-name="TR: ON4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: ON4
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/14579
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Kemal Sunal 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: Cine Kemal Sunal 1 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/23225
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Kemal Sunal 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: Cine Kemal Sunal 3 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/23227
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESiLCAM TV MEDOTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: YESiLCAM TV MEDOTV HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24611
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL MEDOTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: KEMAL SUNAL MEDOTV HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24612
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24618
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24619
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24620
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KEMAL SUNAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KEMAL SUNAL TV
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24621
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV WESTERN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV WESTERN
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24622
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV STAR WARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV STAR WARS
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24623
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV GOLD MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV GOLD MIX
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24624
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV YESILCAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV YESILCAM
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24625
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV CIZGI FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV CIZGI FILM
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24626
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV CEM YILMAZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV CEM YILMAZ
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24629
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV VIZYON 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV VIZYON 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24630
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV TURK SINEMA 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24632
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV TURK SINEMA 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24633
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV TURK SINEMA 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24634
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV TURK SINEMA 4
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24635
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV TURK SINEMA 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV TURK SINEMA 5
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24636
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV AKSIYON 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24637
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV AKSIYON 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24638
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV AKSIYON 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24639
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV AKSIYON 4
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24640
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV AKSIYON 5
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24641
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV AKSIYON 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV AKSIYON 6
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24642
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV ANIMASYON 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV ANIMASYON 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24643
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV ANIMASYON 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV ANIMASYON 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24644
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV ANIMASYON 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV ANIMASYON 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24645
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV BELGESEL
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24646
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV BILIMKURGU 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV BILIMKURGU 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24647
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV BILIMKURGU 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV BILIMKURGU 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24648
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV BILIMKURGU 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV BILIMKURGU 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24649
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV DRAMA 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24650
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV DRAMA 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24651
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV DRAMA 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24652
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV DRAMA 4
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24653
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV DRAMA 5
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24654
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV DRAMA 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV DRAMA 6
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24655
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KOMEDI 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24656
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KOMEDI 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24657
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KOMEDI 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24658
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KOMEDI 4
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24659
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KOMEDI 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KOMEDI 5
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24660
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KORKU 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KORKU 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24661
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KORKU 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KORKU 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24662
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV KORKU 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV KORKU 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24663
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV MIX 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24664
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV MIX 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24665
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV MIX 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24666
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV MIX 4
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24667
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV MIX 5
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24668
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV MIX 6
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24669
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV MIX 7
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24670
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDOTV MIX 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/1499px-WarnerTV_FILM_HD_Logo_2021.svg.png" group-title="TURKIYE",TR: MEDOTV MIX 10
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/24673

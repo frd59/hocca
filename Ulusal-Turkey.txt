@@ -1,415 +1,415 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR - ANIMAL PLANET HD" tvg-logo="http://attp.ddns.net:25461/images/15bad97a07c61b2e4702febf4c73f43d.png" group-title="Turk",TR - ANIMAL PLANET HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70722
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70722
 #EXTINF:-1 tvg-id="" tvg-name="TR - BBC EARTH HD" tvg-logo="http://attp.ddns.net:25461/images/6fc83ef4aad9463e9156159529de56c4.png" group-title="Turk",TR - BBC EARTH HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70723
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70723
 #EXTINF:-1 tvg-id="" tvg-name="TR - CIFTCI TV" tvg-logo="http://attp.ddns.net:25461/images/f38542360ddecacd4cd26dfb8dee62a1.png" group-title="Turk",TR - CIFTCI TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70724
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70724
 #EXTINF:-1 tvg-id="" tvg-name="TR - DISCOVERY CHANNEL HD" tvg-logo="http://attp.ddns.net:25461/images/40e8976fcb6e7c9238c1a13fbe463a47.png" group-title="Turk",TR - DISCOVERY CHANNEL HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70725
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70725
 #EXTINF:-1 tvg-id="" tvg-name="TR - DISCOVERY SCIENCE HD" tvg-logo="http://attp.ddns.net:25461/images/3b85a33819ea33d211b6eaf9b3eb774c.png" group-title="Turk",TR - DISCOVERY SCIENCE HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70726
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70726
 #EXTINF:-1 tvg-id="" tvg-name="TR - HISTORY CHANNEL HD" tvg-logo="http://attp.ddns.net:25461/images/6cab271e737cc96cc09cd6dbf077aeff.png" group-title="Turk",TR - HISTORY CHANNEL HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70727
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70727
 #EXTINF:-1 tvg-id="" tvg-name="TR - NATIONAL GEO HD" tvg-logo="http://attp.ddns.net:25461/images/20d96c856e0208e869a103cd4f900ea9.png" group-title="Turk",TR - NATIONAL GEO HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70728
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70728
 #EXTINF:-1 tvg-id="" tvg-name="TR - NATIONAL GEO WILD HD" tvg-logo="http://attp.ddns.net:25461/images/8545aa9be53cd923313430cf1d9c2f4e.png" group-title="Turk",TR - NATIONAL GEO WILD HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70729
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70729
 #EXTINF:-1 tvg-id="" tvg-name="TR - DMAX HD" tvg-logo="http://attp.ddns.net:25461/images/d61dbff0a52533f41b047412b91f454c.png" group-title="Turk",TR - DMAX HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70730
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70730
 #EXTINF:-1 tvg-id="" tvg-name="TR - TGRT BELGESEL" tvg-logo="http://attp.ddns.net:25461/images/8464fc5c16f04f6262ee11936469f61f.png" group-title="Turk",TR - TGRT BELGESEL
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70731
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70731
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT BELGESEL HD" tvg-logo="http://attp.ddns.net:25461/images/8464fc5c16f04f6262ee11936469f61f.png" group-title="Turk",TR - TRT BELGESEL HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70732
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70732
 #EXTINF:-1 tvg-id="" tvg-name="TR - BABY TV" tvg-logo="http://attp.ddns.net:25461/images/1f2b701553fc2d892a6b4fc4074c05c4.png" group-title="Turk",TR - BABY TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70734
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70734
 #EXTINF:-1 tvg-id="" tvg-name="TR - CARTOON NETWORK" tvg-logo="http://attp.ddns.net:25461/images/6f59b9ef5faa54246306f698dee50cd0.png" group-title="Turk",TR - CARTOON NETWORK
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70735
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70735
 #EXTINF:-1 tvg-id="" tvg-name="TR - DISNEY CHANNEL" tvg-logo="http://attp.ddns.net:25461/images/a42d0f0e411d2040859420bebd4f095a.png" group-title="Turk",TR - DISNEY CHANNEL
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70736
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70736
 #EXTINF:-1 tvg-id="" tvg-name="TR - DISNEY JUNIOR" tvg-logo="http://attp.ddns.net:25461/images/a42d0f0e411d2040859420bebd4f095a.png" group-title="Turk",TR - DISNEY JUNIOR
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70737
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70737
 #EXTINF:-1 tvg-id="" tvg-name="TR - MINIKA COCUK" tvg-logo="http://attp.ddns.net:25461/images/50ead84b95de99059cd270ae11b0e186.png" group-title="Turk",TR - MINIKA COCUK
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70738
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70738
 #EXTINF:-1 tvg-id="" tvg-name="TR - MINIKA GO TV" tvg-logo="http://attp.ddns.net:25461/images/50ead84b95de99059cd270ae11b0e186.png" group-title="Turk",TR - MINIKA GO TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70739
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70739
 #EXTINF:-1 tvg-id="" tvg-name="TR - NICK JR" tvg-logo="http://attp.ddns.net:25461/images/e0f1f051461e34c5ca03fbef928baedb.png" group-title="Turk",TR - NICK JR
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70740
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70740
 #EXTINF:-1 tvg-id="" tvg-name="TR - NICKELODEON TURKIYE" tvg-logo="http://attp.ddns.net:25461/images/ee6f925ca4308ea2240dc9bb0e30744a.png" group-title="Turk",TR - NICKELODEON TURKIYE
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70741
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70741
 #EXTINF:-1 tvg-id="" tvg-name="TR - NICKTOONS" tvg-logo="http://attp.ddns.net:25461/images/6566371c40999aa72ca100c20d30ddd2.png" group-title="Turk",TR - NICKTOONS
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70742
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70742
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT COCUK HD" tvg-logo="http://attp.ddns.net:25461/images/edbfc42fd82ead430e7da8ba20a5686e.png" group-title="Turk",TR - TRT COCUK HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70743
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70743
 #EXTINF:-1 tvg-id="" tvg-name="TR - DOST TV" tvg-logo="http://attp.ddns.net:25461/images/b62a8a35cbb75929ab4a8611b98cf3e8.png" group-title="Turk",TR - DOST TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70744
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70744
 #EXTINF:-1 tvg-id="" tvg-name="TR - FM TV" tvg-logo="http://attp.ddns.net:25461/images/37194ab0413e6e6681f77f464559c593.png" group-title="Turk",TR - FM TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70745
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70745
 #EXTINF:-1 tvg-id="" tvg-name="TR - MEDINE CANLI" tvg-logo="http://attp.ddns.net:25461/images/7fe77ed5e1f551859ad42a9fe317e53f.png" group-title="Turk",TR - MEDINE CANLI
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70746
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70746
 #EXTINF:-1 tvg-id="" tvg-name="TR - SEMERKAND HD" tvg-logo="http://attp.ddns.net:25461/images/4fc8fbc2dc648aba5e905aa01c0e25fd.png" group-title="Turk",TR - SEMERKAND HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70747
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70747
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT DIYANET HD" tvg-logo="http://attp.ddns.net:25461/images/f8ddb18193cbf45ecd4f83ce5a7fced2.png" group-title="Turk",TR - TRT DIYANET HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70748
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70748
 #EXTINF:-1 tvg-id="" tvg-name="TR - TV 5" tvg-logo="http://attp.ddns.net:25461/images/52dc1a09111c37bab2bf78a172447029.png" group-title="Turk",TR - TV 5
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70749
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70749
 #EXTINF:-1 tvg-id="" tvg-name="TR  - A NEWS HD" tvg-logo="http://attp.ddns.net:25461/images/725e939ff7a522e4ccaa9aff1d8b8815.png" group-title="Turk",TR  - A NEWS HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70750
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70750
 #EXTINF:-1 tvg-id="" tvg-name="TR - AKIT TV HD" tvg-logo="http://attp.ddns.net:25461/images/8464fc5c16f04f6262ee11936469f61f.png" group-title="Turk",TR - AKIT TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70751
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70751
 #EXTINF:-1 tvg-id="" tvg-name="TR - ARTI 1" tvg-logo="http://attp.ddns.net:25461/images/f8ddb18193cbf45ecd4f83ce5a7fced2.png" group-title="Turk",TR - ARTI 1
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70752
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70752
 #EXTINF:-1 tvg-id="" tvg-name="TR - GLOBAL HABER HD" tvg-logo="http://attp.ddns.net:25461/images/d3ed71fb31934ef21aa5e259f57254d2.png" group-title="Turk",TR - GLOBAL HABER HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70753
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70753
 #EXTINF:-1 tvg-id="" tvg-name="TR - HABER TURK HD" tvg-logo="http://attp.ddns.net:25461/images/d3ed71fb31934ef21aa5e259f57254d2.png" group-title="Turk",TR - HABER TURK HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70754
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70754
 #EXTINF:-1 tvg-id="" tvg-name="TR - HALK TV" tvg-logo="http://attp.ddns.net:25461/images/23b3ec625dc0e8496318a6f24d25a135.png" group-title="Turk",TR - HALK TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70755
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70755
 #EXTINF:-1 tvg-id="" tvg-name="TR - 24 TV HD" tvg-logo="http://attp.ddns.net:25461/images/71bf6ae37d071dcff50bbeddd6d70df9.png" group-title="Turk",TR - 24 TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70756
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70756
 #EXTINF:-1 tvg-id="" tvg-name="TR - NTV HD" tvg-logo="http://attp.ddns.net:25461/images/c2ffbd906994302200e777a748a08f7e.png" group-title="Turk",TR - NTV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70757
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70757
 #EXTINF:-1 tvg-id="" tvg-name="TR - TGRT HABER" tvg-logo="http://attp.ddns.net:25461/images/d3ed71fb31934ef21aa5e259f57254d2.png" group-title="Turk",TR - TGRT HABER
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70758
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70758
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT HABER HD" tvg-logo="http://attp.ddns.net:25461/images/2daeaba00b614ec9aa65ae79bfdbda18.png" group-title="Turk",TR - TRT HABER HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70759
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70759
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT WORLD HD " tvg-logo="http://attp.ddns.net:25461/images/319feb019a1d482d6abcaefc1faac12d.png" group-title="Turk",TR - TRT WORLD HD 
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70760
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70760
 #EXTINF:-1 tvg-id="" tvg-name="TR - ULKE TV HD" tvg-logo="http://attp.ddns.net:25461/images/dac9518c011992e36cb6f07dc8d2fa04.png" group-title="Turk",TR - ULKE TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70761
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70761
 #EXTINF:-1 tvg-id="" tvg-name="TR - ULUSAL TV" tvg-logo="http://attp.ddns.net:25461/images/61f470043a2887f958bdf0447e763c82.png" group-title="Turk",TR - ULUSAL TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70762
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70762
 #EXTINF:-1 tvg-id="" tvg-name="TR - DREAM TURK" tvg-logo="http://attp.ddns.net:25461/images/1bcd07a95093a37e9ab6e9e4fb661e33.png" group-title="Turk",TR - DREAM TURK
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70763
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70763
 #EXTINF:-1 tvg-id="" tvg-name="TR - MILYON TV" tvg-logo="http://attp.ddns.net:25461/images/dce47b89b234eb76b3052c3375faf8cd.png" group-title="Turk",TR - MILYON TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70764
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70764
 #EXTINF:-1 tvg-id="" tvg-name="TR - KRAL TV" tvg-logo="http://attp.ddns.net:25461/images/be69ebb584cff5bbad452fa061bdc948.png" group-title="Turk",TR - KRAL TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70765
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70765
 #EXTINF:-1 tvg-id="" tvg-name="TR - KRAL POP HD" tvg-logo="http://attp.ddns.net:25461/images/f214854ba2dec3b0d76c31d7278a7da7.png" group-title="Turk",TR - KRAL POP HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70766
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70766
 #EXTINF:-1 tvg-id="" tvg-name="TR - NR1 HD" tvg-logo="http://attp.ddns.net:25461/images/07f96b76993d579f3d522d1594979825.png" group-title="Turk",TR - NR1 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70767
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70767
 #EXTINF:-1 tvg-id="" tvg-name="TR - POWERTURK HD" tvg-logo="http://attp.ddns.net:25461/images/20ccabe79966c9eb4de3f713faf116f2.png" group-title="Turk",TR - POWERTURK HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70768
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70768
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT MUZIK" tvg-logo="http://attp.ddns.net:25461/images/dcb9f406dd66223092f5f18e0bdad109.png" group-title="Turk",TR - TRT MUZIK
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70769
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70769
 #EXTINF:-1 tvg-id="" tvg-name="TR - SLTV ACTION HD" tvg-logo="http://attp.ddns.net:25461/images/7ef0c1b905d6557381c83469e37fe1a0.png" group-title="Turk",TR - SLTV ACTION HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70770
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70770
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN BOX OFFICE 1 HD" tvg-logo="http://attp.ddns.net:25461/images/8c7d3002c6ca0d724937a1eda832644a.png" group-title="Turk",TR - BEIN BOX OFFICE 1 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70771
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70771
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN BOX OFFICE 2 HD" tvg-logo="http://attp.ddns.net:25461/images/8c7d3002c6ca0d724937a1eda832644a.png" group-title="Turk",TR - BEIN BOX OFFICE 2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70772
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70772
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN BOX OFFICE 3HD" tvg-logo="http://attp.ddns.net:25461/images/8c7d3002c6ca0d724937a1eda832644a.png" group-title="Turk",TR - BEIN BOX OFFICE 3HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70773
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70773
 #EXTINF:-1 tvg-id="" tvg-name="TR - A SPOR HD" tvg-logo="http://attp.ddns.net:25461/images/23144ea3bcc8776155499c0e7c853a43.png" group-title="Turk",TR - A SPOR HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70774
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70774
 #EXTINF:-1 tvg-id="" tvg-name="TR - EUROSPORT 1 HD" tvg-logo="http://attp.ddns.net:25461/images/97d8687be02a2ac06d29b8e2eb40aecc.png" group-title="Turk",TR - EUROSPORT 1 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70775
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70775
 #EXTINF:-1 tvg-id="" tvg-name="TR - EUROSPORT 2 HD" tvg-logo="http://attp.ddns.net:25461/images/670aa8ca2e6e2fc4c197b69fce2fa78f.png" group-title="Turk",TR - EUROSPORT 2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70776
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70776
 #EXTINF:-1 tvg-id="" tvg-name="TR - FENERBAHCE TV" tvg-logo="http://attp.ddns.net:25461/images/1db1c54026d38fcc96e382f710acb655.png" group-title="Turk",TR - FENERBAHCE TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70777
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70777
 #EXTINF:-1 tvg-id="" tvg-name="TR - GS TV HD" tvg-logo="http://attp.ddns.net:25461/images/e21b65b90bcd578787bd8fad32dda34d.png" group-title="Turk",TR - GS TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70778
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70778
 #EXTINF:-1 tvg-id="" tvg-name="TR - SPORTS TV" tvg-logo="http://attp.ddns.net:25461/images/0e1d658e51279a3cdfa91909d24363ef.png" group-title="Turk",TR - SPORTS TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70780
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70780
 #EXTINF:-1 tvg-id="" tvg-name="TR - TJK" tvg-logo="http://attp.ddns.net:25461/images/5895bddbf52307402c632e49a5ceba32.png" group-title="Turk",TR - TJK
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70781
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70781
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT SPOR HD" tvg-logo="http://attp.ddns.net:25461/images/2daeaba00b614ec9aa65ae79bfdbda18.png" group-title="Turk",TR - TRT SPOR HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70782
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70782
 #EXTINF:-1 tvg-id="" tvg-name="TR - TV 360 HD" tvg-logo="http://attp.ddns.net:25461/images/b0a1f420d28a3473d69a29c316097e93.png" group-title="Turk",TR - TV 360 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70783
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70783
 #EXTINF:-1 tvg-id="" tvg-name="TR - A2 HD" tvg-logo="http://attp.ddns.net:25461/images/8909ccd424474d45d10ad26a2dd1cb73.png" group-title="Turk",TR - A2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70784
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70784
 #EXTINF:-1 tvg-id="" tvg-name="TR - YOL TV" tvg-logo="http://attp.ddns.net:25461/images/eb7796b4a8f3a2a7a2e8e0fbb220088f.png" group-title="Turk",TR - YOL TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70785
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70785
 #EXTINF:-1 tvg-id="" tvg-name="TR - AKILLI TV" tvg-logo="http://attp.ddns.net:25461/images/0e1d658e51279a3cdfa91909d24363ef.png" group-title="Turk",TR - AKILLI TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70786
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70786
 #EXTINF:-1 tvg-id="" tvg-name="TR - AKSU TV (Kahramanmaras)" tvg-logo="http://attp.ddns.net:25461/images/fa9ce7fe40d343199331dc0496e533e5.png" group-title="Turk",TR - AKSU TV (Kahramanmaras)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70787
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70787
 #EXTINF:-1 tvg-id="" tvg-name="TR - ANADOLU DERNEK" tvg-logo="http://attp.ddns.net:25461/images/8366ecc3caef93673fa3c183949b75da.png" group-title="Turk",TR - ANADOLU DERNEK
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70788
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70788
 #EXTINF:-1 tvg-id="" tvg-name="TR - AS TV (Bursa)" tvg-logo="http://attp.ddns.net:25461/images/2de5ac02a7b20a07b514cfc21c47ae4d.png" group-title="Turk",TR - AS TV (Bursa)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70789
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70789
 #EXTINF:-1 tvg-id="" tvg-name="TR - ATV AVRUPA" tvg-logo="http://attp.ddns.net:25461/images/8979727f29577c76623afbe0ba28937f.png" group-title="Turk",TR - ATV AVRUPA
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70790
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70790
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEYKENT TV" tvg-logo="http://attp.ddns.net:25461/images/5f09cdd14d34c6afa0246a53b0e30321.png" group-title="Turk",TR - BEYKENT TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70791
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70791
 #EXTINF:-1 tvg-id="" tvg-name="TR - CAY TV (Rize)" tvg-logo="http://attp.ddns.net:25461/images/cda6bebd913ca03d7f4c47de27bc53dd.png" group-title="Turk",TR - CAY TV (Rize)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70792
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70792
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 68 (Aksaray)" tvg-logo="http://attp.ddns.net:25461/images/6d3eb63642802a2b03aa69443376e7ae.png" group-title="Turk",TR - KANAL 68 (Aksaray)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70793
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70793
 #EXTINF:-1 tvg-id="" tvg-name="TR - DEHA TV DENIZLI" tvg-logo="http://attp.ddns.net:25461/images/bf1bef165d9f1e5d3cd90d4b66267ba8.png" group-title="Turk",TR - DEHA TV DENIZLI
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70794
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70794
 #EXTINF:-1 tvg-id="" tvg-name="TR - DRT DENIZLI" tvg-logo="http://attp.ddns.net:25461/images/fe4422b21b96ba0c15b01fae702eda83.png" group-title="Turk",TR - DRT DENIZLI
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70795
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70795
 #EXTINF:-1 tvg-id="" tvg-name="TR - ER TV (Malatya)" tvg-logo="http://attp.ddns.net:25461/images/67a10bb87b1872aa26562ad7325276a2.png" group-title="Turk",TR - ER TV (Malatya)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70796
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70796
 #EXTINF:-1 tvg-id="" tvg-name="TR - EURO D" tvg-logo="http://attp.ddns.net:25461/images/c0f6ba258b6a3cf7588d667756761ab0.png" group-title="Turk",TR - EURO D
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70797
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70797
 #EXTINF:-1 tvg-id="" tvg-name="TR - EUROSTAR" tvg-logo="http://attp.ddns.net:25461/images/15f2a9b8ce41f4c6fdfb7130adbbf92a.png" group-title="Turk",TR - EUROSTAR
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70798
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70798
 #EXTINF:-1 tvg-id="" tvg-name="TR - FOX TV HD" tvg-logo="http://attp.ddns.net:25461/images/5f364ccd031665e96d16315fd077ff6b.png" group-title="Turk",TR - FOX TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70799
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70799
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 26 (Eskisehir)" tvg-logo="http://attp.ddns.net:25461/images/32fc16f944bf7ce9fe55f0000ff9b9cd.png" group-title="Turk",TR - KANAL 26 (Eskisehir)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70800
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70800
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 3 (Afyonkarahisar)" tvg-logo="http://attp.ddns.net:25461/images/8bf7b24c89b82b40075e2bae2f43e6ee.png" group-title="Turk",TR - KANAL 3 (Afyonkarahisar)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70801
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70801
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 7 AVRUPA HD" tvg-logo="http://attp.ddns.net:25461/images/c2e0bcf04f186e361c8e4ccb6fb94615.png" group-title="Turk",TR - KANAL 7 AVRUPA HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70802
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70802
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 7 HD" tvg-logo="http://attp.ddns.net:25461/images/c2e0bcf04f186e361c8e4ccb6fb94615.png" group-title="Turk",TR - KANAL 7 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70803
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70803
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL AVRUPA" tvg-logo="http://attp.ddns.net:25461/images/d475f4468db5ee291a85cb023f4be1ce.png" group-title="Turk",TR - KANAL AVRUPA
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70804
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70804
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL B" tvg-logo="http://attp.ddns.net:25461/images/185dd7133b1f684671ec0d5a3a0424df.png" group-title="Turk",TR - KANAL B
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70805
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70805
 #EXTINF:-1 tvg-id="" tvg-name="TR - KADIRGA TV (Trabzon)" tvg-logo="http://attp.ddns.net:25461/images/44f1fde6cf7366fdf812c7d6def7d555.png" group-title="Turk",TR - KADIRGA TV (Trabzon)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70806
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70806
 #EXTINF:-1 tvg-id="" tvg-name="TR - KIBRIS GENC TV" tvg-logo="http://attp.ddns.net:25461/images/7557d82f103cadd59098fa05cef41116.png" group-title="Turk",TR - KIBRIS GENC TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70807
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70807
 #EXTINF:-1 tvg-id="" tvg-name="TR - KON TV (Konya)" tvg-logo="http://attp.ddns.net:25461/images/e84d61c4fe032db832680adc7bad8d26.png" group-title="Turk",TR - KON TV (Konya)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70808
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70808
 #EXTINF:-1 tvg-id="" tvg-name="TR - KOY TV" tvg-logo="http://attp.ddns.net:25461/images/683162e73b8f4e77d2fe3c737cf5c4bc.png" group-title="Turk",TR - KOY TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70809
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70809
 #EXTINF:-1 tvg-id="" tvg-name="TR - LINE TV (Bursa)" tvg-logo="http://attp.ddns.net:25461/images/60c017de629742601bcac21bef71ddbe.png" group-title="Turk",TR - LINE TV (Bursa)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70810
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70810
 #EXTINF:-1 tvg-id="" tvg-name="TR - MAVI KARADENIZ" tvg-logo="http://attp.ddns.net:25461/images/e0584940fb6dd31f80567f9fd3754e11.png" group-title="Turk",TR - MAVI KARADENIZ
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70811
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70811
 #EXTINF:-1 tvg-id="" tvg-name="TR - ALTAS TV (Ordu)" tvg-logo="http://attp.ddns.net:25461/images/0b782631d7ec005c2f0b15e8fcad58e6.png" group-title="Turk",TR - ALTAS TV (Ordu)
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70812
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70812
 #EXTINF:-1 tvg-id="" tvg-name="TR - SHOW TURK" tvg-logo="http://attp.ddns.net:25461/images/4309abdf98146a3e7a4495e485298281.png" group-title="Turk",TR - SHOW TURK
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70813
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70813
 #EXTINF:-1 tvg-id="" tvg-name="TR - SHOW TV HD" tvg-logo="http://attp.ddns.net:25461/images/4309abdf98146a3e7a4495e485298281.png" group-title="Turk",TR - SHOW TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70814
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70814
 #EXTINF:-1 tvg-id="" tvg-name="TR - SHOW MAX" tvg-logo="http://attp.ddns.net:25461/images/4309abdf98146a3e7a4495e485298281.png" group-title="Turk",TR - SHOW MAX
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70815
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70815
 #EXTINF:-1 tvg-id="" tvg-name="TR - STAR TV HD" tvg-logo="http://attp.ddns.net:25461/images/d1b76f963881935f8666b189a03eb8ff.png" group-title="Turk",TR - STAR TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70816
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70816
 #EXTINF:-1 tvg-id="" tvg-name="TR - TEVE 2 HD" tvg-logo="http://attp.ddns.net:25461/images/3dcd5da692a8d01efe8f58607ac2f14c.png" group-title="Turk",TR - TEVE 2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70817
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70817
 #EXTINF:-1 tvg-id="" tvg-name="TR - TGRT EU" tvg-logo="http://attp.ddns.net:25461/images/a0e5061c1f9490a7770bf4519a015374.png" group-title="Turk",TR - TGRT EU
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70818
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70818
 #EXTINF:-1 tvg-id="" tvg-name="TR - TLC HD" tvg-logo="http://attp.ddns.net:25461/images/ae0a13ccb7c7285acb36d75defd99b7b.png" group-title="Turk",TR - TLC HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70819
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70819
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT 1 HD" tvg-logo="http://attp.ddns.net:25461/images/fc740d14f95fb47a17ac72bfc125269c.png" group-title="Turk",TR - TRT 1 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70820
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70820
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT AVAZ" tvg-logo="http://attp.ddns.net:25461/images/0cb90c600ef1eb286fb4cd9437af8f03.png" group-title="Turk",TR - TRT AVAZ
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70821
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70821
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT TURK" tvg-logo="http://attp.ddns.net:25461/images/12239ccecf560112c263c0ced416265d.png" group-title="Turk",TR - TRT TURK
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70822
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70822
 #EXTINF:-1 tvg-id="" tvg-name="TR - AL QURAN TV" tvg-logo="http://attp.ddns.net:25461/images/95d8217dab1e4407924caecd3a127b50.png" group-title="Turk",TR - AL QURAN TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70825
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70825
 #EXTINF:-1 tvg-id="" tvg-name="TR - BURSA TV" tvg-logo="http://attp.ddns.net:25461/images/1a31b4892bd387ead175899dedb18fc8.png" group-title="Turk",TR - BURSA TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70828
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70828
 #EXTINF:-1 tvg-id="" tvg-name="TR - DOST TV" tvg-logo="http://attp.ddns.net:25461/images/6926a7a189c67f93aaf7599de38ed0cc.png" group-title="Turk",TR - DOST TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70834
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70834
 #EXTINF:-1 tvg-id="" tvg-name="TR - LALEGUL TV" tvg-logo="http://attp.ddns.net:25461/images/d4fab123acf1dc11395c319527eb7f2d.png" group-title="Turk",TR - LALEGUL TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70842
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70842
 #EXTINF:-1 tvg-id="" tvg-name="TR - TEK RUMELI TV" tvg-logo="http://attp.ddns.net:25461/images/79e36ac577d631a464dac4d4b7b87358.png" group-title="Turk",TR - TEK RUMELI TV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70848
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70848
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT ARABIC HD" tvg-logo="http://attp.ddns.net:25461/images/499d819208eb1c47c1bf79ba6a694d52.png" group-title="Turk",TR - TRT ARABIC HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70849
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70849
 #EXTINF:-1 tvg-id="" tvg-name="TR - YOL TV HD" tvg-logo="http://attp.ddns.net:25461/images/3716dac1e1d3055cc698eb38136605fd.png" group-title="Turk",TR - YOL TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70851
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70851
 #EXTINF:-1 tvg-id="" tvg-name="TR - 24 KiTCHEN HD" tvg-logo="http://attp.ddns.net:25461/images/38ca4109b5ad2f1b209de4ddb5bb9658.png" group-title="Turk",TR - 24 KiTCHEN HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70852
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70852
 #EXTINF:-1 tvg-id="" tvg-name="TR - A HABER FHD" tvg-logo="http://attp.ddns.net:25461/images/18f1098e7fcdaecc1ca9710cf011e520.png" group-title="Turk",TR - A HABER FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70853
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70853
 #EXTINF:-1 tvg-id="" tvg-name="TR - A NEWS FHD" tvg-logo="http://attp.ddns.net:25461/images/f8c2885c280fb368891103cd853aaa8d.png" group-title="Turk",TR - A NEWS FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70855
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70855
 #EXTINF:-1 tvg-id="" tvg-name="TR - A PARA HDi" tvg-logo="http://attp.ddns.net:25461/images/f8c2885c280fb368891103cd853aaa8d.png" group-title="Turk",TR - A PARA HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70856
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70856
 #EXTINF:-1 tvg-id="" tvg-name="TR - A2 FHD" tvg-logo="http://attp.ddns.net:25461/images/efbdea2379b854f8ff1868f4c4c859a5.png" group-title="Turk",TR - A2 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70857
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70857
 #EXTINF:-1 tvg-id="" tvg-name="TR - A2 HDi" tvg-logo="http://attp.ddns.net:25461/images/efbdea2379b854f8ff1868f4c4c859a5.png" group-title="Turk",TR - A2 HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70858
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70858
 #EXTINF:-1 tvg-id="" tvg-name="TR - ANiMAL PLANET HDi" tvg-logo="http://attp.ddns.net:25461/images/c7457b0b365b61acb4fe00192c039d4d.png" group-title="Turk",TR - ANiMAL PLANET HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70859
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70859
 #EXTINF:-1 tvg-id="" tvg-name="TR - APARA FHD" tvg-logo="http://attp.ddns.net:25461/images/dd4026731fa128438fdb677fb6140a00.png" group-title="Turk",TR - APARA FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70860
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70860
 #EXTINF:-1 tvg-id="" tvg-name="TR - ASPOR FHD" tvg-logo="http://attp.ddns.net:25461/images/182faa285bf53da56f44c73eb6aff24f.png" group-title="Turk",TR - ASPOR FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70861
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70861
 #EXTINF:-1 tvg-id="" tvg-name="TR - ASPOR HD" tvg-logo="http://attp.ddns.net:25461/images/182faa285bf53da56f44c73eb6aff24f.png" group-title="Turk",TR - ASPOR HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70862
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70862
 #EXTINF:-1 tvg-id="" tvg-name="TR: - TV FHD" tvg-logo="http://attp.ddns.net:25461/images/8979727f29577c76623afbe0ba28937f.png" group-title="Turk",TR: - TV FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70863
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70863
 #EXTINF:-1 tvg-id="" tvg-name="TR - ATV HDi" tvg-logo="http://attp.ddns.net:25461/images/8979727f29577c76623afbe0ba28937f.png" group-title="Turk",TR - ATV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70864
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70864
 #EXTINF:-1 tvg-id="" tvg-name="TR - BABY TV HD" tvg-logo="http://attp.ddns.net:25461/images/1f2b701553fc2d892a6b4fc4074c05c4.png" group-title="Turk",TR - BABY TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70865
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70865
 #EXTINF:-1 tvg-id="" tvg-name="TR - BBC Earth HDi" tvg-logo="http://attp.ddns.net:25461/images/6fc83ef4aad9463e9156159529de56c4.png" group-title="Turk",TR - BBC Earth HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70866
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70866
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN GURME HDi" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN GURME HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70867
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70867
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEiN SPORT HABER HD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEiN SPORT HABER HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70869
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70869
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORT HABER HDi" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORT HABER HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70870
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70870
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS 1 HD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORTS 1 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70879
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70879
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS 2 HD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORTS 2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70881
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70881
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS 3 HD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORTS 3 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70883
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70883
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS 4 HD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORTS 4 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70886
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70886
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS MAX 1 FHD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORTS MAX 1 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70887
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70887
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS MAX 1 HD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORTS MAX 1 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70888
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70888
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS MAX 2 FHD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORTS MAX 2 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70889
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70889
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS MAX 2 HD" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" group-title="Turk",TR - BEIN SPORTS MAX 2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70890
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70890
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEYAZ TV FHD" tvg-logo="http://attp.ddns.net:25461/images/aabfcd121c0a8caa449b79ecfb39062b.png" group-title="Turk",TR - BEYAZ TV FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70891
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70891
 #EXTINF:-1 tvg-id="" tvg-name="TR - BEYAZTV HDi" tvg-logo="http://attp.ddns.net:25461/images/aabfcd121c0a8caa449b79ecfb39062b.png" group-title="Turk",TR - BEYAZTV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70892
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70892
 #EXTINF:-1 tvg-id="" tvg-name="TR - BLOOMBERG HT FHD" tvg-logo="http://attp.ddns.net:25461/images/6ac52dcb46e8160a0b8e5239fba15777.png" group-title="Turk",TR - BLOOMBERG HT FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70893
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70893
 #EXTINF:-1 tvg-id="" tvg-name="TR - BLOOMBERG HT HDi" tvg-logo="http://attp.ddns.net:25461/images/6ac52dcb46e8160a0b8e5239fba15777.png" group-title="Turk",TR - BLOOMBERG HT HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70894
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70894
 #EXTINF:-1 tvg-id="" tvg-name="TR - BOOMERANG HD" tvg-logo="http://attp.ddns.net:25461/images/50448c24ad76321f125cc23ee08ecd6c.png" group-title="Turk",TR - BOOMERANG HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70895
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70895
 #EXTINF:-1 tvg-id="" tvg-name="TR - CARTOON NETWORK HD" tvg-logo="http://attp.ddns.net:25461/images/6f59b9ef5faa54246306f698dee50cd0.png" group-title="Turk",TR - CARTOON NETWORK HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70896
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70896
 #EXTINF:-1 tvg-id="" tvg-name="TR - CBEEBiES HD" tvg-logo="http://attp.ddns.net:25461/images/e05c1e59414d8ddc450017d088e2659e.png" group-title="Turk",TR - CBEEBiES HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70897
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70897
 #EXTINF:-1 tvg-id="" tvg-name="TR - CNN TURK FHD" tvg-logo="http://attp.ddns.net:25461/images/92de8241eb80455f9f1eb8bf008a79eb.png" group-title="Turk",TR - CNN TURK FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70898
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70898
 #EXTINF:-1 tvg-id="" tvg-name="TR - CNN TURK HDi" tvg-logo="http://attp.ddns.net:25461/images/92de8241eb80455f9f1eb8bf008a79eb.png" group-title="Turk",TR - CNN TURK HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70899
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70899
 #EXTINF:-1 tvg-id="" tvg-name="TR - DiSCOWERY CHANNEL HDi" tvg-logo="http://attp.ddns.net:25461/images/45295c705c092f76d2aa064805457fd9.png" group-title="Turk",TR - DiSCOWERY CHANNEL HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70900
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70900
 #EXTINF:-1 tvg-id="" tvg-name="TR - Discowery IDX HDi" tvg-logo="http://attp.ddns.net:25461/images/4d9ca19f5a651ee0cd4359bb8c788065.png" group-title="Turk",TR - Discowery IDX HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70901
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70901
 #EXTINF:-1 tvg-id="" tvg-name="TR - DiSCOWERY SCiENCE HDi" tvg-logo="http://attp.ddns.net:25461/images/3b85a33819ea33d211b6eaf9b3eb774c.png" group-title="Turk",TR - DiSCOWERY SCiENCE HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70902
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70902
 #EXTINF:-1 tvg-id="" tvg-name="TR - DISNEY CHANNEL HD" tvg-logo="http://attp.ddns.net:25461/images/a42d0f0e411d2040859420bebd4f095a.png" group-title="Turk",TR - DISNEY CHANNEL HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70903
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70903
 #EXTINF:-1 tvg-id="" tvg-name="TR - DISNEY JR HD" tvg-logo="http://attp.ddns.net:25461/images/84f89f2d5fe247d4c3b9fb87ffe86d77.png" group-title="Turk",TR - DISNEY JR HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70904
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70904
 #EXTINF:-1 tvg-id="" tvg-name="TR - DiSNEY XD HD" tvg-logo="http://attp.ddns.net:25461/images/80f0b75bd205e422b50253734c81cd08.png" group-title="Turk",TR - DiSNEY XD HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70905
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70905
 #EXTINF:-1 tvg-id="" tvg-name="TR - DMAX FHD" tvg-logo="http://attp.ddns.net:25461/images/b6d9692a2fe3ade0bfd49fc5aecde4cf.png" group-title="Turk",TR - DMAX FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70906
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70906
 #EXTINF:-1 tvg-id="" tvg-name="TR - DMAX HDi" tvg-logo="http://attp.ddns.net:25461/images/b6d9692a2fe3ade0bfd49fc5aecde4cf.png" group-title="Turk",TR - DMAX HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70907
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70907
 #EXTINF:-1 tvg-id="" tvg-name="TR - DREAM TURK HDi" tvg-logo="http://attp.ddns.net:25461/images/5a43f541ec9f0c8e8cb40fb7b1d03804.png" group-title="Turk",TR - DREAM TURK HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70908
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70908
 #EXTINF:-1 tvg-id="" tvg-name="TR - DREAM TV HDi" tvg-logo="http://attp.ddns.net:25461/images/5a43f541ec9f0c8e8cb40fb7b1d03804.png" group-title="Turk",TR - DREAM TV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70909
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70909
 #EXTINF:-1 tvg-id="" tvg-name="TR - EKOTURK HDi" tvg-logo="http://attp.ddns.net:25461/images/3716dac1e1d3055cc698eb38136605fd.png" group-title="Turk",TR - EKOTURK HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70910
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70910
 #EXTINF:-1 tvg-id="" tvg-name="TR - EUROSPORT1 HD" tvg-logo="http://attp.ddns.net:25461/images/05091a455b749a47804c24de49a2f802.png" group-title="Turk",TR - EUROSPORT1 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70911
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70911
 #EXTINF:-1 tvg-id="" tvg-name="TR - EUROSPORT2 HD" tvg-logo="http://attp.ddns.net:25461/images/889516de8cd0641fec0c71441c173d5f.png" group-title="Turk",TR - EUROSPORT2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70912
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70912
 #EXTINF:-1 tvg-id="" tvg-name="TR - FBTV HD" tvg-logo="http://attp.ddns.net:25461/images/3e3f5f77f8a613400029bb4b671ef8b8.png" group-title="Turk",TR - FBTV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70913
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70913
 #EXTINF:-1 tvg-id="" tvg-name="TR - FOX TV FHD" tvg-logo="http://attp.ddns.net:25461/images/86fbdb63f589b2048e28f8f1623b94bf.png" group-title="Turk",TR - FOX TV FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70914
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70914
 #EXTINF:-1 tvg-id="" tvg-name="TR - FOXTV HDi" tvg-logo="http://attp.ddns.net:25461/images/86fbdb63f589b2048e28f8f1623b94bf.png" group-title="Turk",TR - FOXTV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70915
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70915
 #EXTINF:-1 tvg-id="" tvg-name="TR - FX HDi" tvg-logo="http://attp.ddns.net:25461/images/43e845b5565e20d647645c9a7949c88a.png" group-title="Turk",TR - FX HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70916
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70916
 #EXTINF:-1 tvg-id="" tvg-name="TR - GLOBAL HABER HDi" tvg-logo="http://attp.ddns.net:25461/images/df2cc9b2b065934709806cf54a457a4e.png" group-title="Turk",TR - GLOBAL HABER HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70917
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70917
 #EXTINF:-1 tvg-id="" tvg-name="TR - GSTV HD" tvg-logo="http://attp.ddns.net:25461/images/704c845a39f78c8ac8bcf48def8de26c.png" group-title="Turk",TR - GSTV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70918
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70918
 #EXTINF:-1 tvg-id="" tvg-name="TR - iDMAN TV HDi" tvg-logo="http://attp.ddns.net:25461/images/1a22f2b15beb8fcc7bbc4b73c975003f.png" group-title="Turk",TR - iDMAN TV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70923
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70923
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 24 HDi" tvg-logo="http://attp.ddns.net:25461/images/429b571d4b5d4ab599966a349bf60344.png" group-title="Turk",TR - KANAL 24 HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70924
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70924
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL 7 FHD" tvg-logo="http://attp.ddns.net:25461/images/c2e0bcf04f186e361c8e4ccb6fb94615.png" group-title="Turk",TR - KANAL 7 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70925
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70925
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL D FHD" tvg-logo="http://attp.ddns.net:25461/images/0f2bdc975a8b63036155b60bf802e50d.png" group-title="Turk",TR - KANAL D FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70926
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70926
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL D HDi" tvg-logo="http://attp.ddns.net:25461/images/0f2bdc975a8b63036155b60bf802e50d.png" group-title="Turk",TR - KANAL D HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70927
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70927
 #EXTINF:-1 tvg-id="" tvg-name="TR - KANAL7 HDi" tvg-logo="http://attp.ddns.net:25461/images/c2e0bcf04f186e361c8e4ccb6fb94615.png" group-title="Turk",TR - KANAL7 HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70928
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70928
 #EXTINF:-1 tvg-id="" tvg-name="TR - KRAL TV HDi" tvg-logo="http://attp.ddns.net:25461/images/f214854ba2dec3b0d76c31d7278a7da7.png" group-title="Turk",TR - KRAL TV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70929
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70929
 #EXTINF:-1 tvg-id="" tvg-name="TR - KRT TV HDi" tvg-logo="http://attp.ddns.net:25461/images/954faa98c80f12f4da19299c5f908f93.png" group-title="Turk",TR - KRT TV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70930
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70930
 #EXTINF:-1 tvg-id="" tvg-name="TR - MINICA GO HD" tvg-logo="http://attp.ddns.net:25461/images/5d059197201ffa56b2b9d0170d4e5b62.png" group-title="Turk",TR - MINICA GO HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70931
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70931
 #EXTINF:-1 tvg-id="" tvg-name="TR - MINIKA COCUK HD" tvg-logo="http://attp.ddns.net:25461/images/5d059197201ffa56b2b9d0170d4e5b62.png" group-title="Turk",TR - MINIKA COCUK HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70932
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70932
 #EXTINF:-1 tvg-id="" tvg-name="TR - NBA TV HDi" tvg-logo="http://attp.ddns.net:25461/images/91c568c6d91e7173c665c65ac2927cc8.png" group-title="Turk",TR - NBA TV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70934
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70934
 #EXTINF:-1 tvg-id="" tvg-name="TR - NICK JR HD" tvg-logo="http://attp.ddns.net:25461/images/ee6f925ca4308ea2240dc9bb0e30744a.png" group-title="Turk",TR - NICK JR HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70935
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70935
 #EXTINF:-1 tvg-id="" tvg-name="TR - NICKELODEON HD" tvg-logo="http://attp.ddns.net:25461/images/0a3f11cecb4149ea4481adf5d8b5ec60.png" group-title="Turk",TR - NICKELODEON HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70936
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70936
 #EXTINF:-1 tvg-id="" tvg-name="TR - NR1 HDi" tvg-logo="http://attp.ddns.net:25461/images/0d9bb3ebef574e07ae24fc3b67240a31.png" group-title="Turk",TR - NR1 HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70937
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70937
 #EXTINF:-1 tvg-id="" tvg-name="TR - NR1 TURK HDi" tvg-logo="http://attp.ddns.net:25461/images/0d9bb3ebef574e07ae24fc3b67240a31.png" group-title="Turk",TR - NR1 TURK HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70938
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70938
 #EXTINF:-1 tvg-id="" tvg-name="TR - NTV  HDi" tvg-logo="http://attp.ddns.net:25461/images/6adfdeac3fdce19ab258e1a04adee879.png" group-title="Turk",TR - NTV  HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70939
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70939
 #EXTINF:-1 tvg-id="" tvg-name="TR - NTV HABER FHD" tvg-logo="http://attp.ddns.net:25461/images/af71984448a7232ce63bde45e4b59e65.png" group-title="Turk",TR - NTV HABER FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70940
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70940
 #EXTINF:-1 tvg-id="" tvg-name="TR - POWER TURK HDi" tvg-logo="http://attp.ddns.net:25461/images/c9c9c146c630ca5ef9197c73c032f4a6.png" group-title="Turk",TR - POWER TURK HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70941
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70941
 #EXTINF:-1 tvg-id="" tvg-name="TR - POWER TV HDi" tvg-logo="http://attp.ddns.net:25461/images/c9c9c146c630ca5ef9197c73c032f4a6.png" group-title="Turk",TR - POWER TV HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70942
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70942
 #EXTINF:-1 tvg-id="" tvg-name="TR: - S-SPORT 1 FHD" tvg-logo="http://attp.ddns.net:25461/images/952de612eb0e4e14d4eb3e6cefaf96dd.png" group-title="Turk",TR: - S-SPORT 1 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70943
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70943
 #EXTINF:-1 tvg-id="" tvg-name="TR - SHOWTV HDxi" tvg-logo="http://attp.ddns.net:25461/images/60c017de629742601bcac21bef71ddbe.png" group-title="Turk",TR - SHOWTV HDxi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70945
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70945
 #EXTINF:-1 tvg-id="" tvg-name="TR - SKYTURK360 FHD" tvg-logo="http://attp.ddns.net:25461/images/f163c120e6f79c18312514e6cc1ca1e0.png" group-title="Turk",TR - SKYTURK360 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70946
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70946
 #EXTINF:-1 tvg-id="" tvg-name="TR - SMART COCUK HD" tvg-logo="http://attp.ddns.net:25461/images/5766f1a91e8ba6edeabab31451c6d487.png" group-title="Turk",TR - SMART COCUK HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70948
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70948
 #EXTINF:-1 tvg-id="" tvg-name="TR - SPOR SMART FHD" tvg-logo="http://attp.ddns.net:25461/images/5766f1a91e8ba6edeabab31451c6d487.png" group-title="Turk",TR - SPOR SMART FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70949
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70949
 #EXTINF:-1 tvg-id="" tvg-name="TR - SPOR SMART HDi" tvg-logo="http://attp.ddns.net:25461/images/5766f1a91e8ba6edeabab31451c6d487.png" group-title="Turk",TR - SPOR SMART HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70950
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70950
 #EXTINF:-1 tvg-id="" tvg-name="TR - SPORTSTV HD" tvg-logo="http://attp.ddns.net:25461/images/529db850bb27bd0c1324081e1d93429c.png" group-title="Turk",TR - SPORTSTV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70951
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70951
 #EXTINF:-1 tvg-id="" tvg-name="TR - STAR TV FHD" tvg-logo="http://attp.ddns.net:25461/images/ed92c3430de4656ba96e59552556eadc.png" group-title="Turk",TR - STAR TV FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70952
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70952
 #EXTINF:-1 tvg-id="" tvg-name="TR - TGRT HABER FHD" tvg-logo="http://attp.ddns.net:25461/images/8979727f29577c76623afbe0ba28937f.png" group-title="Turk",TR - TGRT HABER FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70956
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70956
 #EXTINF:-1 tvg-id="" tvg-name="TR - TiViBUSPOR 1 FHD" tvg-logo="http://attp.ddns.net:25461/images/1a0ea081060f1ddfa50cd0e734dbf1b1.png" group-title="Turk",TR - TiViBUSPOR 1 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70958
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70958
 #EXTINF:-1 tvg-id="" tvg-name="TR - TiViBUSPOR 2 FHD" tvg-logo="http://attp.ddns.net:25461/images/752f5b862209f1f4666fad1a390e261c.png" group-title="Turk",TR - TiViBUSPOR 2 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70959
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70959
 #EXTINF:-1 tvg-id="" tvg-name="TR - TiViBUSPOR 3 FHD" tvg-logo="http://attp.ddns.net:25461/images/752f5b862209f1f4666fad1a390e261c.png" group-title="Turk",TR - TiViBUSPOR 3 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70960
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70960
 #EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBUSPOR-2 HD" tvg-logo="http://attp.ddns.net:25461/images/1a0ea081060f1ddfa50cd0e734dbf1b1.png" group-title="Turk",TR - TIVIBUSPOR-2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70962
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70962
 #EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBUSPOR-3 HDi" tvg-logo="http://attp.ddns.net:25461/images/752f5b862209f1f4666fad1a390e261c.png" group-title="Turk",TR - TIVIBUSPOR-3 HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70963
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70963
 #EXTINF:-1 tvg-id="" tvg-name="TR - TJK TV HD" tvg-logo="http://attp.ddns.net:25461/images/7bf41480e43e61db29ad3989cc417ac8.png" group-title="Turk",TR - TJK TV HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70964
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70964
 #EXTINF:-1 tvg-id="" tvg-name="TR:TR- ATV" tvg-logo="http://attp.ddns.net:25461/images/8979727f29577c76623afbe0ba28937f.png" group-title="Turk",TR:TR- ATV
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70966
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70966
 #EXTINF:-1 tvg-id="" tvg-name="TR - TR- HALK TV SD" tvg-logo="http://attp.ddns.net:25461/images/4fc8fbc2dc648aba5e905aa01c0e25fd.png" group-title="Turk",TR - TR- HALK TV SD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70967
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70967
 #EXTINF:-1 tvg-id="" tvg-name="TR - TR- KANAL D EU" tvg-logo="http://attp.ddns.net:25461/images/d02f32a99e8ddf1f9e51121805949011.png" group-title="Turk",TR - TR- KANAL D EU
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70968
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70968
 #EXTINF:-1 tvg-id="" tvg-name="TR - TR- SHOW MAX" tvg-logo="http://attp.ddns.net:25461/images/022e7a48383a3c3b848ba9ed720f39ed.png" group-title="Turk",TR - TR- SHOW MAX
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70969
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70969
 #EXTINF:-1 tvg-id="" tvg-name="TR - TR- STAR EU" tvg-logo="http://attp.ddns.net:25461/images/a165ac7772944de28c4f09ae78b00a71.png" group-title="Turk",TR - TR- STAR EU
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70970
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70970
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT 2 HD" tvg-logo="http://attp.ddns.net:25461/images/8c7052e26cd5c38f4398870fb32a43e8.png" group-title="Turk",TR - TRT 2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70973
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70973
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT BELGESEL HDi" tvg-logo="http://attp.ddns.net:25461/images/fb6842d1ee154b7f1af638da8693e70c.png" group-title="Turk",TR - TRT BELGESEL HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70975
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70975
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT HABER HDi" tvg-logo="http://attp.ddns.net:25461/images/2daeaba00b614ec9aa65ae79bfdbda18.png" group-title="Turk",TR - TRT HABER HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70977
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70977
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT MUZiK HDi" tvg-logo="http://attp.ddns.net:25461/images/6ae3862a3370ed1dbe0276e2f5b808c2.png" group-title="Turk",TR - TRT MUZiK HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70978
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70978
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT SPOR 2 HD" tvg-logo="http://attp.ddns.net:25461/images/d3ed71fb31934ef21aa5e259f57254d2.png" group-title="Turk",TR - TRT SPOR 2 HD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70979
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70979
 #EXTINF:-1 tvg-id="" tvg-name="TR - TRT SPOR FHD" tvg-logo="http://attp.ddns.net:25461/images/d3ed71fb31934ef21aa5e259f57254d2.png" group-title="Turk",TR - TRT SPOR FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70980
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70980
 #EXTINF:-1 tvg-id="" tvg-name="TR - TV 8 FHD" tvg-logo="http://attp.ddns.net:25461/images/f524d4197481e351831b1c7ae94561e9.png" group-title="Turk",TR - TV 8 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70984
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70984
 #EXTINF:-1 tvg-id="" tvg-name="TR - TV 8.5 FHD" tvg-logo="http://attp.ddns.net:25461/images/f524d4197481e351831b1c7ae94561e9.png" group-title="Turk",TR - TV 8.5 FHD
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70985
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70985
 #EXTINF:-1 tvg-id="" tvg-name="TR - TV100 HDi" tvg-logo="http://attp.ddns.net:25461/images/87e3de2e6d34d7b04946faedc9a02b2c.png" group-title="Turk",TR - TV100 HDi
-http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70986
+https://proxy.rssblue.com/?url=http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/70986

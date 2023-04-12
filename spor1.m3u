@@ -1,63 +1,141 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-https://cors.zimjs.com/http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/5367.ts
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-https://proxy.rssblue.com?url=http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168567.ts
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-http://formule.link:80/live/ZainTV01/oYChnp7cuX34/15488.ts
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-http://spainline.xyz:8000/live/trading/XGfgNDGTGwhP/149606.ts
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 FHD TR
-https://proxy.rssblue.com?url=http://45.143.222.41:8080/dooby1312/b244f7ab/1735
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 FHD TR
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149526
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 1 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/88662
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 2 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/88663
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 3 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 3 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/88664
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 4 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 4 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/91333
-#EXTINF:-1 tvg-id="" tvg-name="Syria TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/syriatvtr.jpg" group-title="Live: Turkey",Syria TV HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/99919
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 5 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 5 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/113758
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 6 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 6 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/113759
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 7 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 7 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/113760
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 8 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 8 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/113761
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Live: Turkey",Tivibu Spor FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/12755
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="Live: Turkey",Tivibu Spor 2 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/12756
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="Live: Turkey",Tivibu Spor 3 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15736
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Live: Turkey",A Spor FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/14239
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Live: Turkey",A Spor TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/5133
-#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="Smart Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotvhd.jpg" group-title="Live: Turkey",Smart Spor FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15732
-#EXTINF:-1 tvg-id="SmartSpor2.tr" tvg-name="Smart Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="Live: Turkey",Smart Spor 2 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/5209
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Live: Turkey",S Sport FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15733
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="Sports TV TR" tvg-logo="https://picon-13398.kxcdn.com/sportstvtr.jpg" group-title="Live: Turkey",Sports TV TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/5983
-#EXTINF:-1 tvg-id="24.tr" tvg-name="NBA TV TR" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: Turkey",NBA TV TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/19668
-#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="Eurosport 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Turkey",Eurosport 1 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15730
-#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="Eurosport 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Turkey",Eurosport 2 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15731
-#EXTINF:-1 tvg-id="" tvg-name="FightBox HD TR" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="Live: Turkey",FightBox HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/19666
-#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV TR" tvg-logo="https://picon-13398.kxcdn.com/fbtvtr.jpg" group-title="Live: Turkey",FB TV TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/5210
-#EXTINF:-1 tvg-id="" tvg-name="BJK TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/bjktr.jpg" group-title="Live: Turkey",BJK TV HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15727
-#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GS TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/gstvtr.jpg" group-title="Live: Turkey",GS TV HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15729
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Feed 4K" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_252.png" group-title="[TR] Bein Sports",[TR] Bein Sports Feed 4K
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/89
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Feed HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_253.png" group-title="[TR] Bein Sports",[TR] Bein Sports Feed HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/90
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Feed Sports 1 50 Fps" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_253.png" group-title="[TR] Bein Sports",[TR] Feed Sports 1 50 Fps
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/91
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Feed Sports 1 Hevc" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_253.png" group-title="[TR] Bein Sports",[TR] Feed Sports 1 Hevc
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/92
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 1 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_293.png" group-title="[TR] Bein Sports",[TR] Bein Sports 1 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/93
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 1 Adaptive" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_291.png" group-title="[TR] Bein Sports",[TR] Bein Sports 1 Adaptive
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/94
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 1 QHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_292.png" group-title="[TR] Bein Sports",[TR] Bein Sports 1 QHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/95
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 1 SD Adaptİve" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_291.png" group-title="[TR] Bein Sports",[TR] Bein Sports 1 SD Adaptİve
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/96
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 2 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_254.png" group-title="[TR] Bein Sports",[TR] Bein Sports 2 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/97
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 2 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_255.png" group-title="[TR] Bein Sports",[TR] Bein Sports 2 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/98
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 2 SD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_256.png" group-title="[TR] Bein Sports",[TR] Bein Sports 2 SD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/99
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 3 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_257.png" group-title="[TR] Bein Sports",[TR] Bein Sports 3 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 3 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_258.png" group-title="[TR] Bein Sports",[TR] Bein Sports 3 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/101
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 3 SD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_259.png" group-title="[TR] Bein Sports",[TR] Bein Sports 3 SD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/102
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 4 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_297.png" group-title="[TR] Bein Sports",[TR] Bein Sports 4 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/103
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 4 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_294.png" group-title="[TR] Bein Sports",[TR] Bein Sports 4 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/104
+#EXTINF:-1 tvg-id="" tvg-name="[Tr] Bein Sports 4 SD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_295.png" group-title="[TR] Bein Sports",[Tr] Bein Sports 4 SD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/105
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN SPORTS 5 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_267.png" group-title="[TR] Bein Sports",[TR] beIN SPORTS 5 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/48684
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN SPORTS 5 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_268.png" group-title="[TR] Bein Sports",[TR] beIN SPORTS 5 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/80087
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Max 1 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_263.png" group-title="[TR] Bein Sports",[TR] Bein Sports Max 1 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/106
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Max 1 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_264.png" group-title="[TR] Bein Sports",[TR] Bein Sports Max 1 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/107
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Max 2 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_265.png" group-title="[TR] Bein Sports",[TR] Bein Sports Max 2 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/108
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Max 2 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_266.png" group-title="[TR] Bein Sports",[TR] Bein Sports Max 2 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/109
+#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈⓊⓈ SARAN SPORTS  ⓊⓈⓊⓈ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_431.png" group-title="[TR] Saran Sports",ⓊⓈⓊⓈ SARAN SPORTS  ⓊⓈⓊⓈ
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/110
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport 1 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport 1 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/111
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport 1 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_270.png" group-title="[TR] Saran Sports",[TR] S Sport 1 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/112
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport 2 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport 2 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/113
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport 2 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_270.png" group-title="[TR] Saran Sports",[TR] S Sport 2 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/114
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport Plus" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport Plus
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/115
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport+ 1" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport+ 1
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/116
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport+ 2" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport+ 2
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/117
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport+ 3" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport+ 3
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/118
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport+ 4" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport+ 4
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/119
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport+ 5" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport+ 5
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/120
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport+ 6" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport+ 6
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/121
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport+ 7" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_269.png" group-title="[TR] Saran Sports",[TR] S Sport+ 7
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/122
+#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈⓊⓈ TIVIBU SPORT ⓊⓈⓊⓈ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_433.png" group-title="[TR] Tivibu Sports",ⓊⓈⓊⓈ TIVIBU SPORT ⓊⓈⓊⓈ
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/134
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor " tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_304.png" group-title="[TR] Tivibu Sports",[TR] Tivibu Spor 
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/134693
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor 1 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_298.png" group-title="[TR] Tivibu Sports",[TR] Tivibu Spor 1 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/135
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor 1 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_299.png" group-title="[TR] Tivibu Sports",[TR] Tivibu Spor 1 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/136
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor 2 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_300.png" group-title="[TR] Tivibu Sports",[TR] Tivibu Spor 2 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/139
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor 2 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_301.png" group-title="[TR] Tivibu Sports",[TR] Tivibu Spor 2 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/140
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor 3 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_302.png" group-title="[TR] Tivibu Sports",[TR] Tivibu Spor 3 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/143
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor 3 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_303.png" group-title="[TR] Tivibu Sports",[TR] Tivibu Spor 3 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/146
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor 4 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_305.png" group-title="[TR] Tivibu Sports",[TR] Tivibu Spor 4 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/148
+#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈ ⓊⓈ SPOR MIX SPORT ⓊⓈ ⓊⓈ" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_434.png" group-title="[TR] Smart Spor & Mix",ⓊⓈ ⓊⓈ SPOR MIX SPORT ⓊⓈ ⓊⓈ
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/149
+#EXTINF:-1 tvg-id="" tvg-name="[TR] A Spor FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_330.png" group-title="[TR] Smart Spor & Mix",[TR] A Spor FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/150
+#EXTINF:-1 tvg-id="" tvg-name="[TR] A Spor HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_331.png" group-title="[TR] Smart Spor & Mix",[TR] A Spor HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/151
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Trt Spor FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_328.png" group-title="[TR] Smart Spor & Mix",[TR] Trt Spor FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/152
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Trt Spor HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_329.png" group-title="[TR] Smart Spor & Mix",[TR] Trt Spor HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/153
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Trt Spor Yıldız FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_327.png" group-title="[TR] Smart Spor & Mix",[TR] Trt Spor Yıldız FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/154
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Trt Spor Yıldız HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_326.png" group-title="[TR] Smart Spor & Mix",[TR] Trt Spor Yıldız HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/155
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Fb Tv FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_324.png" group-title="[TR] Smart Spor & Mix",[TR] Fb Tv FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/156
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Fb Tv HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_325.png" group-title="[TR] Smart Spor & Mix",[TR] Fb Tv HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/157
+#EXTINF:-1 tvg-id="" tvg-name="[TR] GS Tv HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_322.png" group-title="[TR] Smart Spor & Mix",[TR] GS Tv HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/159
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Smart Spor FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_320.png" group-title="[TR] Smart Spor & Mix",[TR] Smart Spor FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/160
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Smart Sport HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_321.png" group-title="[TR] Smart Spor & Mix",[TR] Smart Sport HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/161
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Smart Spor 2 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_318.png" group-title="[TR] Smart Spor & Mix",[TR] Smart Spor 2 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/162
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Smart Spor 2 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_319.png" group-title="[TR] Smart Spor & Mix",[TR] Smart Spor 2 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/163
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sports Tv FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_316.png" group-title="[TR] Smart Spor & Mix",[TR] Sports Tv FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/164
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sports TV HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_317.png" group-title="[TR] Smart Spor & Mix",[TR] Sports TV HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/165
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EuroSport 1 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_314.png" group-title="[TR] Smart Spor & Mix",[TR] EuroSport 1 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/166
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EuroSport 1 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_314.png" group-title="[TR] Smart Spor & Mix",[TR] EuroSport 1 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/167
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EuroSport 2 FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_312.png" group-title="[TR] Smart Spor & Mix",[TR] EuroSport 2 FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/168
+#EXTINF:-1 tvg-id="" tvg-name="[TR] EuroSport 2 HD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_313.png" group-title="[TR] Smart Spor & Mix",[TR] EuroSport 2 HD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/169
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Nba Tv FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_311.png" group-title="[TR] Smart Spor & Mix",[TR] Nba Tv FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/171
+#EXTINF:-1 tvg-id="" tvg-name="[TR] T.a.y Tv FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_310.png" group-title="[TR] Smart Spor & Mix",[TR] T.a.y Tv FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/172
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tjk Tv FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_309.png" group-title="[TR] Smart Spor & Mix",[TR] Tjk Tv FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/173
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Fight Box FHD" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_308.png" group-title="[TR] Smart Spor & Mix",[TR] Fight Box FHD
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/175
+#EXTINF:-1 tvg-id="" tvg-name="[TR] RedBull Tv" tvg-logo="https://dngresim.shop//resim/galeri_MTY0M_307.png" group-title="[TR] Smart Spor & Mix",[TR] RedBull Tv
+http://dngdnghbt.dengeresimupload.live:8080/Vist38382023/gDhecpFUzhFJ/176

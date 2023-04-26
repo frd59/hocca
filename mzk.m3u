@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bulgaria-Planeta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Planeta.tv-Logo-1-6202.jpg/revision/latest?cb=20210619173829" group-title="Bulgaria",Bulgaria-Planeta
-https://proxy.sy-static.workers.dev/http://tbs-tv.com:8080/dark/kittylinetv/3507
+https://cors.zimjs.com/http://tbs-tv.com:8080/dark/kittylinetv/3507
 #EXTINF:-1 tvg-id="   BG.FENTV   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/4/41/Fen-TV-logo.png   " group-title="MÜZİK",FEN TV
-https://proxy.sy-static.workers.dev/http://tbs-tv.com:8080/dark/kittylinetv/3524
+https://cors.zimjs.com/http://tbs-tv.com:8080/dark/kittylinetv/3524
 #EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 

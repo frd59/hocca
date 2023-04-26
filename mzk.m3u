@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="   BG.FENTV   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/4/41/Fen-TV-logo.png   " group-title="MÜZİK",FEN TV
+https://proxy.sy-static.workers.dev/http://tbs-tv.com:8080/dark/kittylinetv/3524
 #EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 
